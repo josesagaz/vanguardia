@@ -15,12 +15,12 @@
 
 [[main]]
   name = "Artículos"
-  url = "#projects"
+  url = "#featured"
   weight = 30
 
 [[main]]
   name = "Biblioteca"
-  url = "#featured"
+  url = "#accomplishments"
   weight = 40
 
 [[main]]
