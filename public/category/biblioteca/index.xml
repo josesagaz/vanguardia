@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biblioteca | La Vanguardia</title>
+    <link>/category/biblioteca/</link>
+      <atom:link href="/category/biblioteca/index.xml" rel="self" type="application/rss+xml" />
+    <description>biblioteca</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu13402f629f3321d08a8b922a7ca9cac1_82748_512x512_fill_lanczos_center_2.png</url>
+      <title>biblioteca</title>
+      <link>/category/biblioteca/</link>
+    </image>
+    
+    <item>
+      <title>José Martí. Obras completas. Edición crítica. Tomo 29</title>
+      <link>/biblioteca/jose-marti-obras-completas-edicion-critica-tomo-29/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/biblioteca/jose-marti-obras-completas-edicion-critica-tomo-29/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

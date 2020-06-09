@@ -1,48 +1,32 @@
 ---
+
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Somos un colectivo de jóvenes bolivianos en la ciudad de La Paz, soldados revolucionarios que se mantienen firmes defensores del Proceso de Cambio
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+email: "central@colectivovanguardia.com"
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
+name: Colectivo La Vanguardia
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+role: «Estoy renunciando para que mis hermanas y hermanos dirigentes, autoridades del MAS, no sigan hostigados, perseguidos, amenazados. Quiero decirles la lucha no termina acá, vamos a continuar con esta lucha por la igualdad y la paz.»
+
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/La-Vanguardia-Bolivia
+- icon: facebook
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.facebook.com/La-Vanguardia-Bolivia-109697830660220/
 superuser: true
-title: Nelson Bighetti
 user_groups:
-- Researchers
-- Visitors
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+En La Vanguardia somos un colectivo de jóvenes bolivianos en la ciudad de La Paz, soldados revolucionarios que se mantienen firmes defensores del Proceso de Cambio y con mas fuerza después del golpe de Estado que sufrió Bolivia.

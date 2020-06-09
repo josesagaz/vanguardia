@@ -1,12 +1,13 @@
----
+--- 
 title: El verdadero virus que mata
-author: Jose Quisbert M.
+author: 
 date: '2020-06-07'
 slug: el-verdadero-virus-que-mata
 categories:
   - articulos
 tags: []
-authors: []
+authors: 
+- Jose_Quisbert_M.
 doi: ''
 publishDate: '2020-06-07T18:17:28-04:00'
 publication_types:

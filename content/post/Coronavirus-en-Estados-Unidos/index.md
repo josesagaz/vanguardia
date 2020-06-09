@@ -17,6 +17,7 @@ image:
   placement: 2
   preview_only: false
 projects: []
+
 ---
 Hace muchos años que se pronostica el ocaso inevitable de la supremacía norteamericana. Pero ¿cómo probarlo? Muchos argumentos parecían nacidos más de una expresión de deseos que de una posibilidad real. Hoy, ya no hay dudas. Estrategas como Henry Kissinger, político clave en la construcción del imperio y experto como pocos en los laberintos del poder, reconocen el irremediable fin de la hegemonía estadounidense.
 
@@ -40,4 +41,5 @@ Si el invento de proclamar a Juan Guaidó como presidente trucho fue acompañado
 
 El texto de Kissinger es un llamado desesperado a los dueños del mundo por temor a que algo se vaya de las manos. Nos toca al resto, a los países poderosos y no tanto, ser campo de contención al pánico del establishment global. Es hora de defender, hasta las últimas consecuencias, los principios de paz, humanismo y no injerencia. Es la hora de la cordura.
 
-Fuente: www.pagina12.com.ar
+
+<a class="js-github-release" href="https://www.pagina12.com.ar"> Fuente: Página 12</a>
