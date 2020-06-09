@@ -7,7 +7,7 @@ categories:
   - articulos
 tags: []
 authors: 
-- Jose_Quisbert_M.
+- Jose_Quisbert_M
 doi: ''
 publishDate: '2020-06-07T18:17:28-04:00'
 publication_types:
