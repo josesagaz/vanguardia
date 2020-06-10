@@ -2,20 +2,22 @@
 name = "1950jose"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
-primary = "#EF525B"
+primary = "rgb(0, 136, 204)"
 
 # Menu
 menu_primary = "maroon"
-menu_text = "#fff"
-menu_text_active = "#00828B"
-menu_title = "#fff"
+menu_text = "rgba(251, 252, 252,1)"
+menu_text_active = "rgba(255,255,255,1)"
+menu_title = "rgb(153, 153, 153)"
 
-# Backgrounds
-background = "#EAE7D6"
-home_section_odd = "#EAE7D6"
-home_section_even = "#EAE7D6"
+# Home sections
+home_section_odd = "rgb(29, 33, 39)"
+home_section_even = "rgb(51, 58, 68 )"
 
 font = "rose"
+
+
+

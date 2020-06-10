@@ -1,9 +1,9 @@
 {
   "name": "La Vanguardia",
   "short_name": "La Vanguardia",
-  "lang": "en-us",
-  "theme_color": "#EF525B",
-  "background_color": "#EF525B",
+  "lang": "es-bo",
+  "theme_color": "rgb(0, 136, 204)",
+  "background_color": "rgb(0, 136, 204)",
   "icons": [{
     "src": "/images/icon_hu13402f629f3321d08a8b922a7ca9cac1_82748_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

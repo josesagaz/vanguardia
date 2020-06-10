@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La Vanguardia</title>
+    <link>/en/author/</link>
+      <atom:link href="/en/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>La Vanguardia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language>
+    <image>
+      <url>/en/author/avatar_hu6f978db7784ef7731b2d3af98e031a45_10676_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>La Vanguardia</title>
+      <link>/en/author/</link>
+    </image>
+    
+  </channel>
+</rss>
