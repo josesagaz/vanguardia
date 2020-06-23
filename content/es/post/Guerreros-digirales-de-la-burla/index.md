@@ -19,6 +19,7 @@ image:
 projects: []
 
 ---
+### Por Adolfo Mena González
 
 Recordaba a una ex autoridad de Santa  Cruz, el cual criticaba siempre el activismo digital y el trabajo en redes sociales (señalando que era más importante el trabajo en las bases y barrios) yo no negaba la importancia pero dejaba pensando  mucho ese su " más importante " como menospreciando el trabajo realizado por un  equipo que no se dedicaba  únicamente a crear memes sino que hacía análisis, coordinaba contenidos y posicionaba temas semanales en agenda para poder informar de logros y denunciar las falacias opositoras. Ha pasado el tiempo y esa persona que viajaba cada fin de semana so pretexto de hacer trabajo de base antes de las elecciones nos dio un resultado desastroso en Santa Cruz en cuanto a porcentaje de votación y además una penosa resistencia al golpe en tierras cambas. 
 
