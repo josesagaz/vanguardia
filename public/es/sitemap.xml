@@ -78,6 +78,56 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-23T17:09:49-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/post/guerreros-digirales-de-la-burla/</loc>
+    <lastmod>2020-06-23T17:09:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/noticias/</loc>
+    <lastmod>2020-06-23T17:09:49-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/category/noticias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/category/noticias/"
+                />
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-06-23T17:09:49-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/post/"
+                />
+  </url>
+  
+  <url>
     <loc>/biblioteca/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -273,21 +323,6 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-06-07T17:29:43-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>/post/coronavirus-en-estados-unidos-el-miedo-de-kissinger/</loc>
     <lastmod>2020-06-07T17:09:49-04:00</lastmod>
     <xhtml:link
@@ -374,36 +409,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/author/jose_quisbert_m/"
-                />
-  </url>
-  
-  <url>
-    <loc>/category/noticias/</loc>
-    <lastmod>2020-06-07T17:21:42-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/category/noticias/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/category/noticias/"
-                />
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-06-07T17:29:43-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/post/"
                 />
   </url>
   
