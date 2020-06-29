@@ -3,7 +3,7 @@ title: Respuestas sencillas a preguntas tontas
 author: 
 date: '2020-06-28'
 slug: respuestas-sencillas-a-preguntas-tontas
-twitterImg: publication/respuestas-sencillas-a-preguntas-tontas/featured.jpg
+twitterImg: https://lavanguardia.netlify.app/publication/respuestas-sencillas-a-preguntas-tontas/featured.jpg
 categories:
   - articulos
 tags: []
