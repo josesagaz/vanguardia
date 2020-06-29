@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>La Vanguardia</title>
-    <link>/en/author/</link>
-      <atom:link href="/en/author/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lavanguardia.netlify.app/en/author/</link>
+      <atom:link href="https://lavanguardia.netlify.app/en/author/index.xml" rel="self" type="application/rss+xml" />
     <description>La Vanguardia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language>
     <image>
-      <url>/images/icon_hu13402f629f3321d08a8b922a7ca9cac1_82748_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lavanguardia.netlify.app/images/icon_hu13402f629f3321d08a8b922a7ca9cac1_82748_512x512_fill_lanczos_center_2.png</url>
       <title>La Vanguardia</title>
-      <link>/en/author/</link>
+      <link>https://lavanguardia.netlify.app/en/author/</link>
     </image>
     
   </channel>
