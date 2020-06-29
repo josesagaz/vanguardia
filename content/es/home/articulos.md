@@ -1,7 +1,7 @@
 +++
 ###############################################################################
 #
-# estos articulos tienen que ser guardados en el folder 'publicacion'
+# estos articulos tienen que ser guardados en el folder 'publication'
 #
 ###############################################################################
 # A Featured Publications section created with the Featured Content widget.
@@ -21,13 +21,13 @@ subtitle = "Artículos escogidos"
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 3
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
   # Show a "See all pages" link underneath the featured content?
-  link_to_archive = false
+  link_to_archive = true
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -42,7 +42,7 @@ subtitle = "Artículos escogidos"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
