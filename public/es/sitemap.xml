@@ -63,6 +63,21 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/"
+                />
+  </url>
+  
+  <url>
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
@@ -78,8 +93,38 @@
   </url>
   
   <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication-type/0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication-type/0/"
+                />
+  </url>
+  
+  <url>
+    <loc>/category/articulos/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/category/articulos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/category/articulos/"
+                />
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -90,6 +135,41 @@
                 hreflang="es"
                 href="/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/respuestas-sencillas-a-preguntas-tontas/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -253,21 +333,6 @@
   </url>
   
   <url>
-    <loc>/publication-type/0/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication-type/0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication-type/0/"
-                />
-  </url>
-  
-  <url>
     <loc>/author/anibal_urquieta/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -279,21 +344,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/author/anibal_urquieta/"
-                />
-  </url>
-  
-  <url>
-    <loc>/category/articulos/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/category/articulos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/category/articulos/"
                 />
   </url>
   
@@ -433,36 +483,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication/"
-                />
-  </url>
-  
-  <url>
     <loc>/publication/su-verdadero-rostro/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -523,21 +543,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/"
-                />
-  </url>
-  
-  <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -579,6 +584,10 @@
                 hreflang="es"
                 href="/author/"
                 />
+  </url>
+  
+  <url>
+    <loc>/author/gabo_campero_n./</loc>
   </url>
   
   <url>
