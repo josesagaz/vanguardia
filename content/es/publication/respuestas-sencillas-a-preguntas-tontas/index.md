@@ -44,7 +44,7 @@ La finalidad del presente artículo radica en exponer las preguntas risorias, ll
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hp6rs5404zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Periodista: ¿Qué hizo el MAS en 14 años por la salud? 
+**Periodista:** *¿Qué hizo el MAS en 14 años por la salud?*
 
 Respuesta: En primer lugar el MAS lo que hizo a través de las autonomías (autonomías por las cuales votaron todos y estuvieron de acuerdo) y mediante la ley 3131 fue otorgar la posibilidad de que las ETAS también puedan utilizar sus recursos en salud para poder crear ITEMS para médicos, comprar insumos y poder hacer infraestructura para salud ( hospitales de 1er y 2do nivel caso de municipios y hospitales de 3er nivel en caso de gobernaciones) en este caso hay un ejemplo vergonzoso y es el caso del alcalde de cbba el sr Joe María Leyes el cual mediante dicha normativa en lugar de crear ítems de médicos uso esos recursos para crear ítems para personal administrativo.<br />
 [eju! -- 25/09/2017](https://eju.tv/2017/09/critican-incremento-a-items-administrativos-en-la-alcaldia-de-cochabamba/)
