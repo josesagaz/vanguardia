@@ -1,5 +1,6 @@
 ---
-title: La baja tasa de recuperación de covid-19 en bolivia, como resultado de una mala gestión 
+title: La baja tasa de recuperación de Covid-19 en bolivia  
+subtitle: como resultado de una mala gestión
 author: 
 date: '2020-07-02'
 slug: La-baja-tasa-de-recuperacion
@@ -14,7 +15,7 @@ publication_types:
   - '0'
 publication: ''
 publication_short: ''
-abstract: ''
+abstract: 'El avance de la pandemia en el mundo es inminente, hasta el 30 de junio se sumaban más de 10.2 millones de casos confirmados, más de 500 mil decesos, y más de 5.2 millones de habitantes recuperados.'
 summary: ''
 featured: yes
 url_pdf: ~
@@ -33,9 +34,9 @@ projects: []
 slides: ''
 
 ---
+El avance de la pandemia en el mundo es inminente, hasta el 30 de junio se sumaban más de 10.2 millones de casos confirmados, más de 500 mil decesos, y más de 5.2 millones de habitantes recuperados. 
 
-
-El avance de la pandemia en el mundo es inminente, hasta el 30 de junio se sumaban más de 10.2 millones de casos confirmados, más de 500 mil decesos, y más de 5.2 millones de habitantes recuperados. Estas cifras van cobrando un peso cada vez mayor para nosotros, pues a partir de mayo el epicentro de la pandemia se ha trasladado al continente americano, lugar donde se concentra la mayor cantidad de casos y decesos respectivamente. Entre los países que concentran el mayor porcentaje de casos se encuentra E.E.U.U. y Brasil, sin embargo estos países también cuentan con un porcentaje alto de recuperación. Así mismo, debemos resaltar que Cuba tiene un total de 93% de tasa de recuperación, siendo un país con características demográficas semejantes a las de Bolivia. En nuestro país, la relación entre el porcentaje de casos y porcentaje de recuperados muestra un panorama desalentador, pues la tasa de recuperación se encuentra muy por debajo de varios países de la región. Haciendo un análisis de los factores que inciden en esta diferencia en la taza de recuperación, podemos señalar que la misma se debe una gestión ineficiente de la pandemia en Bolivia, y de continuar así, se cobrará la vida de más habitantes. 
+Estas cifras van cobrando un peso cada vez mayor para nosotros, pues a partir de mayo el epicentro de la pandemia se ha trasladado al continente americano, lugar donde se concentra la mayor cantidad de casos y decesos respectivamente. Entre los países que concentran el mayor porcentaje de casos se encuentra E.E.U.U. y Brasil, sin embargo estos países también cuentan con un porcentaje alto de recuperación. Así mismo, debemos resaltar que Cuba tiene un total de 93% de tasa de recuperación, siendo un país con características demográficas semejantes a las de Bolivia. En nuestro país, la relación entre el porcentaje de casos y porcentaje de recuperados muestra un panorama desalentador, pues la tasa de recuperación se encuentra muy por debajo de varios países de la región. Haciendo un análisis de los factores que inciden en esta diferencia en la taza de recuperación, podemos señalar que la misma se debe una gestión ineficiente de la pandemia en Bolivia, y de continuar así, se cobrará la vida de más habitantes. 
 
 [Fuente: Elaboración propia en base a datos, OMS, JHU](https://www.rtve.es/noticias/20200702/mapa-mundial-del-coronavirus/1998143.shtml)
 
@@ -43,6 +44,7 @@ Según el comportamiento del COVID-19 en Bolivia hasta el primero de julio, se o
 
 Para ejemplificar mejor esta información se explica lo siguiente:
 
+![Tabla](tabla.jpg)
 [Fuente: Elaboración propia en base a datos de Bolivia segura](https://www.boliviasegura.gob.bo/)
 
 Los factores que inciden de manera directa en la baja tasa de recuperación en nuestro país, tienen que ver con cuatros aspectos de la gestión de la pandemia: 1. La limitada capacidad de testeos a nivel nacional, 2. La falta de seguimiento, acompañamiento y fiscalización del ente rector (Ministerio de salud), 3. La falta de coordinación en el manejo de la pandemia en los niveles nacional, departamental y municipal y 4. La ausencia de un enfoque científico para el tratamiento del COVID-19. 
