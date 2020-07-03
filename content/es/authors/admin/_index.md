@@ -8,8 +8,6 @@ education:
 email: "central@colectivovanguardia.com"
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 name: Colectivo La Vanguardia
 organizations:
 role: «Estoy renunciando para que mis hermanas y hermanos dirigentes, autoridades del MAS, no sigan hostigados, perseguidos, amenazados. Quiero decirles la lucha no termina acá, vamos a continuar con esta lucha por la igualdad y la paz.»
@@ -18,9 +16,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/La-Vanguardia-Bolivia
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/La-Vanguardia-Bolivia
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/La-Vanguardia-Bolivia-109697830660220/

@@ -610,18 +610,4 @@
     <loc>/author/gabo_campero_n./</loc>
   </url>
   
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/%E5%90%B3%E6%81%A9%E9%81%94/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/author/%E5%90%B3%E6%81%A9%E9%81%94/"
-                />
-  </url>
-  
 </urlset>
