@@ -1,5 +1,5 @@
 --- 
-title: Represión en kara kara, crisis sanitaria y humanitaria en bolivia
+title: Represión en Kara Kara, crisis sanitaria y humanitaria en Bolivia
 subtitle: Gobierno de facto
 author: 
 date: '2020-07-04'
