@@ -94,7 +94,7 @@
   
   <url>
     <loc>/publication-type/0/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -108,8 +108,23 @@
   </url>
   
   <url>
+    <loc>/author/anibal_urquieta/</loc>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/anibal_urquieta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/author/anibal_urquieta/"
+                />
+  </url>
+  
+  <url>
     <loc>/category/articulos/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -124,7 +139,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -139,7 +154,7 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -153,18 +168,8 @@
   </url>
   
   <url>
-    <loc>/author/colectivo_sinchi_warmis/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/la-baja-tasa-de-recuperacion/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -179,7 +184,7 @@
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -190,6 +195,21 @@
                 hreflang="es"
                 href="/publication/"
                 />
+  </url>
+  
+  <url>
+    <loc>/publication/represion-en-kara-kara/</loc>
+    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/colectivo_sinchi_warmis/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/la-baja-tasa-de-recuperacion/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -358,21 +378,6 @@
   </url>
   
   <url>
-    <loc>/author/anibal_urquieta/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/anibal_urquieta/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/author/anibal_urquieta/"
-                />
-  </url>
-  
-  <url>
     <loc>/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -490,11 +495,6 @@
                 hreflang="es"
                 href="/post/pronunciamiento-de-la-izquierda/"
                 />
-  </url>
-  
-  <url>
-    <loc>/publication/represion-en-kara-kara/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>

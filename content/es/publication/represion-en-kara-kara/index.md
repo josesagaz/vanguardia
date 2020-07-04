@@ -2,7 +2,7 @@
 title: Represión en kara kara, crisis sanitaria y humanitaria en bolivia
 subtitle: Gobierno de facto
 author: 
-date: '2020-06-07'
+date: '2020-07-04'
 slug: represion-en-kara-kara
 categories:
   - articulos
@@ -10,10 +10,10 @@ tags: []
 authors: 
 - Anibal_Urquieta
 doi: ''
-publishDate: '2020-07-04'
+publishDate: ''
 publication_types:
   - '0'
-publication: '2020-07-04'
+publication: ''
 publication_short: ''
 abstract: ''
 summary: ''
