@@ -34,7 +34,7 @@ projects: []
 slides: ''
 ---
 
-La mañana de este sábado 4 de julio de 2020, la brutalidad de la violencia fascista y racista del gobierno de facto, se volvió a enseñar con la gente más humilde de la zona sur de [#Cochabamba](), específicamente de [#KaraKara](), colindante con el botadero municipal de esta ciudad. 
+La mañana de este sábado 4 de julio de 2020, la brutalidad de la violencia fascista y racista del gobierno de facto, se volvió a ensañar con la gente más humilde de la zona sur de [#Cochabamba](), específicamente de [#KaraKara](), colindante con el botadero municipal de esta ciudad. 
 
 Una violenta y desmedida represión de un contingente de policías y militares, apoyados por el sobrevuelo de aviones de combate y helicópteros, armados como si estuvieran yendo a recuperar el mar, fue la respuesta a hombres y mujeres diezmados por la pandemia del coronavirus y el hambre. Recordemos que los pobladores de Kara Kara están en emergencia hace semanas atrás pidiendo, entre otras cosas: la libertad de 3 detenidos que fueron trasladados a La Paz; condiciones de trabajo para poder subsistir junto a sus familias; reactivación del proyecto del Tren Metropolitano, que iba a traer empleo directo e indirecto a miles de familias; cumplimiento de la subvención del pago de facturas de luz mientras dure la cuarentena; pago de las deudas a los bancos hasta 6 meses después de concluida la cuarentena; conformación de brigadas vecinales para repartir, de forma gratuita, medicina natural a los pobladores para que puedan combatir el COVID-19 ante la total desatención de las autoridades nacionales y municipales, entre otros justos pedidos. 
 
