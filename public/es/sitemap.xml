@@ -94,7 +94,7 @@
   
   <url>
     <loc>/publication-type/0/</loc>
-    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -104,6 +104,91 @@
                 rel="alternate"
                 hreflang="es"
                 href="/publication-type/0/"
+                />
+  </url>
+  
+  <url>
+    <loc>/category/articulos/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/category/articulos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/category/articulos/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/bolivia-en-una-encrucijada/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/orlando_flores/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/"
                 />
   </url>
   
@@ -123,81 +208,6 @@
   </url>
   
   <url>
-    <loc>/category/articulos/</loc>
-    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/category/articulos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/category/articulos/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-07-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication/"
-                />
-  </url>
-  
-  <url>
     <loc>/publication/represion-en-kara-kara/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
   </url>
@@ -210,6 +220,11 @@
   <url>
     <loc>/publication/la-baja-tasa-de-recuperacion/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gabo_campero_n/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -254,7 +269,7 @@
   
   <url>
     <loc>/post/guerreros-digirales-de-la-burla/</loc>
-    <lastmod>2020-06-23T17:09:49-04:00</lastmod>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -423,21 +438,6 @@
   </url>
   
   <url>
-    <loc>/category/documento/</loc>
-    <lastmod>2020-06-07T17:29:43-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/category/documento/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/category/documento/"
-                />
-  </url>
-  
-  <url>
     <loc>/publication/el-verdadero-virus-que-mata/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -483,18 +483,8 @@
   </url>
   
   <url>
-    <loc>/post/pronunciamiento-de-la-izquierda/</loc>
-    <lastmod>2020-06-07T17:29:43-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/post/pronunciamiento-de-la-izquierda/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/post/pronunciamiento-de-la-izquierda/"
-                />
+    <loc>/publication/pronunciamiento-de-la-izquierda/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -609,10 +599,6 @@
                 hreflang="es"
                 href="/author/"
                 />
-  </url>
-  
-  <url>
-    <loc>/author/gabo_campero_n./</loc>
   </url>
   
 </urlset>

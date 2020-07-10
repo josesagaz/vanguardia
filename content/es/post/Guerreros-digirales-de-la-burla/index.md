@@ -9,7 +9,7 @@ tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2020-06-23T17:09:49-04:00'
+lastmod: '2020-06-23'
 featured: no
 image:
   caption: 'Guerreros digitales, de la burla a la gloria'

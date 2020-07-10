@@ -4,12 +4,14 @@ author: Organizaciones Revolucionarias
 date: '2020-06-07'
 slug: pronunciamiento-de-la-izquierda
 categories:
-  - documento
+  - articulos
 tags: []
 subtitle: ''
 summary: ''
+publication_types:
+  - '0'
 authors: []
-lastmod: '2020-06-07T17:29:43-04:00'
+lastmod: '2020-06-07'
 featured: no
 image:
   caption: ''

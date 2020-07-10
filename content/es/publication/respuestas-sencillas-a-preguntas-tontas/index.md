@@ -1,14 +1,16 @@
 ---
 title: Respuestas sencillas a preguntas tontas
-author: 
+author:
 date: '2020-06-28'
 slug: respuestas-sencillas-a-preguntas-tontas
-# twitterImg: https://lavanguardia.netlify.app/publication/respuestas-sencillas-a-preguntas-tontas/featured.jpg
 categories:
   - articulos
 tags: []
-authors: 
-- Gabo_Campero_N.
+subtitle: ''
+summary: ''
+authors:
+- Gabo_Campero_N
+lastmod: '2020-06-28'
 doi: ''
 publishDate: '2020-06-28'
 publication_types:
@@ -27,7 +29,7 @@ url_slides: ~
 url_source: ~
 url_video: ~
 image:
-  caption: ''
+  caption: 'Información comparativa sobre la Covid-19 entre Bolivia y Cuba'
   focal_point: ''
   preview_only: no
 projects: []
@@ -41,7 +43,7 @@ Van 3 entrevistas a #LuchoArce que he logrado escuchar y ver: 2 en televisión, 
 
 Debo destacar lo miserable en cuanto a las entrevistas de los 3 medios, pero rescato más al periodista de ERBOL ya que fue el que permitió que Lucho pueda exponer más detalladamente las respuestas y además programa de gobierno (que en realidad es lo poco o nulo que preguntan los periodistas).
 
-La finalidad del presente artículo radica en exponer las preguntas risorias, llegando a lo estupido de cada una de ellas y a la vez dar una respuesta, en algunos casos Lucho las ha expresado muy bien pero no han dejado completar la respuesta, ya que la supuesta frase de que "el tiempo en televisión es oro" limita ampliar y colocar en contexto las respuestas que el candidato por el MAS IPSP (osea candidato del partido en el cual militó) otorga a periodistas que se deben al dueño del medio de comunicación. 
+La finalidad del presente artículo radica en exponer las preguntas risorias, llegando a lo estupido de cada una de ellas y a la vez dar una respuesta, en algunos casos Lucho las ha expresado muy bien pero no han dejado completar la respuesta, ya que la supuesta frase de que "el tiempo en televisión es oro" limita ampliar y colocar en contexto las respuestas que el candidato por el MAS IPSP (osea candidato del partido en el cual militó) otorga a periodistas que se deben al dueño del medio de comunicación.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hp6rs5404zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -55,19 +57,19 @@ La finalidad del presente artículo radica en exponer las preguntas risorias, ll
 Pese a esas autonomías y normativa el Gobierno Central a la cabeza de Evo Morales decide invertir en salud como nunca antes en la historia republicana se había hecho, de 14.900 millones de bolivianos que se invirtió entre los años 1980 al 2005 se invertio en salud 102.000 millones de bolivianos en el periodo 2006 al 2019, en pocas se invirtió 6 veces más en 14 años que en 25 años de neoliberalismo. Para ver en que se invirtió ver tabla adjunta
 ![para ver en que se invirtió ver tabla adjunta](tabla.jpg)
 
-Prueba de esos logros están algunos datos interesantes como ser la disminución de la tasa de mortalidad materna infantil. <br /> 
-[Los Tiempos -- 19/12/2017](https://www.lostiempos.com/actualidad/cochabamba/20171219/mortalidad-infantil-baja-50) <br /> 
-[teleSUR -- Publicado 19/01/2018](https://www.telesurtv.net/news/Bolivia-reduce-indices-de-mortalidad-y-desnutricion-infantil-20180119-0004.html)<br /> [el Periódico -- 12/06/2019](https://www.elperiodico-digital.com/2019/06/12/tasa-de-mortalidad-materno-infantil-reduce-en-un-50/) <br /> 
+Prueba de esos logros están algunos datos interesantes como ser la disminución de la tasa de mortalidad materna infantil. <br />
+[Los Tiempos -- 19/12/2017](https://www.lostiempos.com/actualidad/cochabamba/20171219/mortalidad-infantil-baja-50) <br />
+[teleSUR -- Publicado 19/01/2018](https://www.telesurtv.net/news/Bolivia-reduce-indices-de-mortalidad-y-desnutricion-infantil-20180119-0004.html)<br /> [el Periódico -- 12/06/2019](https://www.elperiodico-digital.com/2019/06/12/tasa-de-mortalidad-materno-infantil-reduce-en-un-50/) <br />
 O como ser la elevación de la esperanza de vida <br />
 [Página Siete -- 15/06/2017](https://www.paginasiete.bo/sociedad/2017/6/15/esperanza-vida-pais-subio-anos-141224.html)<br />
-[El Deber -- 06/07/2019](https://eldeber.com.bo/133382_hay-mas-gente-longeva-en-bolivia-la-esperanza-de-vida-subio-a-73-anos)<br /> 
+[El Deber -- 06/07/2019](https://eldeber.com.bo/133382_hay-mas-gente-longeva-en-bolivia-la-esperanza-de-vida-subio-a-73-anos)<br />
 Como lograrán observar son fuentes de medios de comunicación impresos y ninguno corresponde a una agencia dependiente del Gobierno Central que en ese entonces estaba a cargo del MAS. Esos datos ya nos hablan de logros de salud y que son directamente proporcionales con las políticas asumidas por el gobierno en cuanto a salud.
 
-Ante estos ejemplos y demostrando cuanto se incrementó el presupuesto en salud y las compras e insumos otorgados, se puede decir que el MAS hizo mucho en cuanto salud durante su gobierno, efectivamente se puede hacer más cosas pero la coyuntura era diferente en cuanto a la actual. Ningún sistema de salud estaba preparado para la pandemia, pero pese a ello y eso es lo que reclamamos desde el MAS es que se pudo hacer una gestión mejor que la que realiza y realizó el actual gobierno de facto, para dicho ejemplo es bueno tomar referencia a Cuba y Venezuela, países satanizados por el actual gobierno, bloqueados económicamente pero pese a ello demostraron una excelente gestión de la pandemia. 
+Ante estos ejemplos y demostrando cuanto se incrementó el presupuesto en salud y las compras e insumos otorgados, se puede decir que el MAS hizo mucho en cuanto salud durante su gobierno, efectivamente se puede hacer más cosas pero la coyuntura era diferente en cuanto a la actual. Ningún sistema de salud estaba preparado para la pandemia, pero pese a ello y eso es lo que reclamamos desde el MAS es que se pudo hacer una gestión mejor que la que realiza y realizó el actual gobierno de facto, para dicho ejemplo es bueno tomar referencia a Cuba y Venezuela, países satanizados por el actual gobierno, bloqueados económicamente pero pese a ello demostraron una excelente gestión de la pandemia.
 
 **Periodista:** *¿Por qué hicieron más "canchitas" que hospitales?*
 
-**Respuesta:** Nuevamente es bueno referirnos a lo de las autonomías del anterior punto y además señalar lo siguiente: las canchas son proyectos que se ejecutaban a través del programa "Bolivia Cambia Evo Cumple", esos proyectos eran presentados por los municipios y gobernaciones para posteriormente ser analizados y aprobados, en pocas, las canchas eran solicitadas por parte de autoridades sub nacionales, no eran iniciativa del Gobierno Central, lo segundo no podemos hablar que una cancha es igual a un hospital, deben tener condiciones ( vias de acceso al hospital, agua potable, electricidad entre algunos) y esos proyectos y siendo muy críticos pocas autoridades y empresas podían realizarlos. ( lo cual nos hace un llamado de atención a nuestras universidades autonomas, no exisitan muchos profesionales capaces de construir hospitales de 3er y 4to nivel, por ello se citaba a licitaciones internacionales y por otro lado si podias construir el hospital con que profesionales especialistas en salud ibas a dar atención a dichos hospirales) por tanto no se puede hablar de construir hospitales como hacer canchas y pese a ello se realizaron varios hospitales en la gestión de Evo Morales. ( adjunto cuadro informativo)<br /> 
+**Respuesta:** Nuevamente es bueno referirnos a lo de las autonomías del anterior punto y además señalar lo siguiente: las canchas son proyectos que se ejecutaban a través del programa "Bolivia Cambia Evo Cumple", esos proyectos eran presentados por los municipios y gobernaciones para posteriormente ser analizados y aprobados, en pocas, las canchas eran solicitadas por parte de autoridades sub nacionales, no eran iniciativa del Gobierno Central, lo segundo no podemos hablar que una cancha es igual a un hospital, deben tener condiciones ( vias de acceso al hospital, agua potable, electricidad entre algunos) y esos proyectos y siendo muy críticos pocas autoridades y empresas podían realizarlos. ( lo cual nos hace un llamado de atención a nuestras universidades autonomas, no exisitan muchos profesionales capaces de construir hospitales de 3er y 4to nivel, por ello se citaba a licitaciones internacionales y por otro lado si podias construir el hospital con que profesionales especialistas en salud ibas a dar atención a dichos hospirales) por tanto no se puede hablar de construir hospitales como hacer canchas y pese a ello se realizaron varios hospitales en la gestión de Evo Morales. ( adjunto cuadro informativo)<br />
 ![](Establecimientos1.jpg)
 ![](Establecimientos2.jpg)
 ![](Establecimientos3.jpg)
