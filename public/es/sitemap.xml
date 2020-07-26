@@ -94,7 +94,7 @@
   
   <url>
     <loc>/publication-type/0/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -109,7 +109,7 @@
   
   <url>
     <loc>/category/articulos/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -124,7 +124,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -138,13 +138,8 @@
   </url>
   
   <url>
-    <loc>/publication/bolivia-en-una-encrucijada/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -158,13 +153,18 @@
   </url>
   
   <url>
-    <loc>/author/orlando_flores/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <loc>/author/gabo_campero_n/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/musk-y-el-litio/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -179,7 +179,7 @@
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -190,6 +190,16 @@
                 hreflang="es"
                 href="/publication/"
                 />
+  </url>
+  
+  <url>
+    <loc>/publication/bolivia-en-una-encrucijada/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/orlando_flores/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -220,11 +230,6 @@
   <url>
     <loc>/publication/la-baja-tasa-de-recuperacion/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/gabo_campero_n/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
