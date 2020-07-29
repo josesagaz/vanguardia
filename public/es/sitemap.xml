@@ -94,7 +94,7 @@
   
   <url>
     <loc>/publication-type/0/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -108,8 +108,13 @@
   </url>
   
   <url>
+    <loc>/author/adolfo_mena_gonzales/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/category/articulos/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -124,7 +129,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -139,7 +144,7 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -154,7 +159,7 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -169,7 +174,7 @@
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -180,6 +185,11 @@
                 hreflang="es"
                 href="/publication/"
                 />
+  </url>
+  
+  <url>
+    <loc>/publication/responsabilidad-revolucionaria/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
