@@ -94,7 +94,7 @@
   
   <url>
     <loc>/publication-type/0/</loc>
-    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -108,13 +108,13 @@
   </url>
   
   <url>
-    <loc>/author/adolfo_mena_gonzales/</loc>
-    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+    <loc>/publication/analisis-comportamiento-pandemia/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/category/articulos/</loc>
-    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -129,7 +129,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -144,7 +144,7 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -158,8 +158,13 @@
   </url>
   
   <url>
+    <loc>/author/colectivo_sinchi_warmis/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -174,7 +179,7 @@
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -185,6 +190,11 @@
                 hreflang="es"
                 href="/publication/"
                 />
+  </url>
+  
+  <url>
+    <loc>/author/adolfo_mena_gonzales/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -240,11 +250,6 @@
   <url>
     <loc>/publication/represion-en-kara-kara/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/colectivo_sinchi_warmis/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -605,11 +610,6 @@
                 hreflang="es"
                 href="/privacy/"
                 />
-  </url>
-  
-  <url>
-    <loc>/terms-old/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
