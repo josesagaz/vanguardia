@@ -10,7 +10,7 @@ authors:
 - Colectivo_Sinchi_Warmis
 publication_types:
   - '0'
-summary: ''
+summary: 'Transcurridos más de 160 días desde el inicio del brote de la COVID-19 en el país, el comité científico del gobierno transitorio en base a sus ¨sabias proyecciones¨ hizo que el Tribunal Supremo Electoral '
 featured: yes
 ---
 
