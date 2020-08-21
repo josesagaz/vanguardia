@@ -93,8 +93,13 @@
   </url>
   
   <url>
+    <loc>/publication/viva-el-chato/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/0/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -108,13 +113,8 @@
   </url>
   
   <url>
-    <loc>/publication/analisis-comportamiento-pandemia/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/category/articulos/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -129,7 +129,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -144,7 +144,7 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -158,13 +158,13 @@
   </url>
   
   <url>
-    <loc>/author/colectivo_sinchi_warmis/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <loc>/author/fernando_c_m/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -179,7 +179,7 @@
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -190,6 +190,16 @@
                 hreflang="es"
                 href="/publication/"
                 />
+  </url>
+  
+  <url>
+    <loc>/publication/analisis-comportamiento-pandemia/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/colectivo_sinchi_warmis/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
