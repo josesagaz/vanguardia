@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soren | La Vanguardia</title>
-    <link>/author/soren/</link>
-      <atom:link href="/author/soren/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lavanguardia.netlify.app/author/soren/</link>
+      <atom:link href="https://lavanguardia.netlify.app/author/soren/index.xml" rel="self" type="application/rss+xml" />
     <description>Soren</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020</copyright><lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu13402f629f3321d08a8b922a7ca9cac1_82748_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lavanguardia.netlify.app/images/icon_hu13402f629f3321d08a8b922a7ca9cac1_82748_512x512_fill_lanczos_center_2.png</url>
       <title>Soren</title>
-      <link>/author/soren/</link>
+      <link>https://lavanguardia.netlify.app/author/soren/</link>
     </image>
     
     <item>
       <title>Tiempos de pandemia</title>
-      <link>/publication/tiempos-de-pandemia/</link>
+      <link>https://lavanguardia.netlify.app/publication/tiempos-de-pandemia/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tiempos-de-pandemia/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/tiempos-de-pandemia/</guid>
       <description>&lt;p&gt;&lt;strong&gt;¿La educación virtual eficaz y excluyente?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;En los últimos 6 meses estamos viendo un nuevo método de educación ya que debido a los últimos acontecimientos con la pandemia es imposible pensar en el antiguo método clásico, pero, ¿estamos seguros de que este método está funcionando o por lo menos está llegando a todos?&lt;/p&gt;
 &lt;p&gt;Bueno, para esto tenemos que ver primero si la educación era accesible para todos antes de la pandemia, según fuentes de la &lt;strong&gt;UNESCO&lt;/strong&gt;, para la gestión 2005, de cada 100 estudiantes matriculados en educación regular, 6 abandonaban sus estudios; en 2018, de cada 100 solo abandonaron la escuela 3 estudiantes, siendo las mujeres las que menos lo hacen. Estos resultados demuestran que, nuestros estudiantes no solo acceden en mejores condiciones al sistema, sino que permanecen en el mismo.&lt;/p&gt;

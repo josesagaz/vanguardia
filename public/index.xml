@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>La Vanguardia</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lavanguardia.netlify.app/</link>
+      <atom:link href="https://lavanguardia.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>La Vanguardia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu13402f629f3321d08a8b922a7ca9cac1_82748_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lavanguardia.netlify.app/images/icon_hu13402f629f3321d08a8b922a7ca9cac1_82748_512x512_fill_lanczos_center_2.png</url>
       <title>La Vanguardia</title>
-      <link>/</link>
+      <link>https://lavanguardia.netlify.app/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>https://lavanguardia.netlify.app/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>https://lavanguardia.netlify.app/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>https://lavanguardia.netlify.app/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>https://lavanguardia.netlify.app/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example/</link>
+      <link>https://lavanguardia.netlify.app/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
+      <guid>https://lavanguardia.netlify.app/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -77,10 +77,123 @@
     </item>
     
     <item>
+      <title>Iniciativa “América Crece”: América Latina para EE. UU.</title>
+      <link>https://lavanguardia.netlify.app/publication/iniciativa-america-crece/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://lavanguardia.netlify.app/publication/iniciativa-america-crece/</guid>
+      <description>&lt;p&gt;El 16 de diciembre de 2019, la Agencia de Comercio y Desarrollo de los Estados Unidos (USTDA) publicó la convocatoria para proyectos de infraestructura digital en América Latina y El Caribe (ALC), incluyendo la instalación de cable de fibra óptica, comunicaciones satelitales, conectividad y banda ancha, automatización de servicios públicos entre otros objetivos.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Esto se inscribe en el marco de la “Iniciativa América Crece”, que agrupa proyectos de energía e infraestructura con el sello de la actual gestión republicana. Ahora se suman proyectos en comunicaciones, ciberseguridad, servicios digitales, modernización de puertos, carreteras, aeropuertos y transportes, sobre todo de mercancías.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Este impulso se inscribe en el America First de Donald Trump: la expansión de la economía estadounidense en un continente en disputa con otras potencias, como China y Rusia, destacando la competencia con China en aspectos comerciales, telecomunicaciones y de infraestructura.&lt;/p&gt;
+&lt;p&gt;La Iniciativa América Crece es responsabilidad de varias agencias y departamentos del Gobierno estadounidense como el Departamento de Estado, del Tesoro, de Comercio y de Energía. Además, están la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID), la USTDA y la Corporación para la Inversión Privada en el Extranjero (OPIC), que cambió su nombre a Corporación Financiera Internacional para el Desarrollo de los Estados Unidos (DFC).&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; Desde 2018 se anunció una reestructuración de USAID y OPIC con la Ley BUILD.&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Uno de los aspectos más relevantes es el que se refiere a nuevos marcos regulatorios y estructuras de adquisiciones y compras gubernamentales abiertos, transparentes y de fácil consulta vía internet. México es el mejor ejemplo, donde la USAID ha financiado la adopción del Estándar de Datos de Contratación Abiertos (OCDS, por sus siglas en inglés).&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Vale destacar que la creación y expansión de estos marcos regulatorios forman parte de las estrategias del Gobierno estadounidense para garantizar estabilidad o certidumbre a sus principales empresas privadas que, si bien trascienden a la administración actual, se inscriben en un giro importante dado por el Gobierno de Trump. Desde su llegada al Ejecutivo, Trump recortó el presupuesto en asistencia para el desarrollo (especialmente el que corría por la vía bilateral). La asistencia es una forma de inversión (aunque no se presente así a nivel de discurso oficial) y, como tal, genera endeudamiento y atadura a determinadas condiciones para recibirla. En la actual gestión, se propicia la inversión de modo más directo vía sector privado y corporaciones empresariales (como la OPIC), a tono con el tipo de objetivos y retórica republicana, pero que de igual modo garantiza el acceso a mercados y el endeudamiento por parte de países receptores.&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;américa-crece-o-la-expansión-de-ee-uu-en-américa-latina&#34;&gt;América Crece (o la expansión de EE. UU. en América Latina)&lt;/h2&gt;
+&lt;p&gt;La Iniciativa América Crece incluye a la mayoría de los países de ALC, excepto a Venezuela, Cuba y Nicaragua que están fuera por motivos políticos, geopolíticos y que, además, cuentan con sanciones económicas que tienen por objetivo deponer a los actuales gobiernos.&lt;/p&gt;
+&lt;p&gt;El caso de México es de vital importancia. El nuevo T-MEC incorpora nuevos aspectos en materia laboral, energética y apertura de sectores estratégicos que comenzaron gradualmente desde la década de los noventa (y que, debido a las reformas estructurales de 2012, sectores como telecomunicaciones e hidrocarburos, adquirieron mayor relevancia). Precisamente, uno de los planes para el sector privado estadounidense se encuentra en la guía “Grandes Proyectos de Infraestructura en México” publicada por la USTDA en 2014.&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; Hacia 2019 varios proyectos comienzan a materializarse en materia energética y faltan otros como el proyecto del tren transpeninsular, proyecto de larga data que ha sido uno de los principales objetivos de Estados Unidos (EE. UU.) en México desde el siglo XIX (Tratado McLane-Ocampo). Por último, el Plan de Desarrollo para Centroamérica propuesto por Andrés Manuel López Obrador (AMLO), contará con recursos de EE. UU. y también de la Unión Europea.&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;En el Caribe, como hemos informado,&lt;sup id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; una de las grandes apuestas es en energía. Para 2020 está pensada la creación de la Terminal de Gas Natural Licuado (GNL) y de la Planta de Energía en República Dominicana.&lt;sup id=&#34;fnref:10&#34;&gt;&lt;a href=&#34;#fn:10&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;10&lt;/a&gt;&lt;/sup&gt; Este es uno de los rubros en disputa con China, país que también tiene proyectos de infraestructura energética en esa región.&lt;/p&gt;
+&lt;p&gt;El único proyecto subregional es para los países del Triángulo Norte de Centroamérica, donde se planea el desarrollo de infraestructura en comunicaciones, transportes y energía. En Honduras, uno de los proyectos energéticos ya construidos fue la planta geotérmica de Platanares. Dicha planta fue construida por la empresa estadounidense Ormat Technologies y Electricidad Cortes. Actualmente suministra energía a cien mil hogares&lt;sup id=&#34;fnref:11&#34;&gt;&lt;a href=&#34;#fn:11&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;11&lt;/a&gt;&lt;/sup&gt; y fue uno de los proyectos que contó con apoyo del BID/USTDA.&lt;/p&gt;
+&lt;p&gt;En Guatemala los proyectos ya anunciados fueron la construcción de vivienda social y un parque industrial; un plan de interconexión eléctrica y la construcción de un tramo carretero que sería privado.&lt;sup id=&#34;fnref:12&#34;&gt;&lt;a href=&#34;#fn:12&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;12&lt;/a&gt;&lt;/sup&gt; El proyecto de interconexión eléctrica no es nuevo, viene desde hace años como parte del proyecto Mesoamérica.&lt;/p&gt;
+&lt;p&gt;En Panamá uno de los acuerdos entre la USTDA y el Gobierno es para la capacitación de altos funcionarios para el análisis de costos en la adquisición de infraestructura. La iniciativa se encuentra en once países más.&lt;sup id=&#34;fnref:13&#34;&gt;&lt;a href=&#34;#fn:13&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;13&lt;/a&gt;&lt;/sup&gt; Entre los proyectos de infraestructura más importantes que se encuentran actualmente en Panamá y que podrían entrar en la iniciativa de fomento a inversiones están el metro de Panamá, el Puerto de Contenedores de Colón y Puerto de Transbordo Corozal.&lt;/p&gt;
+&lt;p&gt;En el caso de Perú, al igual que Panamá, está por firmar acuerdos energéticos. Con Perú está en evaluación un Memorandum de Entendimiento.&lt;sup id=&#34;fnref:14&#34;&gt;&lt;a href=&#34;#fn:14&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;14&lt;/a&gt;&lt;/sup&gt; Con Panamá se avanzó también en un proyecto energético para que el país se convierta en un punto de conexión energética y genere más electricidad con gas natural licuado proveniente de EE. UU.&lt;sup id=&#34;fnref:15&#34;&gt;&lt;a href=&#34;#fn:15&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;15&lt;/a&gt;&lt;/sup&gt; En ambos casos se desconocen aún el tipo de acuerdo y las condiciones para financiar estos proyectos que en el pasado fueron vía endeudamiento y modificaciones en las leyes para permitir la entrada de capital estadounidense.&lt;/p&gt;
+&lt;p&gt;En Brasil los proyectos son en energía e infraestructura de transporte de mercancías, sobre todo en carreteras, aeropuertos, puertos e infraestructura ferroviaria. Desde 2016, después del golpe de Estado a Dilma Rousseff, el proceso de privatizaciones y liberalización de licitaciones a empresas privadas nacionales y extranjeras es parte de un proceso anhelado por el sector privado estadounidense y que forma parte de la Iniciativa América Crece. En este caso, se incluyó también el sector financiero y tienen en la mira la reestructuración del BNDES.&lt;sup id=&#34;fnref:16&#34;&gt;&lt;a href=&#34;#fn:16&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;16&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;china-en-alc-o-el-freno-para-el-america-first&#34;&gt;China en ALC (o el freno para el America First)&lt;/h2&gt;
+&lt;p&gt;En los últimos años, varios países de ALC se han asociado comercialmente con mayor solidez con China, que ya es el principal socio comercial de Argentina, Brasil, Chile, Perú y Uruguay. Además, es el segundo socio comercial de México y Colombia (aliado incondicional de EE. UU.), que ya comenzó a estrechar relaciones con China.&lt;sup id=&#34;fnref:17&#34;&gt;&lt;a href=&#34;#fn:17&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;17&lt;/a&gt;&lt;/sup&gt; Las principales inversiones chinas son en infraestructura, energía, manufactura, innovación tecnológica, agricultura y tecnología de la información.&lt;sup id=&#34;fnref:18&#34;&gt;&lt;a href=&#34;#fn:18&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;18&lt;/a&gt;&lt;/sup&gt; En total, el comercio de enero a noviembre de 2019 de la región con el país asiático, fue de 286.830 millones de dólares.&lt;sup id=&#34;fnref:19&#34;&gt;&lt;a href=&#34;#fn:19&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;19&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Esta expansión de la presencia comercial y de inversiones chinas, puede ser leída en el marco de una guerra con EE. UU. que va más allá de lo económico, alcanzando aspectos geopolíticos. Es evidente la disputa por recursos estratégicos y espacios para el capital en áreas como energía e infraestructura de puertos, carreteras y aeropuertos, tres formas mediante las cuales se mueven mercancías. Menos visible es la importancia de las denominadas “tierras raras” en esta disputa. En este rubro EE. UU. tiene una alta dependencia de China (80%).&lt;sup id=&#34;fnref:20&#34;&gt;&lt;a href=&#34;#fn:20&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;20&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;perspectiva-y-prospectiva-hacia-2020&#34;&gt;Perspectiva y prospectiva hacia 2020&lt;/h2&gt;
+&lt;p&gt;La presencia china en la región se ha incrementado notablemente desde que comenzó el siglo XXI mediante préstamos a gobiernos latinoamericanos, de inversiones y empresas. Ello implica la creación de empleos y de valor. Este es uno de los rubros fundamentales, pues la transferencia de valor de ALC no ha dejado de fluir, ahora, con más importancia hacia China, aspecto que EE. UU. pretende modificar a su favor.&lt;/p&gt;
+&lt;p&gt;A la creación de la Iniciativa América Crece se suman tratados de libre comercio con varios países (siendo el más importante el T-MEC) articulados con estrategias militares como la Iniciativa Mérida, el Plan “Paz Colombia”, la Iniciativa Regional de Seguridad para América Central (CARSI), la Alianza del Pacífico y la Iniciativa de Seguridad para El Caribe.&lt;/p&gt;
+&lt;p&gt;Por último, la Iniciativa América Crece pretende colocar las exportaciones de gas en la región. La reforma energética de 2012 en México abrió el camino para la exportación y conexión de gas con Centroamérica. A su vez, Colombia, Ecuador, Perú y Chile entran en esa estrategia a través de la infraestructura de energía eléctrica. El golpe de Estado en Bolivia puede inscribirse en esta disputa por recursos (reservas de gas y litio) y habrá que ver cómo se inscribe en esta iniciativa. El yacimiento de Vaca Muerta en la Patagonia argentina, así como el control de las reservas de hidrocarburos del Pre-sal en Brasil, terminan por completar un mapa conocido por intereses públicos y privados estadounidenses de larga data en el continente y que se exacerban en la lucha con otras potencias. Venezuela sigue siendo el espacio en disputa en este escenario (con alianzas cada vez más estrechas con China y Rusia).&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ustda.gov/ustda-announces-call-for-digital-infrastructure-project-proposals-in-latin-america-and-the-caribbean/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ustda.gov &amp;ndash; La Agencia de Comercio y Desarrollo de EE.UU.&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.usaid.gov/sites/default/files/documents/1861/USAID_DCCP_Fact_Sheet_080719f.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.usaid.gov &amp;ndash; Agencia de los Estados Unidos para el Desarrollo Internacional&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.state.gov/growth-in-the-americas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.state.gov &amp;ndash; U.S Department of State&lt;/a&gt; &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.usaid.gov/news-information/press-releases/oct-3-2018-administrator-green-statement-creation-usidfc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.usaid.gov &amp;ndash; Agencia de los Estados Unidos para el Desarrollo Internacional&lt;/a&gt; &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.state.gov/reports/2019-investment-climate-statements/mexico/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.state.gov &amp;ndash; U.S Department of State&lt;/a&gt; &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.celag.org/del-soft-power-al-america-first-eeuu-la-asistencia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.celag.org&lt;/a&gt; &lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ustda.gov/sites/default/files/pdf/program/regions/lac/mexicoresourceguide/MexicoResouceGuide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ustda.gov &amp;ndash; La Agencia de Comercio y Desarrollo de EE.UU.&lt;/a&gt; &lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.celag.org/la-union-europea-en-la-disputa-por-america-latina-y-el-caribe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.celag.org&lt;/a&gt; &lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.celag.org/reordenamiento-estrategico-en-el-caribe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.celag.org&lt;/a&gt; &lt;a href=&#34;#fnref:9&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ustda.gov/sites/default/files/RFP-DR%20LNG%20TERMINAL-%20Annex%201-%20FINAL.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ustda.gov &amp;ndash; La Agencia de Comercio y Desarrollo de EE.UU.&lt;/a&gt; &lt;a href=&#34;#fnref:10&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ustda.gov/news/success-stories/success-honduras-platanares-geothermal-power-plant&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ustda.gov &amp;ndash; La Agencia de Comercio y Desarrollo de EE.UU.&lt;/a&gt; &lt;a href=&#34;#fnref:11&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:12&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://forbescentroamerica.com/2019/12/19/america-crece-estos-son-los-4-proyectos-de-inversion-que-busca-desarrollar-guatemala/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;forbescentroamerica.com&lt;/a&gt; &lt;a href=&#34;#fnref:12&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:13&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ustda.gov/news/press-releases/2019/ustda-panama-launch-life-cycle-cost-analysis-training&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ustda.gov &amp;ndash; La Agencia de Comercio y Desarrollo de EE.UU.&lt;/a&gt; &lt;a href=&#34;#fnref:13&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:14&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.americaeconomia.com/negocios-industrias/eeuu-esta-cerca-de-firmar-un-acuerdo-con-lima-para-contrarrestar-influencia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.americaeconomia.com&lt;/a&gt; &lt;a href=&#34;#fnref:14&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:15&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.eleconomistaamerica.com/energia-eAm/noticias/9337889/08/18/GNL-ariete-de-expansion-energetica-de-EEUU-en-America-Central-con-Panama-de-aliado.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.eleconomistaamerica.com&lt;/a&gt; &lt;a href=&#34;#fnref:15&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:16&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ustda.gov/sites/default/files/pdf/program/regions/lac/brazilresourceguide/BrazilResourceGuide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ustda.gov &amp;ndash; La Agencia de Comercio y Desarrollo de EE.UU.&lt;/a&gt; &lt;a href=&#34;#fnref:16&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:17&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.celag.org/mexico-y-colombia-en-la-disputa-entre-eeuu-y-china/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.celag.org&lt;/a&gt; &lt;a href=&#34;#fnref:17&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:18&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.celag.org/china-america-latina-segun-eeuu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.celag.org&lt;/a&gt; &lt;a href=&#34;#fnref:18&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:19&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.perfil.com/noticias/internacional/china-pisa-fuerte-en-america-latina-y-compite-con-eeuu.phtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.perfil.com&lt;/a&gt; &lt;a href=&#34;#fnref:19&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:20&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.celag.org/los-recursos-estrategicos-de-latinoamerica-en-la-guerra-china-eeuu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.celag.org&lt;/a&gt; &lt;a href=&#34;#fnref:20&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title> &#34;Viva el Chato&#34;</title>
-      <link>/publication/viva-el-chato/</link>
+      <link>https://lavanguardia.netlify.app/publication/viva-el-chato/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/viva-el-chato/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/viva-el-chato/</guid>
       <description>&lt;p&gt;Un 21 de agosto de 1971 se efectúa uno de los golpes más sangrientos generado por el aquel entonces coronel Hugo Banzer Suarez, en dicho golpe de estado varios revolucionarios desde sus distintas banderas de organizaciones crearon resistencia a la dictadura fascista durante esos largos años difíciles. Es a través de esta vía que lo que realmente se quiere hacer es rescatar la memoria histórica de una familia entera que vivió lo duro de la dictadura y que únicamente a partir de esta memoria histórica logremos valorar la democracia que vivimos y los logros alcanzados hasta la fecha, todos los hechos narrados acá han sido plasmados por la persona que vivió esa época y esa situación, hay más cosas que complementar pero como entenderán RECORDAR ESOS TIEMPOS NO ES FÁCIL, PERO ÉL LO CONSIDERA NECESARIO y han pasado varios años desde el momento en que decidió retomar la escritura de este documento.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;1.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;sobre-los-años-difíciles&#34;&gt;Sobre los años difíciles.&lt;/h2&gt;
@@ -176,9 +289,9 @@ Recuerdo que los víveres que nos trajo se quedaron con los carceleros, no obsta
     
     <item>
       <title>Análisis del comportamiento en la pandemia</title>
-      <link>/publication/analisis-comportamiento-pandemia/</link>
+      <link>https://lavanguardia.netlify.app/publication/analisis-comportamiento-pandemia/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/analisis-comportamiento-pandemia/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/analisis-comportamiento-pandemia/</guid>
       <description>&lt;p&gt;Transcurridos más de 160 días desde el inicio del brote de la COVID-19 en el país, el comité científico del gobierno transitorio en base a sus ¨sabias proyecciones¨ hizo que el Tribunal Supremo Electoral hace varias semanas atrás cambie la fecha de las elecciones (debido a que el pico de la pandemia como país se presentaría durante el mes de septiembre) a raíz de ese informe se justificó el cambio de fecha de elecciones en Bolivia, las repercusiones de esta decisión por parte del TSE no se dejaron esperar y varios grupos de la sociedad liderada por la Central Obrera Boliviana (COB), inicio una serie de movilizaciones y bloqueos a nivel nacional, oponiéndose a este nuevo cambio de fecha, que no solo significa prorrogar el tiempo de mandato del gobierno de transición que lleva ya 8 meses, sino que a su vez esta situación permite prolongar la crisis política que vive el país desde el mes de noviembre del año pasado, sin mencionar que de este modo se dilatan las posibilidades de establecer políticas estructurales que hagan el abordaje de la crisis económica, crisis de sanitaria y que solo un gobierno democrático lograría concretar.
 Es así que, a través de un análisis de la coyuntura, buscamos ciertas respuestas en el comportamiento de la pandemia en el país y nos llamó la atención lo siguiente:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -198,9 +311,9 @@ Es así que, a través de un análisis de la coyuntura, buscamos ciertas respues
     
     <item>
       <title>Responsabilidad revolucionaria</title>
-      <link>/publication/responsabilidad-revolucionaria/</link>
+      <link>https://lavanguardia.netlify.app/publication/responsabilidad-revolucionaria/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/responsabilidad-revolucionaria/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/responsabilidad-revolucionaria/</guid>
       <description>&lt;p&gt;Pensaba mucho en la frase &amp;ldquo;quién no conoce su historia esta condenado a repetirla&amp;rdquo; muchas veces la asociamos al caos y la catástrofe que actualmente vive el país y siempre lo atribuimos a los MALOS (los golpistas y su elite) pero jamás se habla de los BUENOS y de cómo está frase también se aplica a esta situación, siempre pensamos que como Revolucionarios, militantes de Izquierda y del MAS tenemos muy clara la frase y reconocemos los sacrificios que conlleva la lucha revolucionaria y tendemos a echar la culpa a los golpistas, a la inexperiencia etc, pero muy pocas veces se asume lo que he denominado RESPONSABILIDAD REVOLUCIONARIA; varios días anduvo rondando en mi cabeza si existían artículos o documentos inherentes a lo mencionado (RESPONSABILIDAD REVOLUCIONARIA) y encontré poco, casi nada al respecto, no soy sociólogo, politólogo pero si me considero un ente POLITICO (como todos deberíamos considerarnos pienso yo), pensaba en RESPONSABILIDAD REVOLUCIONARIA y la frase con la cual arrancaba el artículo (&amp;ldquo;quién no conoce su historia esta condenado a repetirla&amp;rdquo;), recordé a mi familia (papá, tíos, amistades de ellos) que vivieron el terror de las Dictaduras Militares, en este caso a varios tíos y a mi papá que cayeron presos, fueron torturados (incluso a un tío las torturas lo dejaron parapléjico desde sus jóvenes 17 años) pero ellos dieron batalla ante sus torturadores y dieron el tiempo (en algunos casos) suficiente para poner en alerta a sus compañeros que habían caído presos y poder ponerse a buen recaudo, en otros casos jamás delataron, fueron puestos en solitario torturados más de una vez , tuvieron confrontación con otros torturados (cuando te ponen frente a frente entre presos políticos torturados y amenzan con hacer barbaridades al otro preso si no confiesa) pero pese a ello jamás claudicaron, jamás dejaron de lado la RESPONSABILIDAD REVOLUCIONARIA, que conlleva la lucha por los oprimidos. Pensé mucho en ellos, e inevitablemente también pensé en el #GolpeDeEstadoEnBolivia que me tocó vivir; desde la viviencia familiar comentada con anterioridad, mis papás tomaron medidas de irse a una casa de seguridad y compañeros fieles al proceso que son de la zona donde vivimos nos comentaron que MOTOQUEROS de la RJC circulaban por la zona, buscando la casa de esa ex autoridad y supimos de como en otros lados se dieron la tarea de incendiar domicilios y casas, mis padres tomaron esa decisión conociendo la RESPONSABILIDAD REVOLUCIONARIA que se tenía y también para que en ningún momento si llegaban ellos o nosotros a caer presos puedan chantajear y pedir renuncias o pronunciamientos en contra del Proceso de Cambio y de esa forma dejarle al enemigo servido TODO EN BANDEJA DE PLATA. Efectivamente no estoy en los zapatos de otras ex autoridades o autoridades (diputados, senadores actualmente), pero creo que haber dejado al enemigo la posibilidad de asumir el Poder (como lo hizo Añez) fue un acto de IRRESPONSABILIDAD REVOLUCIONARIA, fue una falta de respeto a todos los compañeros muertos, torturados en las Dictaduras de antaño, compañeros que soñaron con ver lo que el Proceso de Cambio estaba logrando y no solo fallaron a los compañeros que lucharon antes , sino a los caídos en Senkata y Sacaba, a los presos Políticos posteriores al 10 de noviembre del 2019 , a la gestión en si de la Pandemia(soy un convencido que lo hubiéramos hecho muy bien como se hizo en Cuba o la gestión del Dengue), permitieron resurgir al racismo, permitieron la inmersión de la Iglesia como en tiempos coloniales en el poder, permitieron volver a ser país que pide donaciones para poder atender la crisis, permitieron que caiga estrepitosamente la imagen internacional.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Se triunfó en 3 procesos electorales con (52%, 64% y 62%) mayoría en cámara de Senadores y Diputados, se tenía Presidencias y Vicepresidencias y por renunciar a esos cargos dejamos que alguien como #JeanineAñez (que no la representa la Wiphala, que no distingue entre Newton y Einstein) asuma el poder, todo por no cumplir con la RESPONSABILIDAD REVOLUCIONARIA.&lt;/p&gt;
@@ -212,9 +325,9 @@ Es así que, a través de un análisis de la coyuntura, buscamos ciertas respues
     
     <item>
       <title>Tiempos de pandemia</title>
-      <link>/publication/tiempos-de-pandemia/</link>
+      <link>https://lavanguardia.netlify.app/publication/tiempos-de-pandemia/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tiempos-de-pandemia/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/tiempos-de-pandemia/</guid>
       <description>&lt;p&gt;&lt;strong&gt;¿La educación virtual eficaz y excluyente?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;En los últimos 6 meses estamos viendo un nuevo método de educación ya que debido a los últimos acontecimientos con la pandemia es imposible pensar en el antiguo método clásico, pero, ¿estamos seguros de que este método está funcionando o por lo menos está llegando a todos?&lt;/p&gt;
 &lt;p&gt;Bueno, para esto tenemos que ver primero si la educación era accesible para todos antes de la pandemia, según fuentes de la &lt;strong&gt;UNESCO&lt;/strong&gt;, para la gestión 2005, de cada 100 estudiantes matriculados en educación regular, 6 abandonaban sus estudios; en 2018, de cada 100 solo abandonaron la escuela 3 estudiantes, siendo las mujeres las que menos lo hacen. Estos resultados demuestran que, nuestros estudiantes no solo acceden en mejores condiciones al sistema, sino que permanecen en el mismo.&lt;/p&gt;
@@ -243,9 +356,9 @@ Ahora pongámonos en contexto, ¿cómo es posible que el Ministerio de Educació
     
     <item>
       <title>Musk y el Litio Boliviano</title>
-      <link>/publication/musk-y-el-litio/</link>
+      <link>https://lavanguardia.netlify.app/publication/musk-y-el-litio/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/musk-y-el-litio/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/musk-y-el-litio/</guid>
       <description>&lt;p&gt;Los comentarios realizados por el billonario Sudafricano Musk referente al apoyo al golpe de estado para obtener el litio boliviano no han pasado desapercibidos en casi todo el mundo, lo triste es que en el lugar que más debería haber repercutido no tuvo la más mínima cobertura (y eso que a los dueños de los medios de comunicación les encanta vender el sueño americano y ese futuro de libre mercado que tanto promulgan y apoyan) en el Estado Plurinacional de Bolivia. Los comentarios inapropiados (sea en burla o sea verdad) solo reflejan la visión miope que desde siempre los países llamados &amp;ldquo;desarrollados&amp;rdquo; han tenido de los países &amp;ldquo;tercermundistas&amp;rdquo; o en &amp;ldquo;vías de desarrollo&amp;rdquo;, nos ven únicamente como proveedores de materia prima para conseguir elevar sus ganancias.
 &lt;img src=&#34;2.jpeg&#34; alt=&#34;&#34;&gt;
 El caso de Elon Musk no es ajeno y es el ejemplo perfecto de como la maquinaria mediática puede convertir a personas como él, en entes agradables y empáticos ante las nuevas coyunturas mundiales mediante el afamado discurso de &amp;ldquo;salvar la humanidad&amp;rdquo; usando &amp;ldquo;energías alternativas&amp;rdquo; en carros de alto lujo (que posiblemente solo Doria Medina podría comprar en Bolivia), el afamado discurso de personajes como Musk es agradable a la clase media que se indignaba de los incendios en la Chiquitania en el 2019 (pero durante este año se callaron cuando la cantidad de focos de calor e incendios fue similar) y que son los mismos que salieron a protestar en contra de la carretera del Tipnis, argumentando la ecología como bandera, este tipo de personajes justifican comentarios y acciones como apoyar un golpe de estado basado en un &amp;ldquo;Ecofascimo&amp;rdquo; (muy disimulado), o sea puedo derrocar un gobierno democrático que fue instaurado con más del 60 % de votos para obtener la materia prima necesaria para usarla en carros eléctricos de elevado lujo, que posiblemente la población del país de donde obtiene la materia prima jamás tenga acceso, se justifica un golpe basado en que con esa &amp;ldquo;acción&amp;rdquo; reducirá los efectos de gas invernadero (aferrándose a que las movilidades son los mayores productores de dichos gases y nos las grandes empresas con capitales privados dueños del libre mercado) y señalando que derrocar un gobierno que posee la reserva más grande de litio salvará al planeta.
@@ -265,9 +378,9 @@ Tipos como Musk ven en esta
     
     <item>
       <title>Bolivia en una encrucijada</title>
-      <link>/publication/bolivia-en-una-encrucijada/</link>
+      <link>https://lavanguardia.netlify.app/publication/bolivia-en-una-encrucijada/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/bolivia-en-una-encrucijada/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/bolivia-en-una-encrucijada/</guid>
       <description>&lt;p&gt;Bolivia se encuentra en una situación muy delicada actualmente, en uno de los momentos más difíciles de su historia, en una encrucijada social, política y económica, donde socialmente se encuentra dividida de manera muy peligrosa, por un lado existen grupos de choque con interés particulares ya sean estos  políticos o económico, basados en la violencia organizada establecidas casi en todas las ciudades capitales de Bolivia, como Uniones Juveniles o finalmente conocidos con el seudónimo de (Pititas), conformado mayoritariamente por gente citadina con interés altamente políticos, que han mostrado en más de una vez una actitud radical e intolerante, utilizando la violencia física y psicológica , frente a la gran parte de la población de ascendencia indígena, tildándoles de masitas ya que esta sigla política es satanizada con adjetivos calificativos despectivos, y un gobierno transitorio desde el Ejecutivo que se muestra permisivo y tolerante con estos grupos que ejercen presión y violencia.&lt;/p&gt;
 &lt;p&gt;En lo político actualmente se ve una luz al final del túnel, con el establecimiento de la fecha de las elecciones generales por el Tribunal Supremo Electoral Plurinacional, sin embargo la antojadiza y alta politización de la Pandemia del Coronavirus COVID19, por parte del Ejecutivo y actores políticos que buscan afanosamente la no celebración de las elecciones generales, que con un atrevimiento desmedido nos dicen por poco que el día 6 de septiembre será el pico más alto de contagio, pues en el país existe un problema político y eso debe ser solucionado con el celebramiento de los comicios el 6 de septiembre impostergablemente bajo ningún motivo alguno.&lt;/p&gt;
 &lt;p&gt;La economía mundial y particularmente del Estado Plurinacional de Bolivia, debido a las medidas adoptadas por los gobiernos en el mundo por la pandemia, y Bolivia no es la excepción en haber declarado cuarentena por el COVID-19 por más de cien días y actualmente continua, lo cual ha paralizado todo el aparato productivo y eso ha generado una infinidad de despidos en todos los sectores, existiendo graves problemas en las familias Bolivianas porque una gran mayoría se encuentra en la actividad informal, y estas actividades a un se encuentran con restricciones, lo que no permite una recuperación adecuado en la economía de las familias Bolivianas, por un lado se exige al ciudadano cumplir con las restricciones, pero no existe casi ninguna ayuda para las familias, más que algunos bonos que son totalmente insuficientes, ninguna familia puede vivir 4 meses con 500 Bolivianos, pero además el actual Gobierno transitorio se encuentra involucrado en situaciones de corrupción de manera constante y continua, por ello es absolutamente necesario que un gobierno democráticamente elegido por la mayoría de los Bolivianos, encare con políticas que realmente pueda dar solución a los problemas y aflicciones de todas las familias Bolivianas en un corto, mediano y largo plazo.&lt;/p&gt;
@@ -276,9 +389,9 @@ Tipos como Musk ven en esta
     
     <item>
       <title>Represión en Kara Kara, crisis sanitaria y humanitaria en Bolivia</title>
-      <link>/publication/represion-en-kara-kara/</link>
+      <link>https://lavanguardia.netlify.app/publication/represion-en-kara-kara/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/represion-en-kara-kara/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/represion-en-kara-kara/</guid>
       <description>&lt;p&gt;La mañana de este sábado 4 de julio de 2020, la brutalidad de la violencia fascista y racista del gobierno de facto, se volvió a ensañar con la gente más humilde de la zona sur de 
 &lt;a href=&#34;&#34;&gt;#Cochabamba&lt;/a&gt;, específicamente de 
 &lt;a href=&#34;&#34;&gt;#KaraKara&lt;/a&gt;, colindante con el botadero municipal de esta ciudad.&lt;/p&gt;
@@ -297,9 +410,9 @@ Tipos como Musk ven en esta
     
     <item>
       <title>La baja tasa de recuperación de Covid-19 en bolivia</title>
-      <link>/publication/la-baja-tasa-de-recuperacion/</link>
+      <link>https://lavanguardia.netlify.app/publication/la-baja-tasa-de-recuperacion/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/la-baja-tasa-de-recuperacion/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/la-baja-tasa-de-recuperacion/</guid>
       <description>&lt;p&gt;El avance de la pandemia en el mundo es inminente, hasta el 30 de junio se sumaban más de 10.2 millones de casos confirmados, más de 500 mil decesos, y más de 5.2 millones de habitantes recuperados.&lt;/p&gt;
 &lt;p&gt;Estas cifras van cobrando un peso cada vez mayor para nosotros, pues a partir de mayo el epicentro de la pandemia se ha trasladado al continente americano, lugar donde se concentra la mayor cantidad de casos y decesos respectivamente. Entre los países que concentran el mayor porcentaje de casos se encuentra E.E.U.U. y Brasil, sin embargo estos países también cuentan con un porcentaje alto de recuperación. Así mismo, debemos resaltar que Cuba tiene un total de 93% de tasa de recuperación, siendo un país con características demográficas semejantes a las de Bolivia. En nuestro país, la relación entre el porcentaje de casos y porcentaje de recuperados muestra un panorama desalentador, pues la tasa de recuperación se encuentra muy por debajo de varios países de la región. Haciendo un análisis de los factores que inciden en esta diferencia en la taza de recuperación, podemos señalar que la misma se debe una gestión ineficiente de la pandemia en Bolivia, y de continuar así, se cobrará la vida de más habitantes.&lt;/p&gt;
 &lt;p&gt;
@@ -322,9 +435,9 @@ Tipos como Musk ven en esta
     
     <item>
       <title>Respuestas sencillas a preguntas tontas</title>
-      <link>/publication/respuestas-sencillas-a-preguntas-tontas/</link>
+      <link>https://lavanguardia.netlify.app/publication/respuestas-sencillas-a-preguntas-tontas/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/respuestas-sencillas-a-preguntas-tontas/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/respuestas-sencillas-a-preguntas-tontas/</guid>
       <description>&lt;p&gt;El documento es un poco extenso pero creo que vale la pena leerlo ya que aclara muchas preguntas realizadas en medios de comunicación.&lt;/p&gt;
 &lt;p&gt;Van 3 entrevistas a #LuchoArce que he logrado escuchar y ver: 2 en televisión, en PAT en el programa NO MENTIRAS de Jimena Antelo y en Red UNO donde fueron los corresponsales de cada departamento que realizaron preguntas y por ultimo una en radio ERBOL.&lt;/p&gt;
 &lt;p&gt;Debo destacar lo miserable en cuanto a las entrevistas de los 3 medios, pero rescato más al periodista de ERBOL ya que fue el que permitió que Lucho pueda exponer más detalladamente las respuestas y además programa de gobierno (que en realidad es lo poco o nulo que preguntan los periodistas).&lt;/p&gt;
@@ -370,9 +483,9 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     
     <item>
       <title>El Comité de Expertas expresa su preocupación por la situación de Patricia Pamela Hermosa</title>
-      <link>/post/el-comite-de-expertas-expresa/</link>
+      <link>https://lavanguardia.netlify.app/post/el-comite-de-expertas-expresa/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/el-comite-de-expertas-expresa/</guid>
+      <guid>https://lavanguardia.netlify.app/post/el-comite-de-expertas-expresa/</guid>
       <description>&lt;p&gt;Washington DC, 24 de junio de 2020. 
 &lt;a href=&#34;http://www.oas.org/es/mesecvi/Expertas.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;El Comité de Expertas&lt;/a&gt; del Mecanismo de Seguimiento de la 
 &lt;a href=&#34;http://www.oas.org/es/mesecvi/docs/BelemDoPara-ESPANOL.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Convención de Belém do Pará&lt;/a&gt; (
@@ -395,9 +508,9 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     
     <item>
       <title>Guerreros digitales, de la burla a la gloria</title>
-      <link>/post/guerreros-digirales-de-la-burla/</link>
+      <link>https://lavanguardia.netlify.app/post/guerreros-digirales-de-la-burla/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/guerreros-digirales-de-la-burla/</guid>
+      <guid>https://lavanguardia.netlify.app/post/guerreros-digirales-de-la-burla/</guid>
       <description>&lt;h3 id=&#34;por-adolfo-mena-gonzález&#34;&gt;Por Adolfo Mena González&lt;/h3&gt;
 &lt;p&gt;Recordaba a una ex autoridad de Santa Cruz, el cual criticaba siempre el activismo digital y el trabajo en redes sociales (&lt;em&gt;señalando que era más importante el trabajo en las bases y barrios&lt;/em&gt;) yo no negaba la importancia pero dejaba pensando mucho ese su “&lt;strong&gt;más importante&lt;/strong&gt;” como menospreciando el trabajo realizado por un equipo que no se dedicaba únicamente a crear memes sino que hacía análisis, coordinaba contenidos y posicionaba temas semanales en agenda para poder informar de logros y denunciar las falacias opositoras. Ha pasado el tiempo y esa persona que viajaba cada fin de semana so pretexto de hacer trabajo de base antes de las elecciones nos dio un resultado desastroso en Santa Cruz en cuanto a porcentaje de votación y además una penosa resistencia al golpe en tierras cambas.
 &lt;a name=&#34;1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -413,9 +526,9 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     
     <item>
       <title>José Martí. Obras completas. Edición crítica. Tomo 29</title>
-      <link>/biblioteca/jose-marti-obras-completas-edicion-critica-tomo-29/</link>
+      <link>https://lavanguardia.netlify.app/biblioteca/jose-marti-obras-completas-edicion-critica-tomo-29/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/biblioteca/jose-marti-obras-completas-edicion-critica-tomo-29/</guid>
+      <guid>https://lavanguardia.netlify.app/biblioteca/jose-marti-obras-completas-edicion-critica-tomo-29/</guid>
       <description>&lt;p&gt;Obras completas José Martí.&lt;/p&gt;
 &lt;p&gt;ISBN 978-959-271-311-6&lt;/p&gt;
 &lt;p&gt;Centro de Estudios Martianos.&lt;/p&gt;
@@ -429,9 +542,9 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     
     <item>
       <title>Los once de la tribu de Juan Villoro</title>
-      <link>/biblioteca/los-once-de-la-tribu/</link>
+      <link>https://lavanguardia.netlify.app/biblioteca/los-once-de-la-tribu/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/biblioteca/los-once-de-la-tribu/</guid>
+      <guid>https://lavanguardia.netlify.app/biblioteca/los-once-de-la-tribu/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Colección Brigada para Leer en Libertad.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Para Leer en Libertad.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;México. Octubre de 2017&lt;/em&gt;&lt;/p&gt;
@@ -442,9 +555,9 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     
     <item>
       <title>Teatro del oprimido de Augusto Boal</title>
-      <link>/biblioteca/teatro-del-oprimido/</link>
+      <link>https://lavanguardia.netlify.app/biblioteca/teatro-del-oprimido/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/biblioteca/teatro-del-oprimido/</guid>
+      <guid>https://lavanguardia.netlify.app/biblioteca/teatro-del-oprimido/</guid>
       <description>&lt;p&gt;Este volumen constituye una innegable contribución -tanto desde el ángulo teórico como desde su praxis- a los estudios sobre la escena latinoamericana. Su propuesta se erige sobre la base conceptual de la Poética del Oprimido y sobre una recopilación de técnicas e innovadores sistemas que tributan al teatro popular, derivados de la evaluación de presupuestos aristotélicos, hegelianos y brechtianos, entre otros.&lt;/p&gt;
 &lt;p&gt;Acerca de Boal y de su obra, la reconocida directora teatral puertorriqueña Rosa Luisa Márquez afirma en el prólogo que &amp;ldquo;[&amp;hellip;]es el primer gran teórico del teatro latinoamericano que impacta con su metodología el teatro europeo [&amp;hellip;] de donde recibimos tantas teorías y prácticas teatrales, tanta literatura e historia del teatro, olvidando a veces que el ritual teatral se manifiesta en nuestras culturas desde sus orígenes, antes de la llegada de los colonizadores&amp;rdquo;.&lt;/p&gt;
 </description>
@@ -452,9 +565,9 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     
     <item>
       <title>Carlos Mesa un acto de cobardía en la historia</title>
-      <link>/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/</link>
+      <link>https://lavanguardia.netlify.app/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/</guid>
       <description>&lt;p&gt;Han pasado 15 años desde que Carlos Mesa protagonizara el acto de cobardía más notorio y reprochable que un presidente en funciones haya realizado en toda la historia de Bolivia. Ante una sostenida y manifiesta incapacidad para contener un acelerado deterioro y debacle en la economía nacional, Mesa, que ya había renunciado en una primera oportunidad el 6 de marzo de 2005, ante el Congreso Nacional, y cuya renuncia fue rechazada 5 días después, por el mismo Congreso, volvió a renunciar por segunda vez, de forma definitiva, el 6 de junio de ese mismo año, haciéndose efectiva la misma tres días después.&lt;/p&gt;
 &lt;p&gt;Tal acto de cobardía, fue el desenlace de 20 meses de un espurio gobierno, que profundizó la crisis económica, política y social que se había iniciado durante el sangriento gobierno de Gonzalo Sánchez de Lozada, del cual Mesa fue Vicepresidente.&lt;/p&gt;
 &lt;p&gt;Como ya sabemos, el Gobierno de Goni - Mesa, terminó con la huida del primero, el 17 de octubre de 2003, luego de 14 meses de iniciado y de más de 100 muertos y cientos de heridos que provocaron dos hechos por demás luctuosos y sangrientos: &amp;ldquo;febrero negro&amp;rdquo; y, apenas 8 meses después, la denominada &amp;ldquo;guerra del gas&amp;rdquo;.&lt;/p&gt;
@@ -467,9 +580,9 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     
     <item>
       <title>Coronavirus en Estados Unidos: El miedo de Kissinger</title>
-      <link>/post/coronavirus-en-estados-unidos-el-miedo-de-kissinger/</link>
+      <link>https://lavanguardia.netlify.app/post/coronavirus-en-estados-unidos-el-miedo-de-kissinger/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/coronavirus-en-estados-unidos-el-miedo-de-kissinger/</guid>
+      <guid>https://lavanguardia.netlify.app/post/coronavirus-en-estados-unidos-el-miedo-de-kissinger/</guid>
       <description>&lt;p&gt;Hace muchos años que se pronostica el ocaso inevitable de la supremacía norteamericana. Pero ¿cómo probarlo? Muchos argumentos parecían nacidos más de una expresión de deseos que de una posibilidad real. Hoy, ya no hay dudas. Estrategas como Henry Kissinger, político clave en la construcción del imperio y experto como pocos en los laberintos del poder, reconocen el irremediable fin de la hegemonía estadounidense.&lt;/p&gt;
 &lt;p&gt;Las postales dramáticas que el Covid-19 está sembrando en distintas partes del territorio norteamericano confirman esa hipótesis. Y no por las altísimas cifras de muertos, ni por la imperdonable falta de insumos básicos en un país de semejante riqueza, ni por la deficiencia y crueldad de su sistema de salud pública. Estas no son más que consecuencias del capitalismo salvaje que tienen muy sin cuidado al establishment mundial, partidario, como se sabe, del darwinismo social y la sobrevivencia de los ricos.&lt;/p&gt;
 &lt;p&gt;En su último artículo “La pandemia del coronavirus va a alterar para siempre el orden mundial”, publicado el pasado 3 de abril en el diario The Wall Street Journal, Kissinger expresa abiertamente sus dos grandes temores. Después del Covid-19 ¿se podrán “salvaguardar los principios del orden mundial liberal”? “Un país dividido como Estados Unidos ¿será capaz de liderar la transición al orden posterior al coronavirus?”&lt;/p&gt;
@@ -487,9 +600,9 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     
     <item>
       <title>Declaraciones de la portavoz del ministerio de asuntos exteriores de la federación de rusia, María Zajárova.</title>
-      <link>/post/declaraciones-de-la-portavoz-del-ministerio/</link>
+      <link>https://lavanguardia.netlify.app/post/declaraciones-de-la-portavoz-del-ministerio/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/declaraciones-de-la-portavoz-del-ministerio/</guid>
+      <guid>https://lavanguardia.netlify.app/post/declaraciones-de-la-portavoz-del-ministerio/</guid>
       <description>&lt;p&gt;Rusia envía un clarísimo mensaje de respaldo a la república bolivariana de venezuela. Comparen este escrito con la tosquedad de las declaraciones de la casa blanca o el departamento de estado. Difundir por favor, por todos los medios a su alcance.&lt;/p&gt;
 &lt;p&gt;El país y su Gobierno legítimo están luchando contra la pandemia del coronavirus como lo hace todo el mundo. Con anticipación fue iniciada la cuarentena. A pesar de las sanciones severas e inhumanas por parte de los EEUU, se registra un nivel bastante bajo de contagios y de mortalidad en comparación con otros países latinoamericanos. De esto nos hablan con precisión las estadísticas de la estadounidense Organización Mundial de la Salud.&lt;/p&gt;
 &lt;p&gt;Venezuela no se quedó a solas frente a este desafío. Le están ayudando Cuba, China, Rusia que envió esta semana una nueva carga de equipos correspondientes que suponen ayuda en el diagnóstico de la enfermedad. Pero, lamentablemente, vemos que no todos están dispuestos a seguir los principios de solidaridad y humanidad. En nuestra última rueda dimos nuestras evaluaciones detalladas de las acciones y declaraciones de la Administración de los EEUU que tienen por objetivo el aumento de presión en contra de Caracas, incluyendo la presión militar.&lt;/p&gt;
@@ -513,9 +626,9 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     
     <item>
       <title>El verdadero virus que mata</title>
-      <link>/publication/el-verdadero-virus-que-mata/</link>
+      <link>https://lavanguardia.netlify.app/publication/el-verdadero-virus-que-mata/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/el-verdadero-virus-que-mata/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/el-verdadero-virus-que-mata/</guid>
       <description>&lt;p&gt;No quieren que hablemos de política, dijeron que la salud está por encima de cualquier tema, nos apresaron y encarcelaron por denunciar las atrocidades de este gobierno interino, utilizan la pandemia para neutralizar las demandas y movilizaciones sociales, nos imponen medidas desproporcionadas que atentan contra nuestros derechos, por debajo intentan modificar nuestra estructura económica; y los medios de comunicación nos torturan y atemorizan todo el tiempo, que si no acatamos las medidas del gobierno, moriremos de las peores formas por el COVID-19.&lt;/p&gt;
 &lt;p&gt;Las medidas impuestas por el gobierno interino no son eficaces, porque hasta la fecha no priorizaron la atención preventiva, no llegaron los test´s masivos y no fortalecieron las Unidades de Terapias Intensivas (UTI´s), más lo contrario nos endeudan hasta el copete con el BID, FMI y Banco Mundial, y cometen actos de corrupción con un Ex – Ministro en las celdas, la impunidad de la Canciller, los Viceministros del Ministerio de Relaciones Exteriores y el Cónsul de Bolivia en Barcelona. Todo esto ante la mirada indiferente de muertos y el sistema de salud a punto de colapsar. Obviamente todo esto cabrea a las personas, porque la cuarentena rígida, moderada o la que quieran llamarle, no ha servido más que para enriquecer a unos cuantos y empobrecer a otros.&lt;/p&gt;
 &lt;p&gt;Lo que este gobierno nunca tuvo fue la “Confianza” del pueblo boliviano, justamente este valor que es tan importante por la famosa frase de Mao, de “Obedecer al Pueblo” fue echada por un tubo cuando entraron con una mala interpretación de sucesión presidencial, empezando a captar puestos para sus amigos y familiares; desfalcando millones de dólares de nuestras empresas (YPFB y ENTEL) y aprobando normas que favorecen a empresarios. Al parecer el gobierno de Añez, no tiene la mínima intención de irse y hará todo lo posible para utilizar el COVID-19 y la pandemia para decretar nuevamente la cuarentena rígida y seguir aplazando las elecciones presidenciales, porque se dieron cuenta que en las elecciones presidenciales, no ingresan ni a segunda vuelta, pero el pueblo no es nada estúpido y se da cuenta de todas las fechorías que cometen.&lt;/p&gt;
@@ -530,17 +643,17 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     
     <item>
       <title>Pronunciamiento de la izquierda boliviana</title>
-      <link>/publication/pronunciamiento-de-la-izquierda/</link>
+      <link>https://lavanguardia.netlify.app/publication/pronunciamiento-de-la-izquierda/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pronunciamiento-de-la-izquierda/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/pronunciamiento-de-la-izquierda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Su verdadero rostro</title>
-      <link>/publication/su-verdadero-rostro/</link>
+      <link>https://lavanguardia.netlify.app/publication/su-verdadero-rostro/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/su-verdadero-rostro/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/su-verdadero-rostro/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;“La discriminación social hacia nuestros hijos es cada vez más creciente. El atropello a nuestra cultura ancestral parte muchas veces de las altas esferas de gobierno. Los campesinos no podemos dejarnos engañar con palabras superficiales como ‘hijos o hermanos campesinos’ cuando nuestros enemigos no pueden ocultar su verdadero rostro”.&lt;/p&gt;
@@ -558,145 +671,10 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     </item>
     
     <item>
-      <title>Términos y Condiciones</title>
-      <link>/terms/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;ol start=&#34;0&#34;&gt;
-&lt;li&gt;Definiciones.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;“Esta Licencia” se refiere a la versión 3 de la Licencia Pública General de GNU.&lt;/p&gt;
-&lt;p&gt;“Derechos de Autor (“Copyright”)” también incluye a las leyes similares a la de derechos de autor (“copyright”) que se apliquen a otro tipo de obras, tales como las máscaras usadas en la fabricación de semiconductores.&lt;/p&gt;
-&lt;p&gt;“El Programa” se refiere a cualquier obra con derechos de autor (“copyright”) bajo esta Licencia. Cada licenciatario es tratado como “usted”. Los “Licenciatarios” y los “destinatarios” pueden ser individuos u organizaciones.&lt;/p&gt;
-&lt;p&gt;“Modificar” una obra quiere decir copiar de ella o adaptar parte o la totalidad de la obra de una forma que se requieran permisos de derechos de autor (“copyright”), distintos de los de hacer una copia exacta. La obra resultante es llamada “versión modificada” de la obra previa o una obra “basada en” la obra previa.&lt;/p&gt;
-&lt;p&gt;Una “obra amparada” significa o el Programa sin modificar o una obra basada en el Programa.&lt;/p&gt;
-&lt;p&gt;“Difundir” una obra significa hacer cualquier cosa con ella que, sin permiso, le haría responsable de forma directa o indirecta de infringir la ley correspondiente de derechos de autor (“copyright”), excepto ejecutarla en un ordenador o modificar una copia privada. La difusión incluye copiar, la distribución (con o sin modificación), hacerla disponible para el público, y en algunos países también otras actividades.&lt;/p&gt;
-&lt;p&gt;“Transmitir” una obra quiere decir cualquier tipo de difusión que permita a otras partes hacer o recibir copias. La mera interacción con un usuario a través de una red informática, sin la transferencia de una copia, no es transmitir.&lt;/p&gt;
-&lt;p&gt;Una interfaz interactiva de usuario muestra “Avisos Legales Apropiados” en la medida que incluye una característica visible práctica y destacable que (1) muestra un aviso apropiado de derechos de autor (“copyright”), e (2) informa al usuario de que no hay garantía para la obra (excepto las garantías proporcionadas), que los licenciatarios pueden transmitir la obra bajo esta Licencia, y cómo ver una copia de esta Licencia. Si la interfaz presenta una lista de comandos de usuario u opciones, como un menú, un elemento destacado en la lista satisface este criterio.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Código Fuente.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;El “código fuente” de una obra significa la forma preferida de trabajo para hacerle modificaciones. “Código objeto” es cualquier forma no-fuente de una obra.&lt;/p&gt;
-&lt;p&gt;Una “Interfaz Estándar” significa una interfaz que es un estándar oficial definido por un cuerpo de estándares reconocido o, en el caso de interfaces especificadas para un lenguaje de programación en particular, una que es extensamente utilizada entre los desarrolladores que trabajan en ese lenguaje.&lt;/p&gt;
-&lt;p&gt;Las “Bibliotecas del Sistema” de una obra ejecutable incluyen cualquier cosa, diferente de la obra como un todo, que (a) están incluidas en la forma normal de paquetizado de un Componente Importante, y (b) sirve solo para habilitar el uso de la obra con ese Componente Importante, o para implementar una Interfaz Estándar para la cual la implementación está disponible para el público en forma de código fuente. Un “Componente Importante”, en este contexto, significa un componente esencial importante (kernel, sistema de ventanas, etcétera) del sistema operativo en concreto (si hubiese) en el cual el ejecutable funciona, o un compilador utilizado para producir la obra, o un intérprete de código objeto utilizado para hacerlo funcionar.&lt;/p&gt;
-&lt;p&gt;La “Fuente Correspondiente” de una obra en forma de código objeto significa todo el código fuente necesario para generar, instalar, y (para una obra ejecutable) hacer funcionar el código objeto y modificar la obra, incluyendo scripts para controlar dichas actividades. Sin embargo, ello no incluye la obra de las Bibliotecas del Sistema, o herramientas de propósito general o programas de libre disponibilidad general los cuales son usados sin modificaciones para la realización de dichas actividades, pero que no son parte de la obra. Por ejemplo, la Fuente Correspondiente incluye ficheros de definición de interfaces asociados a los ficheros fuente para la obra, y el código fuente para bibliotecas compartidas y subprogramas enlazados dinámicamente para los que la obra está específicamente diseñado para requerir, tales como comunicación de datos intrínseca o flujo de control entre aquellos subprogramas y otras partes de la obra.&lt;/p&gt;
-&lt;p&gt;La Fuente Correspondiente es necesario que no incluya nada que los usuarios puedan regenerar automáticamente desde otras partes de la Fuente Correspondiente.&lt;/p&gt;
-&lt;p&gt;La Fuente Correspondiente de una obra en forma de código fuente es la obra en sí.&lt;/p&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Permisos básicos.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Todos los derechos concedidos bajo esta Licencia se conceden durante la duración de los derechos de autor (“copyright”) del Programa, y son irrevocables siempre que se cumplan las condiciones establecidas. Esta Licencia afirma explícitamente su ilimitado permiso para ejecutar el Programa sin modificar. La salida de la ejecución de una obra amparada está amparada por esta Licencia solo si la salida, dado su contenido, constituye una obra amparada. Esta Licencia reconoce sus derechos de uso razonable u otro equivalente, según lo establecido por la ley de derechos de autor (“copyright”).&lt;/p&gt;
-&lt;p&gt;Usted podrá realizar, ejecutar y difundir obras amparadas que usted no transmita, sin condición alguna, siempre y cuando no tenga otra licencia vigente. Podrá distribuir obras amparadas a terceros con el único propósito de que ellos hagan modificaciones exclusivamente para usted, o proporcionarle ayuda para ejecutar estas obras, siempre y cuando cumpla con los términos de esta Licencia en la transmisión de todo el material del cual usted no controle los derechos de autor (“copyright”). Aquellos que realicen o ejecuten las obras amparadas por usted, deben hacerlo exclusivamente en su nombre, bajo su dirección y control, en los términos que le prohiban realizar ninguna copia de su trabajo con derechos de autor (“copyright”) fuera de su relación con usted.&lt;/p&gt;
-&lt;p&gt;La transmisión bajo otras circunstancias se permite únicamente bajo las condiciones expuestas a continuación. No está permitido sublicenciar, la sección 10 hace que sea innecesario.&lt;/p&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Protección de los Derechos Legales de los Usuarios frente a la Ley Antievasión.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Ninguna obra amparada debe considerarse parte de una medida tecnológica efectiva, a tenor de lo establecido en cualquier ley aplicable que cumpla las obligaciones expresas en el artículo 11 del tratado de derechos de autor (“copyright”) de WIPO adoptado el 20 de diciembre de 1996, o leyes similares que prohiban o restrinjan la evasión de tales medidas.&lt;/p&gt;
-&lt;p&gt;Cuando transmita una obra amparada, renuncia a cualquier poder legal para prohibir la evasión de medidas tecnológicas mientras tales evasiones se realicen en ejercicio de derechos amparados por esta Licencia respecto a la obra amparada; además, usted renunciará a cualquier intención de limitar el uso o modificación del trabajo con el objetivo de imponer, contra el trabajo de los usuarios, sus derechos legales o los de terceros para prohibir la evasión de medidas tecnológicas.&lt;/p&gt;
-&lt;ol start=&#34;4&#34;&gt;
-&lt;li&gt;Transmisión de copias literales.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Usted podrá distribuir copias literales del código fuente del Programa tal cual lo ha recibido, por cualquier medio, siempre que publique visible y apropiadamente en cada copia el correspondiente aviso de derechos de autor (“copyright”); mantenga intactos todos los avisos que establezcan que esta Licencia y cualquier cláusula no-permisiva añadida acorde con la cláusula 7 son aplicables al código; mantenga intactos todos los avisos de ausencia de garantía; y proporcione a todos los destinatarios una copia de esta Licencia junto con el Programa.&lt;/p&gt;
-&lt;p&gt;Usted podrá cobrar cualquier importe o no cobrar nada por cada copia que distribuya, y podrá ofrecer soporte o protección de garantía mediante un pago.&lt;/p&gt;
-&lt;ol start=&#34;5&#34;&gt;
-&lt;li&gt;Transmisión de Versiones Modificadas de la Fuente.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Usted puede transmitir una obra basada en el Programa, o las modificaciones para generarla a partir del Programa, en la forma de código fuente bajo los términos de la sección 4, suponiendo que además cumpla las siguientes condiciones:&lt;/p&gt;
-&lt;p&gt;a)  La obra debe incluir avisos destacados indicando que usted la ha modificado y dando una fecha pertinente.&lt;/p&gt;
-&lt;p&gt;b)  La obra debe incluir avisos destacados indicando que está liberada bajo esta Licencia y cualquier otra condición añadida bajo la sección 7. Este requerimiento modifica los requerimientos de la sección 4 de “mantener intactos todos los avisos”.&lt;/p&gt;
-&lt;p&gt;c)  Usted debe licenciar la obra entera, como una unidad, bajo esta Licencia para cualquier persona que esté en posesión de una copia. Esta Licencia se aplicará por consiguiente, junto con cualquier término aplicable adicional de la sección 7, a la totalidad de la obra, y a todos sus componentes, independientemente de como estén empaquetados. Esta Licencia no da permiso para licenciar la obra de otra forma, pero no invalida esos permisos si usted los ha recibido de forma separada.&lt;/p&gt;
-&lt;p&gt;d)  Si la obra tiene interfaces de usuario interactivas, cada una debe mostrar los Avisos Legales Apropiados; sin embargo, si el Programa tiene interfaces interactivas que no muestren los Avisos Legales Apropiados, tampoco es necesario que su obra lo haga.&lt;/p&gt;
-&lt;p&gt;Una recopilación de una obra amparada con otras obras separadas e independientes, que no son por su naturaleza extensiones de la obra amparada, y que no se combinan con ella con el fin de formar un programa más grande, en o sobre un volumen de un medio de almacenamiento o distribución, es llamado un “agregado” si la recopilación y su resultante derechos de autor (“copyright”) no son usados para limitar el acceso o los derechos legales de los usuarios de la recopilación más allá de lo que las obras individuales permitan. La inclusión de una obra amparada en un agregado no provoca que esta Licencia se aplique a los otros componentes del agregado.&lt;/p&gt;
-&lt;ol start=&#34;6&#34;&gt;
-&lt;li&gt;Transmisión en Forma de No-Fuente.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Usted puede transmitir una obra amparada en forma de código objeto bajo los términos de las secciones 4 y 5, siempre que también transmita la Fuente Correspondiente legible por una máquina bajo los términos de esta Licencia, de una de las siguientes formas:&lt;/p&gt;
-&lt;p&gt;a) Transmitir el código objeto en, o embebido en, un producto físico (incluyendo medios de distribución físicos), acompañado de la Fuente Correspondiente en un medio físico duradero habitual para el intercambio de software.&lt;/p&gt;
-&lt;p&gt;b) Transmitir el código objeto en, o embebido en, un producto físico (incluyendo medios de distribución físicos), acompañado de un ofrecimiento escrito, válido durante al menos tres años y válido mientras usted ofrezca recambios o soporte para ese modelo de producto, de dar a cualquiera que posea el código objeto o (1) una copia de la Fuente Correspondiente de todo el software en el producto amparado por esta Licencia, en un medio físico duradero habitual para el intercambio de software, por un precio no más elevado que el coste razonable de la realización física de la transmisión de la fuente, o (2) acceso para copiar la Fuente Correspondiente de un servidor de red sin costo alguno.&lt;/p&gt;
-&lt;p&gt;c) Transmitir copias individuales del código objeto con una copia del ofrecimiento escrito de proveer la Fuente Correspondiente. Esta alternativa está permitida solo ocasionalmente sin fines comerciales, y solo si usted ha recibido el código objeto con ese ofrecimiento, de acuerdo con la subsección 6b.&lt;/p&gt;
-&lt;p&gt;d) Transmitir el código objeto ofreciendo acceso desde un lugar determinado (gratuitamente o mediante pago), y ofrecer acceso equivalente a la Fuente Correspondiente de la misma manera en el mismo lugar sin cargo adicional. No es necesario exigir a los destinatarios que copien la Fuente Correspondiente junto con el código objeto. Si el lugar para copiar el código objeto es un servidor de red, la Fuente Correspondiente puede estar en un servidor diferente (gestionado por usted o un tercero) que soporte facilidades de copia equivalentes, siempre que mantenga instrucciones claras junto al código objeto especificando dónde encontrar la Fuente Correspondiente. Independientemente de qué servidor albergue la Fuente Correspondiente, usted seguirá estando obligado a asegurar que está disponible durante el tiempo que sea necesario para satisfacer estos requisitos.&lt;/p&gt;
-&lt;p&gt;e) Transmitir el código objeto usando una transmisión peer-to-peer, siempre que informe a los otros usuarios donde se ofrece el código objeto y la Fuente Correspondiente de la obra al público general de forma gratuita bajo la subsección 6d.&lt;/p&gt;
-&lt;p&gt;Una porción separable del código objeto, cuyo código fuente está excluido de la Fuente Correspondiente, como una Biblioteca del Sistema, no necesita ser incluida en la distribución del código objeto de la obra.&lt;/p&gt;
-&lt;p&gt;Un “Producto de Usuario” es o (1) un “producto de consumo”, lo que significa cualquier propiedad tangible personal que es usada habitualmente con fines personales, familiares o domésticos, o (2) cualquier cosa diseñada o vendida para ser incorporada en una vivienda. A la hora de determinar cuando un producto es un producto de consumo, los casos dudosos serán resueltos en favor de la cobertura. Para un producto concreto recibido por un usuario concreto, “uso habitual” se refiere a un uso típico y común de esa clase de producto, sin tener en cuenta el estado del usuario concreto o la forma en la que el usuario concreto realmente use, o espera o se espera que use, el producto. Un producto es un producto de consumo independientemente de si el producto tiene usos esencialmente comerciales, industriales o no comerciales, a menos que dicho uso constituya el único modo de uso significativo del producto.&lt;/p&gt;
-&lt;p&gt;La “Información de Instalación” de un Producto de Usuario quiere decir cualquier método, procedimiento, clave de autorización, u otra información requerida para instalar y ejecutar versiones modificadas de la obra amparada en ese Producto de Usuario a partir de una versión modificada de su Fuente Correspondiente. La información debe ser suficiente para garantizar que el funcionamiento continuado del código fuente modificado no es prevenido o interferido por el simple hecho de que ha sido modificado.&lt;/p&gt;
-&lt;p&gt;Si usted transmite una obra en código objeto bajo esta sección en, o con, o específicamete para usar en, un Producto de Usuario, y la transmisión tiene lugar como parte de una transacción en la cual el derecho de posesión y uso de un Producto de Usuario es transferido a un destinatario en perpetuidad o por un periodo establecido (independientemente de cómo se caracterice la operación), la Fuente Correspondiente transmitida bajo esta sección debe estar acompañada de la Información de Instalación. Pero este requisito no se aplica si ni usted ni ningún tercero tiene la capacidad de instalar código objeto modificado en el Producto de Usuario (por ejemplo, la obra ha sido instalada en la ROM).&lt;/p&gt;
-&lt;p&gt;El requisito de proveer de la Información de Instalación no incluye el requisito de continuar proporcionando asistencia, garantía, o actualizaciones para una obra que ha sido modificada o instalada por el destinatario, o para un Producto de Usuario en el cual ha sido modificada o instalada. El acceso a una red puede ser denegado cuando la modificación en sí afecta materialmente y adversamente el funcionamiento de la red o viola las reglas y protocolos de comunicación de la red.&lt;/p&gt;
-&lt;p&gt;La Fuente Correspondiente transmitida, y la Información de Instalación proporcionada, de acuerdo con esta sección debe estar en un formato que sea documentado públicamente (y con una implementación disponible para el público en formato de código fuente), y no deben necesitar contraseñas o claves particulares para la extracción, lectura o copia.&lt;/p&gt;
-&lt;ol start=&#34;7&#34;&gt;
-&lt;li&gt;Términos adicionales.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Los “Permisos adicionales” son términos que se añaden a los términos de esta Licencia haciendo excepciones de una o más de una de sus condiciones. Los permisos adicionales que son aplicables al Programa entero deberán ser tratados como si estuvieran incluidos en esta Licencia, en la medida bajo la ley aplicable. Si los permisos adicionales solo son aplicables a parte del Programa, esa parte debe ser usada separadamente bajo esos permisos, pero el Programa completo queda bajo la autoridad de esta Licencia sin considerar los permisos adicionales.&lt;/p&gt;
-&lt;p&gt;Cuando se transmite una copia de una obra derivada, se puede opcionalmente quitar cualesquiera permisos adicionales de esa copia, o de cualquier parte de ella. Los permisos adicionales pueden ser escritos para requerir su propia eliminación bajo ciertos casos cuando se modifica la obra. Se pueden colocar permisos adicionales en material, añadidos a una obra derivada, para los cuales se establecen o se pueden establecer los permisos de derechos de autor (“copyright”) apropiados.&lt;/p&gt;
-&lt;p&gt;No obstante cualquier otra disposición de esta Licencia, para el material que se añada a una obra derivada, se puede (si está autorizado por los titulares de los derechos de autor (“copyright”) del material) añadir los términos de esta Licencia con los siguientes términos:&lt;/p&gt;
-&lt;p&gt;a)  Ausencia de garantía o limitación de responsabilidad diferente de los términos de las secciones 15 y 16 de esta Licencia; o&lt;/p&gt;
-&lt;p&gt;b)  Exigir la preservación de determinados avisos legales razonables o atribuciones de autor en ese material o en los Avisos Legales Apropiados mostrados por los obras que lo contengan; o&lt;/p&gt;
-&lt;p&gt;c)  Prohibir la tergiversación del origen de ese material, o requerir que las versiones modificadas del material se marquen de maneras razonables como diferentes de la versión original; o&lt;/p&gt;
-&lt;p&gt;d)  Limitar el uso con fines publicitarios de los nombres de los licenciantes o autores del material; o&lt;/p&gt;
-&lt;p&gt;e)  Negarse a ofrecer derechos concedidos por leyes de registro para el uso de alguno nombres comerciales, marcas registradas o marcas de servicio; o&lt;/p&gt;
-&lt;p&gt;f)  Exigir la compensación de los licenciantes y autores de ese material por cualquiera que distribuya el material (o versiones modificadas del mismo) estableciendo obligaciones contractuales de responsabilidad sobre el destinatario, por cualquier responsabilidad que estas obligaciones contractuales impongan directamente sobre los licenciantes y autores.&lt;/p&gt;
-&lt;p&gt;Todos los demás términos adicionales no permisivos son consideradas “restricciones extra” en el sentido de la sección 10. Si el Programa, tal cual se recibió, o cualquier parte del mismo, contiene un aviso indicando que se encuentra cubierto por esta Licencia junto con un término que es otra restricción, se puede quitar ese término. Si un documento de licencia contiene una restricción adicional, pero permite relicenciar o redistribuir bajo esta Licencia, se puede añadir a un material de la obra derivada bajo los términos de ese documento de licencia, a condición de que dicha restricción no sobreviva el relicenciamiento o redistribución.&lt;/p&gt;
-&lt;p&gt;Si se añaden términos a una obra derivada de acuerdo con esta sección, se debe colocar, en los archivos fuente involucrados, una declaración de los términos adicionales aplicables a esos archivos, o un aviso indicando donde encontrar los términos aplicables.&lt;/p&gt;
-&lt;p&gt;Las términos adicionales, permisivos o no permisivos, pueden aparecer en forma de una licencia escrita por separado, o figurar como excepciones; los requisitos anteriores son aplicables en cualquier forma.&lt;/p&gt;
-&lt;ol start=&#34;8&#34;&gt;
-&lt;li&gt;Conclusiones.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Usted no podrá propagar o modificar una obra amparada salvo lo expresamente permitido por esta Licencia. Cualquier intento diferente de propagación o modificación será considerado nulo y automáticamente se anularán sus derechos bajo esta Licencia (incluyendo las licencias de patentes concedidas bajo el tercer párrafo de la sección 11).&lt;/p&gt;
-&lt;p&gt;Sin embargo, si usted deja de violar esta Licencia, entonces su licencia de un titular de los derechos de autor (“copyright”) correspondiente será restituida (a) provisionalmente, a menos que y hasta que el titular de los derechos de autor (“copyright”) explícita y finalmente termine su licencia, y (b) permanentemente, si el titular del copyright no le ha notificado su violación por algún medio razonable antes de los 60 días siguientes a la cesación.&lt;/p&gt;
-&lt;p&gt;Además, su licencia de un titular de los derechos de autor (“copyright”) correspondiente será restituida permanentemente si el titular de los derechos de autor (“copyright”) le notifica la violación por algún medio razonable, siendo ésta la primera vez que recibe la notificación de violación de esta Licencia (para cualquier obra) de ese titular de los derechos de autor (“copyright”), y usted subsana la violación antes de 30 días después de la recepción de la notificación.&lt;/p&gt;
-&lt;p&gt;La cancelación de sus derechos bajo esta sección no da por canceladas las licencias de terceros que hayan recibido copias o derechos de usted bajo esta Licencia. Si sus derechos han sido cancelados y no fueran renovados de manera permanente, usted no cumple los requisitos para recibir nuevas licencias para el mismo material bajo la sección 10.&lt;/p&gt;
-&lt;ol start=&#34;9&#34;&gt;
-&lt;li&gt;Aceptación No Obligatoria por Tenencia de Copias.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Usted no está obligado a aceptar esta Licencia por recibir o ejecutar una copia del Programa. La propagación adicional de una obra amparada surgida únicamente como consecuencia de usar una transmisión peer-to-peer para recibir una copia tampoco requiere aceptación. Sin embargo, esta Licencia solo le otorga permiso para propagar o modificar cualquier obra amparada. Estas acciones infringen los derechos de autor (“copyright”) si usted no acepta esta Licencia. Por lo tanto, al modificar o distribuir una obra amparada, usted indica que acepta esta Licencia para poder hacerlo.&lt;/p&gt;
-&lt;ol start=&#34;10&#34;&gt;
-&lt;li&gt;Herencia Automática de Licencia para Destinatarios.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Cada vez que transmita una obra amparada, el destinatario recibirá automáticamente una licencia de los licenciadores originales, para ejecutar, modificar y distribuir esa obra, sujeto a esa Licencia. Usted no será responsable de asegurar el cumplimiento de esta Licencia por terceros.&lt;/p&gt;
-&lt;p&gt;Una “transacción de entidad” es una transacción que transfiere el control de una organización, o sustancialmente todos los bienes de una, o subdivide una organización, o fusiona organizaciones. Si la propagación de una obra amparada surge de una transacción de entidad, cada parte en esa transacción que reciba una copia de la obra también recibe todas las licencias de la obra que la parte interesada tuviese o pudiese ofrecer según el párrafo anterior, además del derecho a tomar posesión de las Fuentes Correspondientes de la obra a través del predecesor interesado, si el predecesor tiene o puede conseguirla con un esfuerzo razonable.&lt;/p&gt;
-&lt;p&gt;Usted no podrá imponer ninguna restricción posterior en el ejercicio de los derechos otorgados o concedidos bajo esta Licencia. Por ejemplo, usted no puede imponer un pago por licencia, derechos u otros cargos por el ejercicio de los derechos otorgados bajo esta Licencia, y no puede iniciar litigios (incluyendo demandas o contrademandas en pleitos) alegando cualquier reclamación de violación de patentes por cambiar, usar, vender, ofrecer en venta o importar el Programa o alguna parte del mismo.&lt;/p&gt;
-&lt;ol start=&#34;11&#34;&gt;
-&lt;li&gt;Patentes.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Un “colaborador” es un titular de los derechos de autor (“copyright”) que autoriza, bajo los términos de la presente Licencia, el uso del Programa o una obra en la que se base el Programa. La obra así licenciada se denomina “versión en colaboración” del colaborador.&lt;/p&gt;
-&lt;p&gt;Las “demandas de patente esenciales” del colaborador son todas las reivindicaciones de patentes poseídas o controladas por el colaborador, ya se encuentren adquiridas o hayan sido adquiridas con posterioridad, que sean infringidas de alguna manera, permitidas por esta Licencia, al hacer, usar o vender la versión en colaboración, pero sin incluir demandas que solo sean infringidas como consecuencia de modificaciones posteriores de la versión en colaboración. Para los propósitos de esta definición, “control” incluye el derecho de conceder sublicencias de patente de forma consistente con los requisitos establecidos en la presente Licencia.&lt;/p&gt;
-&lt;p&gt;Cada colaborador le concede una licencia de la patente no-exclusiva, global y libre de regalías bajo las demandas de patente esenciales del colaborador, para hacer, usar, modificar, vender, ofrecer para venta, importar y otras formas de ejecución, modificación y difusión del contenido de la versión en colaboración.&lt;/p&gt;
-&lt;p&gt;En los siguientes tres párrafos, una “licencia de patente” se define como cualquier acuerdo o compromiso expreso, cualquiera que sea su denominación, que no imponga una patente (como el permiso expreso para ejecutar una patente o acuerdos para no imponer demandas por infracción de patente). “Conceder” una licencias de patente de este tipo a un tercero significa hacer tal tipo de acuerdo o compromiso que no imponga una patente al tercero.&lt;/p&gt;
-&lt;p&gt;Si usted transmite una obra amparada, conociendo que está amparada por una licencia de patente, y las Fuentes Correspondientes no se encuentran disponibles de forma pública para su copia, sin cargo alguno y bajo los términos de esta Licencia, ya sea a través de un servidor público o mediante cualquier otro medio, entonces usted deberá (1) hacer que las Fuentes Correspondientes sean públicas, o (2) tratar de eliminar los beneficios de la licencia de patente para esta obra en particular, o (3) tratar de extender, de manera compatible con los requisitos de esta Licencia, la licencia de patente a terceros. “Conocer que está afectado” significa que usted tiene conocimiento real de que, para la licencia de patente, la distribución de la obra amparada en un país, o el uso de la obra amparada por sus destinatarios en un país, infringiría una o más patentes existentes en ese país que usted considera válidas por algún motivo.&lt;/p&gt;
-&lt;p&gt;Si en virtud de o en conexión con alguna transacción o acuerdo, usted transmite, o difunde con fines de distribución, una obra amparada, y concede una licencia de patente para algún tercero que reciba la obra amparada, y les autorice a usar, transmitir, modificar o difundir una copia específica de la obra amparada, entonces la licencia de patente que usted otorgue se extiende automáticamente a todos los receptores de la obra amparada y cualquier obra basada en ella.&lt;/p&gt;
-&lt;p&gt;Una licencia de patente es “discriminatoria” si no incluye dentro de su ámbito de cobertura, prohibe el ejercicio de, o está condicionada a no ejercitar uno o más de los derechos que están específicamente otorgados por esta Licencia. Usted no debe transmitir una obra amparada si está implicado en un acuerdo con terceros que esté relacionado con el negocio de la distribución de software, en el que usted haga pagos a terceros relacionados con su actividad de distribución de la obra, bajo el que terceros conceden, a cualquier receptor de la obra amparada, una licencia de patente discriminatoria (a) en relación con las copias de la obra amparada transmitidas por usted (o copias hechas a partir de estas), o (b) principalmente para y en relación con productos específicos o compilaciones que contengan la obra amparada, a menos que usted forme parte del acuerdo, o que esa licencia de patente fuese concedida antes del 28 de marzo de 2007.&lt;/p&gt;
-&lt;p&gt;Ninguna cláusula de esta Licencia debe ser considerada como excluyente o limitante de cualquier otra licencia implicada u otras defensas legales a que pudiera tener derecho bajo la ley de propiedad intelectual vigente.&lt;/p&gt;
-&lt;ol start=&#34;12&#34;&gt;
-&lt;li&gt;No Abandonar la Libertad de Otros.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Si se le imponen condiciones (bien sea por orden judicial, acuerdo o de otra manera) que contradicen las condiciones de esta Licencia, estas no le eximen de las condiciones de esta Licencia. Si usted no puede transmitir una obra amparada de forma que pueda satisfacer simultáneamente sus obligaciones bajo esta Licencia y cualesquiera otras obligaciones pertinentes, entonces, como consecuencia, usted no puede transmitirla. Por ejemplo, si usted está de acuerdo con los términos que le obligan a cobrar una regalía por la transmisión a aquellos a los que transmite el Programa, la única forma en la que usted podría satisfacer tanto esos términos como esta Licencia sería abstenerse completamente de transmitir el Programa.&lt;/p&gt;
-&lt;ol start=&#34;13&#34;&gt;
-&lt;li&gt;Utilización con la Licencia Pública General Affero de GNU.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;A pesar de cualquier otra disposición de esta Licencia, usted tiene permiso para enlazar o combinar cualquier obra amparada con una obra licenciada bajo la Licencia Pública General Affero de GNU en una única obra combinada, y para transmitir la obra resultante. Los términos de esta Licencia continuarán aplicándose a la parte que es la obra amparada, pero los requisitos particulares de la Licencia Pública General Affero de GNU, sección 13, concernientes a la interacción a través de una red se aplicarán a la combinación como tal.&lt;/p&gt;
-&lt;ol start=&#34;14&#34;&gt;
-&lt;li&gt;Versiones Revisadas de esta Licencia.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;La Free Software Foundation puede publicar versiones revisadas y/o nuevas de la Licencia General Pública de GNU de vez en cuando. Cada nueva versión será similar en espíritu a la versión actual, pero puede diferir en detalles para abordar nuevos problemas o preocupaciones.&lt;/p&gt;
-&lt;p&gt;Cada versión recibe un número de versión distintivo. Si el Programa especifica que cierta versión numerada de la Licencia General Pública de GNU “o cualquier versión posterior” se aplica a él, usted tiene la opción de seguir los términos y condiciones de esa versión numerada o de cualquier versión posterior publicada por la Free Software Foundation. Si el Programa no especifica un número de versión de la Licencia General Pública de GNU, usted puede escoger cualquier versión publicada por la Free Software Foundation.&lt;/p&gt;
-&lt;p&gt;Si el Programa escifica que un representante puede decidir que versiones futuras de la Licencia General Pública de GNU pueden ser utilizadas, la declaración pública del representante de aceptar una versión permanentemente le autoriza a usted a elegir esa versión para el Programa.&lt;/p&gt;
-&lt;p&gt;Las versiones posteriores de la licencia pueden darle permisos adicionales o diferentes. No obstante, no se impone a ningún autor o titular de los derechos de autor obligaciones adicionales como resultado de su elección de seguir una versión posterior.&lt;/p&gt;
-&lt;ol start=&#34;15&#34;&gt;
-&lt;li&gt;Descargo de Responsabilidad de Garantía.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;NO HAY GARANTÍA PARA EL PROGRAMA, PARA LA EXTENSIÓN PERMITIDA POR LA LEY APLICABLE. EXCEPTO CUANDO SE INDIQUE LO CONTRARIO POR ESCRITO, LOS TITULARES DE LOS DERECHOS DE AUTOR (“COPYRIGHT”) Y/O TERCEROS PROPORCIONAN EL PROGRAMA “TAL CUAL” SIN GARANTÍAS DE NINGÚN TIPO, BIEN SEAN EXPLÍCITAS O IMPLÍCITAS, INCLUYENDO, PERO NO LIMITADO A, LAS GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN Y APTITUD PARA UN PROPÓSITO PARTICULAR. EL RIESGO TOTAL EN CUANTO A CALIDAD Y RENDIMIENTO DEL PROGRAMA ES CON USTED. SI EL PROGRAMA PRESENTA ALGÚN DEFECTO, USTED ASUME EL COSTO DE TODAS LAS REVISIONES NECESARIAS, REPARACIONES O CORRECCIONES.
-Limitación de la responsabilidad.&lt;/p&gt;
-&lt;p&gt;EN NINGÚN CASO A MENOS QUE SEA REQUERIDO POR UNA LEY APLICABLE O ACUERDO ESCRITO NINGÚN TITULAR DE LOS DERECHOS DE AUTOR (“COPYRIGHT”), O NINGÚN TERCERO QUE MODIFIQUE Y/O TRANSMITA EL PROGRAMA COMO SE PERMITE ANTERIORMENTE, SERÁ RESPONSABLE ANTE USTED POR DAÑOS, INCLUYENDO CUALESQUIERA DAÑOS GENERALES, PARTICULARES, IMPREVISTOS O DERIVADOS DEL USO O IMPOSIBILIDAD DE USO DEL PROGRAMA (INCLUYENDO, PERO NO LIMITADO A, LA PÉRDIDA DE DATOS, DATOS GENERADOS INCORRECTOS, PÉRDIDAS SUFRIDAS POR USTED O POR TERCERAS PERSONAS, O LOS FALLOS DEL PROGRAMA PARA OPERAR CON OTROS PROGRAMAS), INCLUSO SI DICHO TITULAR O UN TERCERO HA SIDO ADVERTIDO DE LA POSIBILIDAD DE TALES DAÑOS.
-Interpretación de las Secciones 15 y 16.&lt;/p&gt;
-&lt;p&gt;Si el descargo de responsabilidad de garantía y el límite de responsabilidad proporcionado anteriormente no tiene efectos legales de acuerdo a sus términos, los juzgados deberán aplicar la ley local que más se asemeje a una renuncia absoluta de la responsabilidad civil concerniente al Programa, a menos que una garantía o una asunción de responsabilidad acompañe a la copia del Programa como resultado del pago de una tasa.&lt;/p&gt;
-&lt;p&gt;Fin de los términos y condiciones&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Programa nacional de reactivación del empleo</title>
-      <link>/slides/presentacion/</link>
+      <link>https://lavanguardia.netlify.app/slides/presentacion/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/presentacion/</guid>
+      <guid>https://lavanguardia.netlify.app/slides/presentacion/</guid>
       <description>&lt;img src=&#34;1.png&#34; width=&#34;100%&#34;&gt;
 &lt;hr&gt;
 &lt;img src=&#34;2.png&#34; width=&#34;100%&#34;&gt;
@@ -727,9 +705,9 @@ Interpretación de las Secciones 15 y 16.&lt;/p&gt;
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://lavanguardia.netlify.app/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://lavanguardia.netlify.app/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -856,26 +834,6 @@ Three
 &lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Políticas de Privacidad</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;h2 id=&#34;compromiso-con-la-seguridad-y-la-privacidad&#34;&gt;Compromiso con la Seguridad y la Privacidad&lt;/h2&gt;
-&lt;p&gt;Tomamos todas las precauciones para proteger la información de nuestros usuarios. Cuando un usuario remite información confidencial a través de la página, la información está protegida tanto online como offline.
-Cuando nuestro formulario de contacto/pedido le solicita a los usuarios que ingresen información confidencial (como si fuese número de tarjeta de crédito), se codifica y protege a través del software de codificación de SSL. Toda la información de nuestros usuarios, no solo la información confidencial antedicha se restringe a nuestro colectivo. Únicamente el equipo que necesitan la información para realizar una tarea específica (por ejemplo un representante de servicios al cliente) tiene acceso a información identificable del cliente. Por último, los servidores en que almacenamos la información personal identificable, se guardan en un lugar blindado.&lt;/p&gt;
-&lt;p&gt;Si tiene preguntas respecto de la seguridad en nuestra página, envíenlas a través de nuestra página &amp;ldquo;Contacto&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;cookies&#34;&gt;Cookies&lt;/h2&gt;
-&lt;p&gt;Una cookie es un dato que se almacena en el disco duro del usuario que contiene información respecto del usuario, tal como la identificación del usuario para acceder a la página. Si un usuario rechaza la cookie, no podrán iniciar la sesión en nuestra página para tener acceso al contenido premium. No utilizamos cookies para almacenar información confidencial.&lt;/p&gt;
-&lt;h2 id=&#34;archivos-para-iniciar-la-sesión&#34;&gt;Archivos para Iniciar la Sesión&lt;/h2&gt;
-&lt;p&gt;Utilizamos direcciones del Internet Protocol (IP) para analizar tendencias, administrar la página, rastrear los movimientos del usuario en nuestra página, y reunir información demográfica amplia para uso conjunto.&lt;/p&gt;
-&lt;h2 id=&#34;vínculos&#34;&gt;Vínculos&lt;/h2&gt;
-&lt;p&gt;Esta página contiene vínculos a otras páginas. &amp;ldquo;Colectivo La Vanguardia&amp;rdquo; no es responsable por las prácticas de privacidad de otras páginas. Alentamos a nuestros usuarios a que sean concientes de cuando abandonen nuestra página, y lean las declaraciones de privacidad de cada página que recoja información personal identificable.&lt;/p&gt;
-&lt;p&gt;Notificación de Cambios
-&amp;ldquo;Colectivo La Vanguardia&amp;rdquo; se reserva los derechos de modificar su política de privacidad. Sin embargo, si decidiéramos modificar nuestra política, informaríamos de nuestros cambios claramente, por lo tanto, los usuarios siempre estarán concientes de la información que recogemos, cómo la usamos, y bajo qué circunstancias, de existir, la revelaremos. Si en algún momento decidiéramos utilizar información personalmente identificable, de un modo distinto al que afirmamos en el momento de recolectarla, notificaremos a los usuarios mediante correo electrónico.&lt;/p&gt;
 </description>
     </item>
     

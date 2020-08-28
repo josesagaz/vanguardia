@@ -2,21 +2,134 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>articulos | La Vanguardia</title>
-    <link>/category/articulos/</link>
-      <atom:link href="/category/articulos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lavanguardia.netlify.app/category/articulos/</link>
+      <atom:link href="https://lavanguardia.netlify.app/category/articulos/index.xml" rel="self" type="application/rss+xml" />
     <description>articulos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020</copyright><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020</copyright><lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu13402f629f3321d08a8b922a7ca9cac1_82748_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lavanguardia.netlify.app/images/icon_hu13402f629f3321d08a8b922a7ca9cac1_82748_512x512_fill_lanczos_center_2.png</url>
       <title>articulos</title>
-      <link>/category/articulos/</link>
+      <link>https://lavanguardia.netlify.app/category/articulos/</link>
     </image>
     
     <item>
+      <title>Iniciativa “América Crece”: América Latina para EE. UU.</title>
+      <link>https://lavanguardia.netlify.app/publication/iniciativa-america-crece/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://lavanguardia.netlify.app/publication/iniciativa-america-crece/</guid>
+      <description>&lt;p&gt;El 16 de diciembre de 2019, la Agencia de Comercio y Desarrollo de los Estados Unidos (USTDA) publicó la convocatoria para proyectos de infraestructura digital en América Latina y El Caribe (ALC), incluyendo la instalación de cable de fibra óptica, comunicaciones satelitales, conectividad y banda ancha, automatización de servicios públicos entre otros objetivos.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Esto se inscribe en el marco de la “Iniciativa América Crece”, que agrupa proyectos de energía e infraestructura con el sello de la actual gestión republicana. Ahora se suman proyectos en comunicaciones, ciberseguridad, servicios digitales, modernización de puertos, carreteras, aeropuertos y transportes, sobre todo de mercancías.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; Este impulso se inscribe en el America First de Donald Trump: la expansión de la economía estadounidense en un continente en disputa con otras potencias, como China y Rusia, destacando la competencia con China en aspectos comerciales, telecomunicaciones y de infraestructura.&lt;/p&gt;
+&lt;p&gt;La Iniciativa América Crece es responsabilidad de varias agencias y departamentos del Gobierno estadounidense como el Departamento de Estado, del Tesoro, de Comercio y de Energía. Además, están la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID), la USTDA y la Corporación para la Inversión Privada en el Extranjero (OPIC), que cambió su nombre a Corporación Financiera Internacional para el Desarrollo de los Estados Unidos (DFC).&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; Desde 2018 se anunció una reestructuración de USAID y OPIC con la Ley BUILD.&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Uno de los aspectos más relevantes es el que se refiere a nuevos marcos regulatorios y estructuras de adquisiciones y compras gubernamentales abiertos, transparentes y de fácil consulta vía internet. México es el mejor ejemplo, donde la USAID ha financiado la adopción del Estándar de Datos de Contratación Abiertos (OCDS, por sus siglas en inglés).&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Vale destacar que la creación y expansión de estos marcos regulatorios forman parte de las estrategias del Gobierno estadounidense para garantizar estabilidad o certidumbre a sus principales empresas privadas que, si bien trascienden a la administración actual, se inscriben en un giro importante dado por el Gobierno de Trump. Desde su llegada al Ejecutivo, Trump recortó el presupuesto en asistencia para el desarrollo (especialmente el que corría por la vía bilateral). La asistencia es una forma de inversión (aunque no se presente así a nivel de discurso oficial) y, como tal, genera endeudamiento y atadura a determinadas condiciones para recibirla. En la actual gestión, se propicia la inversión de modo más directo vía sector privado y corporaciones empresariales (como la OPIC), a tono con el tipo de objetivos y retórica republicana, pero que de igual modo garantiza el acceso a mercados y el endeudamiento por parte de países receptores.&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;américa-crece-o-la-expansión-de-ee-uu-en-américa-latina&#34;&gt;América Crece (o la expansión de EE. UU. en América Latina)&lt;/h2&gt;
+&lt;p&gt;La Iniciativa América Crece incluye a la mayoría de los países de ALC, excepto a Venezuela, Cuba y Nicaragua que están fuera por motivos políticos, geopolíticos y que, además, cuentan con sanciones económicas que tienen por objetivo deponer a los actuales gobiernos.&lt;/p&gt;
+&lt;p&gt;El caso de México es de vital importancia. El nuevo T-MEC incorpora nuevos aspectos en materia laboral, energética y apertura de sectores estratégicos que comenzaron gradualmente desde la década de los noventa (y que, debido a las reformas estructurales de 2012, sectores como telecomunicaciones e hidrocarburos, adquirieron mayor relevancia). Precisamente, uno de los planes para el sector privado estadounidense se encuentra en la guía “Grandes Proyectos de Infraestructura en México” publicada por la USTDA en 2014.&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; Hacia 2019 varios proyectos comienzan a materializarse en materia energética y faltan otros como el proyecto del tren transpeninsular, proyecto de larga data que ha sido uno de los principales objetivos de Estados Unidos (EE. UU.) en México desde el siglo XIX (Tratado McLane-Ocampo). Por último, el Plan de Desarrollo para Centroamérica propuesto por Andrés Manuel López Obrador (AMLO), contará con recursos de EE. UU. y también de la Unión Europea.&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;En el Caribe, como hemos informado,&lt;sup id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; una de las grandes apuestas es en energía. Para 2020 está pensada la creación de la Terminal de Gas Natural Licuado (GNL) y de la Planta de Energía en República Dominicana.&lt;sup id=&#34;fnref:10&#34;&gt;&lt;a href=&#34;#fn:10&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;10&lt;/a&gt;&lt;/sup&gt; Este es uno de los rubros en disputa con China, país que también tiene proyectos de infraestructura energética en esa región.&lt;/p&gt;
+&lt;p&gt;El único proyecto subregional es para los países del Triángulo Norte de Centroamérica, donde se planea el desarrollo de infraestructura en comunicaciones, transportes y energía. En Honduras, uno de los proyectos energéticos ya construidos fue la planta geotérmica de Platanares. Dicha planta fue construida por la empresa estadounidense Ormat Technologies y Electricidad Cortes. Actualmente suministra energía a cien mil hogares&lt;sup id=&#34;fnref:11&#34;&gt;&lt;a href=&#34;#fn:11&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;11&lt;/a&gt;&lt;/sup&gt; y fue uno de los proyectos que contó con apoyo del BID/USTDA.&lt;/p&gt;
+&lt;p&gt;En Guatemala los proyectos ya anunciados fueron la construcción de vivienda social y un parque industrial; un plan de interconexión eléctrica y la construcción de un tramo carretero que sería privado.&lt;sup id=&#34;fnref:12&#34;&gt;&lt;a href=&#34;#fn:12&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;12&lt;/a&gt;&lt;/sup&gt; El proyecto de interconexión eléctrica no es nuevo, viene desde hace años como parte del proyecto Mesoamérica.&lt;/p&gt;
+&lt;p&gt;En Panamá uno de los acuerdos entre la USTDA y el Gobierno es para la capacitación de altos funcionarios para el análisis de costos en la adquisición de infraestructura. La iniciativa se encuentra en once países más.&lt;sup id=&#34;fnref:13&#34;&gt;&lt;a href=&#34;#fn:13&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;13&lt;/a&gt;&lt;/sup&gt; Entre los proyectos de infraestructura más importantes que se encuentran actualmente en Panamá y que podrían entrar en la iniciativa de fomento a inversiones están el metro de Panamá, el Puerto de Contenedores de Colón y Puerto de Transbordo Corozal.&lt;/p&gt;
+&lt;p&gt;En el caso de Perú, al igual que Panamá, está por firmar acuerdos energéticos. Con Perú está en evaluación un Memorandum de Entendimiento.&lt;sup id=&#34;fnref:14&#34;&gt;&lt;a href=&#34;#fn:14&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;14&lt;/a&gt;&lt;/sup&gt; Con Panamá se avanzó también en un proyecto energético para que el país se convierta en un punto de conexión energética y genere más electricidad con gas natural licuado proveniente de EE. UU.&lt;sup id=&#34;fnref:15&#34;&gt;&lt;a href=&#34;#fn:15&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;15&lt;/a&gt;&lt;/sup&gt; En ambos casos se desconocen aún el tipo de acuerdo y las condiciones para financiar estos proyectos que en el pasado fueron vía endeudamiento y modificaciones en las leyes para permitir la entrada de capital estadounidense.&lt;/p&gt;
+&lt;p&gt;En Brasil los proyectos son en energía e infraestructura de transporte de mercancías, sobre todo en carreteras, aeropuertos, puertos e infraestructura ferroviaria. Desde 2016, después del golpe de Estado a Dilma Rousseff, el proceso de privatizaciones y liberalización de licitaciones a empresas privadas nacionales y extranjeras es parte de un proceso anhelado por el sector privado estadounidense y que forma parte de la Iniciativa América Crece. En este caso, se incluyó también el sector financiero y tienen en la mira la reestructuración del BNDES.&lt;sup id=&#34;fnref:16&#34;&gt;&lt;a href=&#34;#fn:16&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;16&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;china-en-alc-o-el-freno-para-el-america-first&#34;&gt;China en ALC (o el freno para el America First)&lt;/h2&gt;
+&lt;p&gt;En los últimos años, varios países de ALC se han asociado comercialmente con mayor solidez con China, que ya es el principal socio comercial de Argentina, Brasil, Chile, Perú y Uruguay. Además, es el segundo socio comercial de México y Colombia (aliado incondicional de EE. UU.), que ya comenzó a estrechar relaciones con China.&lt;sup id=&#34;fnref:17&#34;&gt;&lt;a href=&#34;#fn:17&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;17&lt;/a&gt;&lt;/sup&gt; Las principales inversiones chinas son en infraestructura, energía, manufactura, innovación tecnológica, agricultura y tecnología de la información.&lt;sup id=&#34;fnref:18&#34;&gt;&lt;a href=&#34;#fn:18&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;18&lt;/a&gt;&lt;/sup&gt; En total, el comercio de enero a noviembre de 2019 de la región con el país asiático, fue de 286.830 millones de dólares.&lt;sup id=&#34;fnref:19&#34;&gt;&lt;a href=&#34;#fn:19&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;19&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Esta expansión de la presencia comercial y de inversiones chinas, puede ser leída en el marco de una guerra con EE. UU. que va más allá de lo económico, alcanzando aspectos geopolíticos. Es evidente la disputa por recursos estratégicos y espacios para el capital en áreas como energía e infraestructura de puertos, carreteras y aeropuertos, tres formas mediante las cuales se mueven mercancías. Menos visible es la importancia de las denominadas “tierras raras” en esta disputa. En este rubro EE. UU. tiene una alta dependencia de China (80%).&lt;sup id=&#34;fnref:20&#34;&gt;&lt;a href=&#34;#fn:20&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;20&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;perspectiva-y-prospectiva-hacia-2020&#34;&gt;Perspectiva y prospectiva hacia 2020&lt;/h2&gt;
+&lt;p&gt;La presencia china en la región se ha incrementado notablemente desde que comenzó el siglo XXI mediante préstamos a gobiernos latinoamericanos, de inversiones y empresas. Ello implica la creación de empleos y de valor. Este es uno de los rubros fundamentales, pues la transferencia de valor de ALC no ha dejado de fluir, ahora, con más importancia hacia China, aspecto que EE. UU. pretende modificar a su favor.&lt;/p&gt;
+&lt;p&gt;A la creación de la Iniciativa América Crece se suman tratados de libre comercio con varios países (siendo el más importante el T-MEC) articulados con estrategias militares como la Iniciativa Mérida, el Plan “Paz Colombia”, la Iniciativa Regional de Seguridad para América Central (CARSI), la Alianza del Pacífico y la Iniciativa de Seguridad para El Caribe.&lt;/p&gt;
+&lt;p&gt;Por último, la Iniciativa América Crece pretende colocar las exportaciones de gas en la región. La reforma energética de 2012 en México abrió el camino para la exportación y conexión de gas con Centroamérica. A su vez, Colombia, Ecuador, Perú y Chile entran en esa estrategia a través de la infraestructura de energía eléctrica. El golpe de Estado en Bolivia puede inscribirse en esta disputa por recursos (reservas de gas y litio) y habrá que ver cómo se inscribe en esta iniciativa. El yacimiento de Vaca Muerta en la Patagonia argentina, así como el control de las reservas de hidrocarburos del Pre-sal en Brasil, terminan por completar un mapa conocido por intereses públicos y privados estadounidenses de larga data en el continente y que se exacerban en la lucha con otras potencias. Venezuela sigue siendo el espacio en disputa en este escenario (con alianzas cada vez más estrechas con China y Rusia).&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ustda.gov/ustda-announces-call-for-digital-infrastructure-project-proposals-in-latin-america-and-the-caribbean/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ustda.gov &amp;ndash; La Agencia de Comercio y Desarrollo de EE.UU.&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.usaid.gov/sites/default/files/documents/1861/USAID_DCCP_Fact_Sheet_080719f.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.usaid.gov &amp;ndash; Agencia de los Estados Unidos para el Desarrollo Internacional&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.state.gov/growth-in-the-americas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.state.gov &amp;ndash; U.S Department of State&lt;/a&gt; &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.usaid.gov/news-information/press-releases/oct-3-2018-administrator-green-statement-creation-usidfc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.usaid.gov &amp;ndash; Agencia de los Estados Unidos para el Desarrollo Internacional&lt;/a&gt; &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.state.gov/reports/2019-investment-climate-statements/mexico/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.state.gov &amp;ndash; U.S Department of State&lt;/a&gt; &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.celag.org/del-soft-power-al-america-first-eeuu-la-asistencia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.celag.org&lt;/a&gt; &lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ustda.gov/sites/default/files/pdf/program/regions/lac/mexicoresourceguide/MexicoResouceGuide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ustda.gov &amp;ndash; La Agencia de Comercio y Desarrollo de EE.UU.&lt;/a&gt; &lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.celag.org/la-union-europea-en-la-disputa-por-america-latina-y-el-caribe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.celag.org&lt;/a&gt; &lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.celag.org/reordenamiento-estrategico-en-el-caribe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.celag.org&lt;/a&gt; &lt;a href=&#34;#fnref:9&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ustda.gov/sites/default/files/RFP-DR%20LNG%20TERMINAL-%20Annex%201-%20FINAL.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ustda.gov &amp;ndash; La Agencia de Comercio y Desarrollo de EE.UU.&lt;/a&gt; &lt;a href=&#34;#fnref:10&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ustda.gov/news/success-stories/success-honduras-platanares-geothermal-power-plant&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ustda.gov &amp;ndash; La Agencia de Comercio y Desarrollo de EE.UU.&lt;/a&gt; &lt;a href=&#34;#fnref:11&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:12&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://forbescentroamerica.com/2019/12/19/america-crece-estos-son-los-4-proyectos-de-inversion-que-busca-desarrollar-guatemala/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;forbescentroamerica.com&lt;/a&gt; &lt;a href=&#34;#fnref:12&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:13&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ustda.gov/news/press-releases/2019/ustda-panama-launch-life-cycle-cost-analysis-training&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ustda.gov &amp;ndash; La Agencia de Comercio y Desarrollo de EE.UU.&lt;/a&gt; &lt;a href=&#34;#fnref:13&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:14&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.americaeconomia.com/negocios-industrias/eeuu-esta-cerca-de-firmar-un-acuerdo-con-lima-para-contrarrestar-influencia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.americaeconomia.com&lt;/a&gt; &lt;a href=&#34;#fnref:14&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:15&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.eleconomistaamerica.com/energia-eAm/noticias/9337889/08/18/GNL-ariete-de-expansion-energetica-de-EEUU-en-America-Central-con-Panama-de-aliado.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.eleconomistaamerica.com&lt;/a&gt; &lt;a href=&#34;#fnref:15&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:16&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ustda.gov/sites/default/files/pdf/program/regions/lac/brazilresourceguide/BrazilResourceGuide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ustda.gov &amp;ndash; La Agencia de Comercio y Desarrollo de EE.UU.&lt;/a&gt; &lt;a href=&#34;#fnref:16&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:17&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.celag.org/mexico-y-colombia-en-la-disputa-entre-eeuu-y-china/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.celag.org&lt;/a&gt; &lt;a href=&#34;#fnref:17&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:18&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.celag.org/china-america-latina-segun-eeuu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.celag.org&lt;/a&gt; &lt;a href=&#34;#fnref:18&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:19&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.perfil.com/noticias/internacional/china-pisa-fuerte-en-america-latina-y-compite-con-eeuu.phtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.perfil.com&lt;/a&gt; &lt;a href=&#34;#fnref:19&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:20&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.celag.org/los-recursos-estrategicos-de-latinoamerica-en-la-guerra-china-eeuu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.celag.org&lt;/a&gt; &lt;a href=&#34;#fnref:20&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title> &#34;Viva el Chato&#34;</title>
-      <link>/publication/viva-el-chato/</link>
+      <link>https://lavanguardia.netlify.app/publication/viva-el-chato/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/viva-el-chato/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/viva-el-chato/</guid>
       <description>&lt;p&gt;Un 21 de agosto de 1971 se efectúa uno de los golpes más sangrientos generado por el aquel entonces coronel Hugo Banzer Suarez, en dicho golpe de estado varios revolucionarios desde sus distintas banderas de organizaciones crearon resistencia a la dictadura fascista durante esos largos años difíciles. Es a través de esta vía que lo que realmente se quiere hacer es rescatar la memoria histórica de una familia entera que vivió lo duro de la dictadura y que únicamente a partir de esta memoria histórica logremos valorar la democracia que vivimos y los logros alcanzados hasta la fecha, todos los hechos narrados acá han sido plasmados por la persona que vivió esa época y esa situación, hay más cosas que complementar pero como entenderán RECORDAR ESOS TIEMPOS NO ES FÁCIL, PERO ÉL LO CONSIDERA NECESARIO y han pasado varios años desde el momento en que decidió retomar la escritura de este documento.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;1.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;sobre-los-años-difíciles&#34;&gt;Sobre los años difíciles.&lt;/h2&gt;
@@ -112,9 +225,9 @@ Recuerdo que los víveres que nos trajo se quedaron con los carceleros, no obsta
     
     <item>
       <title>Análisis del comportamiento en la pandemia</title>
-      <link>/publication/analisis-comportamiento-pandemia/</link>
+      <link>https://lavanguardia.netlify.app/publication/analisis-comportamiento-pandemia/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/analisis-comportamiento-pandemia/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/analisis-comportamiento-pandemia/</guid>
       <description>&lt;p&gt;Transcurridos más de 160 días desde el inicio del brote de la COVID-19 en el país, el comité científico del gobierno transitorio en base a sus ¨sabias proyecciones¨ hizo que el Tribunal Supremo Electoral hace varias semanas atrás cambie la fecha de las elecciones (debido a que el pico de la pandemia como país se presentaría durante el mes de septiembre) a raíz de ese informe se justificó el cambio de fecha de elecciones en Bolivia, las repercusiones de esta decisión por parte del TSE no se dejaron esperar y varios grupos de la sociedad liderada por la Central Obrera Boliviana (COB), inicio una serie de movilizaciones y bloqueos a nivel nacional, oponiéndose a este nuevo cambio de fecha, que no solo significa prorrogar el tiempo de mandato del gobierno de transición que lleva ya 8 meses, sino que a su vez esta situación permite prolongar la crisis política que vive el país desde el mes de noviembre del año pasado, sin mencionar que de este modo se dilatan las posibilidades de establecer políticas estructurales que hagan el abordaje de la crisis económica, crisis de sanitaria y que solo un gobierno democrático lograría concretar.
 Es así que, a través de un análisis de la coyuntura, buscamos ciertas respuestas en el comportamiento de la pandemia en el país y nos llamó la atención lo siguiente:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -134,9 +247,9 @@ Es así que, a través de un análisis de la coyuntura, buscamos ciertas respues
     
     <item>
       <title>Responsabilidad revolucionaria</title>
-      <link>/publication/responsabilidad-revolucionaria/</link>
+      <link>https://lavanguardia.netlify.app/publication/responsabilidad-revolucionaria/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/responsabilidad-revolucionaria/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/responsabilidad-revolucionaria/</guid>
       <description>&lt;p&gt;Pensaba mucho en la frase &amp;ldquo;quién no conoce su historia esta condenado a repetirla&amp;rdquo; muchas veces la asociamos al caos y la catástrofe que actualmente vive el país y siempre lo atribuimos a los MALOS (los golpistas y su elite) pero jamás se habla de los BUENOS y de cómo está frase también se aplica a esta situación, siempre pensamos que como Revolucionarios, militantes de Izquierda y del MAS tenemos muy clara la frase y reconocemos los sacrificios que conlleva la lucha revolucionaria y tendemos a echar la culpa a los golpistas, a la inexperiencia etc, pero muy pocas veces se asume lo que he denominado RESPONSABILIDAD REVOLUCIONARIA; varios días anduvo rondando en mi cabeza si existían artículos o documentos inherentes a lo mencionado (RESPONSABILIDAD REVOLUCIONARIA) y encontré poco, casi nada al respecto, no soy sociólogo, politólogo pero si me considero un ente POLITICO (como todos deberíamos considerarnos pienso yo), pensaba en RESPONSABILIDAD REVOLUCIONARIA y la frase con la cual arrancaba el artículo (&amp;ldquo;quién no conoce su historia esta condenado a repetirla&amp;rdquo;), recordé a mi familia (papá, tíos, amistades de ellos) que vivieron el terror de las Dictaduras Militares, en este caso a varios tíos y a mi papá que cayeron presos, fueron torturados (incluso a un tío las torturas lo dejaron parapléjico desde sus jóvenes 17 años) pero ellos dieron batalla ante sus torturadores y dieron el tiempo (en algunos casos) suficiente para poner en alerta a sus compañeros que habían caído presos y poder ponerse a buen recaudo, en otros casos jamás delataron, fueron puestos en solitario torturados más de una vez , tuvieron confrontación con otros torturados (cuando te ponen frente a frente entre presos políticos torturados y amenzan con hacer barbaridades al otro preso si no confiesa) pero pese a ello jamás claudicaron, jamás dejaron de lado la RESPONSABILIDAD REVOLUCIONARIA, que conlleva la lucha por los oprimidos. Pensé mucho en ellos, e inevitablemente también pensé en el #GolpeDeEstadoEnBolivia que me tocó vivir; desde la viviencia familiar comentada con anterioridad, mis papás tomaron medidas de irse a una casa de seguridad y compañeros fieles al proceso que son de la zona donde vivimos nos comentaron que MOTOQUEROS de la RJC circulaban por la zona, buscando la casa de esa ex autoridad y supimos de como en otros lados se dieron la tarea de incendiar domicilios y casas, mis padres tomaron esa decisión conociendo la RESPONSABILIDAD REVOLUCIONARIA que se tenía y también para que en ningún momento si llegaban ellos o nosotros a caer presos puedan chantajear y pedir renuncias o pronunciamientos en contra del Proceso de Cambio y de esa forma dejarle al enemigo servido TODO EN BANDEJA DE PLATA. Efectivamente no estoy en los zapatos de otras ex autoridades o autoridades (diputados, senadores actualmente), pero creo que haber dejado al enemigo la posibilidad de asumir el Poder (como lo hizo Añez) fue un acto de IRRESPONSABILIDAD REVOLUCIONARIA, fue una falta de respeto a todos los compañeros muertos, torturados en las Dictaduras de antaño, compañeros que soñaron con ver lo que el Proceso de Cambio estaba logrando y no solo fallaron a los compañeros que lucharon antes , sino a los caídos en Senkata y Sacaba, a los presos Políticos posteriores al 10 de noviembre del 2019 , a la gestión en si de la Pandemia(soy un convencido que lo hubiéramos hecho muy bien como se hizo en Cuba o la gestión del Dengue), permitieron resurgir al racismo, permitieron la inmersión de la Iglesia como en tiempos coloniales en el poder, permitieron volver a ser país que pide donaciones para poder atender la crisis, permitieron que caiga estrepitosamente la imagen internacional.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Se triunfó en 3 procesos electorales con (52%, 64% y 62%) mayoría en cámara de Senadores y Diputados, se tenía Presidencias y Vicepresidencias y por renunciar a esos cargos dejamos que alguien como #JeanineAñez (que no la representa la Wiphala, que no distingue entre Newton y Einstein) asuma el poder, todo por no cumplir con la RESPONSABILIDAD REVOLUCIONARIA.&lt;/p&gt;
@@ -148,9 +261,9 @@ Es así que, a través de un análisis de la coyuntura, buscamos ciertas respues
     
     <item>
       <title>Tiempos de pandemia</title>
-      <link>/publication/tiempos-de-pandemia/</link>
+      <link>https://lavanguardia.netlify.app/publication/tiempos-de-pandemia/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tiempos-de-pandemia/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/tiempos-de-pandemia/</guid>
       <description>&lt;p&gt;&lt;strong&gt;¿La educación virtual eficaz y excluyente?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;En los últimos 6 meses estamos viendo un nuevo método de educación ya que debido a los últimos acontecimientos con la pandemia es imposible pensar en el antiguo método clásico, pero, ¿estamos seguros de que este método está funcionando o por lo menos está llegando a todos?&lt;/p&gt;
 &lt;p&gt;Bueno, para esto tenemos que ver primero si la educación era accesible para todos antes de la pandemia, según fuentes de la &lt;strong&gt;UNESCO&lt;/strong&gt;, para la gestión 2005, de cada 100 estudiantes matriculados en educación regular, 6 abandonaban sus estudios; en 2018, de cada 100 solo abandonaron la escuela 3 estudiantes, siendo las mujeres las que menos lo hacen. Estos resultados demuestran que, nuestros estudiantes no solo acceden en mejores condiciones al sistema, sino que permanecen en el mismo.&lt;/p&gt;
@@ -179,9 +292,9 @@ Ahora pongámonos en contexto, ¿cómo es posible que el Ministerio de Educació
     
     <item>
       <title>Musk y el Litio Boliviano</title>
-      <link>/publication/musk-y-el-litio/</link>
+      <link>https://lavanguardia.netlify.app/publication/musk-y-el-litio/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/musk-y-el-litio/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/musk-y-el-litio/</guid>
       <description>&lt;p&gt;Los comentarios realizados por el billonario Sudafricano Musk referente al apoyo al golpe de estado para obtener el litio boliviano no han pasado desapercibidos en casi todo el mundo, lo triste es que en el lugar que más debería haber repercutido no tuvo la más mínima cobertura (y eso que a los dueños de los medios de comunicación les encanta vender el sueño americano y ese futuro de libre mercado que tanto promulgan y apoyan) en el Estado Plurinacional de Bolivia. Los comentarios inapropiados (sea en burla o sea verdad) solo reflejan la visión miope que desde siempre los países llamados &amp;ldquo;desarrollados&amp;rdquo; han tenido de los países &amp;ldquo;tercermundistas&amp;rdquo; o en &amp;ldquo;vías de desarrollo&amp;rdquo;, nos ven únicamente como proveedores de materia prima para conseguir elevar sus ganancias.
 &lt;img src=&#34;2.jpeg&#34; alt=&#34;&#34;&gt;
 El caso de Elon Musk no es ajeno y es el ejemplo perfecto de como la maquinaria mediática puede convertir a personas como él, en entes agradables y empáticos ante las nuevas coyunturas mundiales mediante el afamado discurso de &amp;ldquo;salvar la humanidad&amp;rdquo; usando &amp;ldquo;energías alternativas&amp;rdquo; en carros de alto lujo (que posiblemente solo Doria Medina podría comprar en Bolivia), el afamado discurso de personajes como Musk es agradable a la clase media que se indignaba de los incendios en la Chiquitania en el 2019 (pero durante este año se callaron cuando la cantidad de focos de calor e incendios fue similar) y que son los mismos que salieron a protestar en contra de la carretera del Tipnis, argumentando la ecología como bandera, este tipo de personajes justifican comentarios y acciones como apoyar un golpe de estado basado en un &amp;ldquo;Ecofascimo&amp;rdquo; (muy disimulado), o sea puedo derrocar un gobierno democrático que fue instaurado con más del 60 % de votos para obtener la materia prima necesaria para usarla en carros eléctricos de elevado lujo, que posiblemente la población del país de donde obtiene la materia prima jamás tenga acceso, se justifica un golpe basado en que con esa &amp;ldquo;acción&amp;rdquo; reducirá los efectos de gas invernadero (aferrándose a que las movilidades son los mayores productores de dichos gases y nos las grandes empresas con capitales privados dueños del libre mercado) y señalando que derrocar un gobierno que posee la reserva más grande de litio salvará al planeta.
@@ -201,9 +314,9 @@ Tipos como Musk ven en esta
     
     <item>
       <title>Bolivia en una encrucijada</title>
-      <link>/publication/bolivia-en-una-encrucijada/</link>
+      <link>https://lavanguardia.netlify.app/publication/bolivia-en-una-encrucijada/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/bolivia-en-una-encrucijada/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/bolivia-en-una-encrucijada/</guid>
       <description>&lt;p&gt;Bolivia se encuentra en una situación muy delicada actualmente, en uno de los momentos más difíciles de su historia, en una encrucijada social, política y económica, donde socialmente se encuentra dividida de manera muy peligrosa, por un lado existen grupos de choque con interés particulares ya sean estos  políticos o económico, basados en la violencia organizada establecidas casi en todas las ciudades capitales de Bolivia, como Uniones Juveniles o finalmente conocidos con el seudónimo de (Pititas), conformado mayoritariamente por gente citadina con interés altamente políticos, que han mostrado en más de una vez una actitud radical e intolerante, utilizando la violencia física y psicológica , frente a la gran parte de la población de ascendencia indígena, tildándoles de masitas ya que esta sigla política es satanizada con adjetivos calificativos despectivos, y un gobierno transitorio desde el Ejecutivo que se muestra permisivo y tolerante con estos grupos que ejercen presión y violencia.&lt;/p&gt;
 &lt;p&gt;En lo político actualmente se ve una luz al final del túnel, con el establecimiento de la fecha de las elecciones generales por el Tribunal Supremo Electoral Plurinacional, sin embargo la antojadiza y alta politización de la Pandemia del Coronavirus COVID19, por parte del Ejecutivo y actores políticos que buscan afanosamente la no celebración de las elecciones generales, que con un atrevimiento desmedido nos dicen por poco que el día 6 de septiembre será el pico más alto de contagio, pues en el país existe un problema político y eso debe ser solucionado con el celebramiento de los comicios el 6 de septiembre impostergablemente bajo ningún motivo alguno.&lt;/p&gt;
 &lt;p&gt;La economía mundial y particularmente del Estado Plurinacional de Bolivia, debido a las medidas adoptadas por los gobiernos en el mundo por la pandemia, y Bolivia no es la excepción en haber declarado cuarentena por el COVID-19 por más de cien días y actualmente continua, lo cual ha paralizado todo el aparato productivo y eso ha generado una infinidad de despidos en todos los sectores, existiendo graves problemas en las familias Bolivianas porque una gran mayoría se encuentra en la actividad informal, y estas actividades a un se encuentran con restricciones, lo que no permite una recuperación adecuado en la economía de las familias Bolivianas, por un lado se exige al ciudadano cumplir con las restricciones, pero no existe casi ninguna ayuda para las familias, más que algunos bonos que son totalmente insuficientes, ninguna familia puede vivir 4 meses con 500 Bolivianos, pero además el actual Gobierno transitorio se encuentra involucrado en situaciones de corrupción de manera constante y continua, por ello es absolutamente necesario que un gobierno democráticamente elegido por la mayoría de los Bolivianos, encare con políticas que realmente pueda dar solución a los problemas y aflicciones de todas las familias Bolivianas en un corto, mediano y largo plazo.&lt;/p&gt;
@@ -212,9 +325,9 @@ Tipos como Musk ven en esta
     
     <item>
       <title>Represión en Kara Kara, crisis sanitaria y humanitaria en Bolivia</title>
-      <link>/publication/represion-en-kara-kara/</link>
+      <link>https://lavanguardia.netlify.app/publication/represion-en-kara-kara/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/represion-en-kara-kara/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/represion-en-kara-kara/</guid>
       <description>&lt;p&gt;La mañana de este sábado 4 de julio de 2020, la brutalidad de la violencia fascista y racista del gobierno de facto, se volvió a ensañar con la gente más humilde de la zona sur de 
 &lt;a href=&#34;&#34;&gt;#Cochabamba&lt;/a&gt;, específicamente de 
 &lt;a href=&#34;&#34;&gt;#KaraKara&lt;/a&gt;, colindante con el botadero municipal de esta ciudad.&lt;/p&gt;
@@ -233,9 +346,9 @@ Tipos como Musk ven en esta
     
     <item>
       <title>La baja tasa de recuperación de Covid-19 en bolivia</title>
-      <link>/publication/la-baja-tasa-de-recuperacion/</link>
+      <link>https://lavanguardia.netlify.app/publication/la-baja-tasa-de-recuperacion/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/la-baja-tasa-de-recuperacion/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/la-baja-tasa-de-recuperacion/</guid>
       <description>&lt;p&gt;El avance de la pandemia en el mundo es inminente, hasta el 30 de junio se sumaban más de 10.2 millones de casos confirmados, más de 500 mil decesos, y más de 5.2 millones de habitantes recuperados.&lt;/p&gt;
 &lt;p&gt;Estas cifras van cobrando un peso cada vez mayor para nosotros, pues a partir de mayo el epicentro de la pandemia se ha trasladado al continente americano, lugar donde se concentra la mayor cantidad de casos y decesos respectivamente. Entre los países que concentran el mayor porcentaje de casos se encuentra E.E.U.U. y Brasil, sin embargo estos países también cuentan con un porcentaje alto de recuperación. Así mismo, debemos resaltar que Cuba tiene un total de 93% de tasa de recuperación, siendo un país con características demográficas semejantes a las de Bolivia. En nuestro país, la relación entre el porcentaje de casos y porcentaje de recuperados muestra un panorama desalentador, pues la tasa de recuperación se encuentra muy por debajo de varios países de la región. Haciendo un análisis de los factores que inciden en esta diferencia en la taza de recuperación, podemos señalar que la misma se debe una gestión ineficiente de la pandemia en Bolivia, y de continuar así, se cobrará la vida de más habitantes.&lt;/p&gt;
 &lt;p&gt;
@@ -258,9 +371,9 @@ Tipos como Musk ven en esta
     
     <item>
       <title>Respuestas sencillas a preguntas tontas</title>
-      <link>/publication/respuestas-sencillas-a-preguntas-tontas/</link>
+      <link>https://lavanguardia.netlify.app/publication/respuestas-sencillas-a-preguntas-tontas/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/respuestas-sencillas-a-preguntas-tontas/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/respuestas-sencillas-a-preguntas-tontas/</guid>
       <description>&lt;p&gt;El documento es un poco extenso pero creo que vale la pena leerlo ya que aclara muchas preguntas realizadas en medios de comunicación.&lt;/p&gt;
 &lt;p&gt;Van 3 entrevistas a #LuchoArce que he logrado escuchar y ver: 2 en televisión, en PAT en el programa NO MENTIRAS de Jimena Antelo y en Red UNO donde fueron los corresponsales de cada departamento que realizaron preguntas y por ultimo una en radio ERBOL.&lt;/p&gt;
 &lt;p&gt;Debo destacar lo miserable en cuanto a las entrevistas de los 3 medios, pero rescato más al periodista de ERBOL ya que fue el que permitió que Lucho pueda exponer más detalladamente las respuestas y además programa de gobierno (que en realidad es lo poco o nulo que preguntan los periodistas).&lt;/p&gt;
@@ -306,9 +419,9 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     
     <item>
       <title>Carlos Mesa un acto de cobardía en la historia</title>
-      <link>/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/</link>
+      <link>https://lavanguardia.netlify.app/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/</guid>
       <description>&lt;p&gt;Han pasado 15 años desde que Carlos Mesa protagonizara el acto de cobardía más notorio y reprochable que un presidente en funciones haya realizado en toda la historia de Bolivia. Ante una sostenida y manifiesta incapacidad para contener un acelerado deterioro y debacle en la economía nacional, Mesa, que ya había renunciado en una primera oportunidad el 6 de marzo de 2005, ante el Congreso Nacional, y cuya renuncia fue rechazada 5 días después, por el mismo Congreso, volvió a renunciar por segunda vez, de forma definitiva, el 6 de junio de ese mismo año, haciéndose efectiva la misma tres días después.&lt;/p&gt;
 &lt;p&gt;Tal acto de cobardía, fue el desenlace de 20 meses de un espurio gobierno, que profundizó la crisis económica, política y social que se había iniciado durante el sangriento gobierno de Gonzalo Sánchez de Lozada, del cual Mesa fue Vicepresidente.&lt;/p&gt;
 &lt;p&gt;Como ya sabemos, el Gobierno de Goni - Mesa, terminó con la huida del primero, el 17 de octubre de 2003, luego de 14 meses de iniciado y de más de 100 muertos y cientos de heridos que provocaron dos hechos por demás luctuosos y sangrientos: &amp;ldquo;febrero negro&amp;rdquo; y, apenas 8 meses después, la denominada &amp;ldquo;guerra del gas&amp;rdquo;.&lt;/p&gt;
@@ -321,9 +434,9 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     
     <item>
       <title>El verdadero virus que mata</title>
-      <link>/publication/el-verdadero-virus-que-mata/</link>
+      <link>https://lavanguardia.netlify.app/publication/el-verdadero-virus-que-mata/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/el-verdadero-virus-que-mata/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/el-verdadero-virus-que-mata/</guid>
       <description>&lt;p&gt;No quieren que hablemos de política, dijeron que la salud está por encima de cualquier tema, nos apresaron y encarcelaron por denunciar las atrocidades de este gobierno interino, utilizan la pandemia para neutralizar las demandas y movilizaciones sociales, nos imponen medidas desproporcionadas que atentan contra nuestros derechos, por debajo intentan modificar nuestra estructura económica; y los medios de comunicación nos torturan y atemorizan todo el tiempo, que si no acatamos las medidas del gobierno, moriremos de las peores formas por el COVID-19.&lt;/p&gt;
 &lt;p&gt;Las medidas impuestas por el gobierno interino no son eficaces, porque hasta la fecha no priorizaron la atención preventiva, no llegaron los test´s masivos y no fortalecieron las Unidades de Terapias Intensivas (UTI´s), más lo contrario nos endeudan hasta el copete con el BID, FMI y Banco Mundial, y cometen actos de corrupción con un Ex – Ministro en las celdas, la impunidad de la Canciller, los Viceministros del Ministerio de Relaciones Exteriores y el Cónsul de Bolivia en Barcelona. Todo esto ante la mirada indiferente de muertos y el sistema de salud a punto de colapsar. Obviamente todo esto cabrea a las personas, porque la cuarentena rígida, moderada o la que quieran llamarle, no ha servido más que para enriquecer a unos cuantos y empobrecer a otros.&lt;/p&gt;
 &lt;p&gt;Lo que este gobierno nunca tuvo fue la “Confianza” del pueblo boliviano, justamente este valor que es tan importante por la famosa frase de Mao, de “Obedecer al Pueblo” fue echada por un tubo cuando entraron con una mala interpretación de sucesión presidencial, empezando a captar puestos para sus amigos y familiares; desfalcando millones de dólares de nuestras empresas (YPFB y ENTEL) y aprobando normas que favorecen a empresarios. Al parecer el gobierno de Añez, no tiene la mínima intención de irse y hará todo lo posible para utilizar el COVID-19 y la pandemia para decretar nuevamente la cuarentena rígida y seguir aplazando las elecciones presidenciales, porque se dieron cuenta que en las elecciones presidenciales, no ingresan ni a segunda vuelta, pero el pueblo no es nada estúpido y se da cuenta de todas las fechorías que cometen.&lt;/p&gt;
@@ -338,17 +451,17 @@ Como lograrán observar son fuentes de medios de comunicación impresos y ningun
     
     <item>
       <title>Pronunciamiento de la izquierda boliviana</title>
-      <link>/publication/pronunciamiento-de-la-izquierda/</link>
+      <link>https://lavanguardia.netlify.app/publication/pronunciamiento-de-la-izquierda/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pronunciamiento-de-la-izquierda/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/pronunciamiento-de-la-izquierda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Su verdadero rostro</title>
-      <link>/publication/su-verdadero-rostro/</link>
+      <link>https://lavanguardia.netlify.app/publication/su-verdadero-rostro/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/su-verdadero-rostro/</guid>
+      <guid>https://lavanguardia.netlify.app/publication/su-verdadero-rostro/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;“La discriminación social hacia nuestros hijos es cada vez más creciente. El atropello a nuestra cultura ancestral parte muchas veces de las altas esferas de gobierno. Los campesinos no podemos dejarnos engañar con palabras superficiales como ‘hijos o hermanos campesinos’ cuando nuestros enemigos no pueden ocultar su verdadero rostro”.&lt;/p&gt;
