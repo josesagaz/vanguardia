@@ -108,6 +108,11 @@
   </url>
   
   <url>
+    <loc>https://lavanguardia.netlify.app/author/anibal_garcia_fernandez/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -119,6 +124,21 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://lavanguardia.netlify.app/category/articulos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lavanguardia.netlify.app/authors/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lavanguardia.netlify.app/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://lavanguardia.netlify.app/authors/"
                 />
   </url>
   
@@ -175,21 +195,6 @@
   <url>
     <loc>https://lavanguardia.netlify.app/publication/viva-el-chato/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lavanguardia.netlify.app/authors/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/authors/"
-                />
   </url>
   
   <url>
