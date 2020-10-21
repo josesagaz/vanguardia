@@ -94,7 +94,7 @@
   
   <url>
     <loc>https://lavanguardia.netlify.app/publication-type/0/</loc>
-    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -109,7 +109,7 @@
   
   <url>
     <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
-    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -124,7 +124,7 @@
   
   <url>
     <loc>https://lavanguardia.netlify.app/authors/</loc>
-    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -139,7 +139,7 @@
   
   <url>
     <loc>https://lavanguardia.netlify.app/categories/</loc>
-    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -154,17 +154,12 @@
   
   <url>
     <loc>https://lavanguardia.netlify.app/author/gabo_campero_n/</loc>
-    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lavanguardia.netlify.app/publication/gene-sharp-aplicado/</loc>
-    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/publication_types/</loc>
-    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -179,7 +174,7 @@
   
   <url>
     <loc>https://lavanguardia.netlify.app/publication/</loc>
-    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -190,6 +185,16 @@
                 hreflang="es"
                 href="https://lavanguardia.netlify.app/publication/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://lavanguardia.netlify.app/publication/reconstruir-la-patria/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lavanguardia.netlify.app/publication/gene-sharp-aplicado/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
