@@ -1,7 +1,7 @@
 ---
 title: 'La trágica clase media'
 author: D.J._Hinojosapimentel
-date: '2020-11-1'
+date: '2020-11-11'
 slug: tragedia-clase-media
 categories:
   - articulos
