@@ -3,6 +3,10 @@ title: 'Bolivia 2020'
 subtitle: 'El triunfo electoral del M.A.S.'
 author: Víctor_Vacaflores_P.__BACO
 date: '2020-11-17'
+featured: false
+image:
+  caption: 'Fuente imagen: [Europa Press](https://m.europapress.es/internacional/noticia-oposicion-santa-cruz-niega-triunfo-mas-elecciones-bolivia-pide-no-emitir-resultado-20201023042006.html)'
+
 slug: triunfo-electoral
 categories:
   - articulos
