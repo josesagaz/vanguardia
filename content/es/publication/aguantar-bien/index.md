@@ -53,4 +53,4 @@ Hoy que puedo volver a expresarme libremente, que mis derechos han sido repuesto
 
 Ariel Percy Molina Pimentel “El Molinario”.<br>
 Abogado y Militante MAS – IPSP<br>
-Miembro Colectivo “La Vanguardia”
+Miembro del Colectivo “La Vanguardia”
