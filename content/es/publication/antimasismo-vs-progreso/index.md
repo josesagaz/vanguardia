@@ -48,9 +48,13 @@ Solo viendo el eje central y teniendo en cuenta que aunque las encuestas sean ma
 
 Pasando por Cochabamba, tenemos a otro delincuente, que pese a tener 17 procesos por corrupción, colocar a su hijo como candidato a concejal, tener comentarios homofóbicos, ser promotor de la privatización del agua en Cochabamba y de yapa haber sido edecan de Luis Arce Gomez (*el gobierno del narcotráfico con García Meza*) es el candidato que tiene una amplia opción a ser electo, personalmente y siendo oriundo de la llajta, lo único que hizo Manfred fueron parques, luego de eso no existio jamás una gestión real y hoy quiere aparecer como salvador, cuando fue el principal promotor del racismo en aquel funesto 11 de enero, pero no, el cochalo citadino de la zona norte tiene memoria corta y además es racista, votará por alguien que tiene pasado oscuro señalando que quiere renovación (*que ironía ¿verdad?*)
 
+![](1.jpeg)
+
 Llegando a Santa Cruz vemos a mi parecer el cuadro más deplorable de la campaña política, disputado entre racistas, representantes de misoginos, responsables de orgías y tristemente rebajando a nuestros candidatos a un circo político para intentar ganar votantes, voy siendo activo en campañas desde el 2014 y desde entonces jamás he entendido como se puede ganar al electorado en Santa Cruz, el Proceso de Cambio durante varios años ha invertido mucho dinero en dicho departamento pero sin lograr generar conciencia social, la farándula,el circo mediático pudo más que la empatía al prójimo.
 
 En los 3 departamentos para alcaldías se tienen grandes exponentes por parte del **MAS IPSP**, lamentablemente el votante no nos favorece, no porque no existan propuestas, sino porque el neoliberalismo y en parte nosotros (proceso de cambio) hemos generado una clase media desclazada, sin conciencia social (*nótese que no menciono conciencia de clase*) esto por haber otorgado estabilidad, ingresos económicos en una urbe sin trabajar en revolución cultural y educación.
+
+![](2.jpeg)
 
 Llegaran las elecciones el 7 de marzo y veremos lo que más se temía, que lo mencione en un artículo pasado [Subnacionales y golpes de estado](https://lavanguardia.netlify.app/publication/subnacionales-golpe/) la re articulación del fascismo desde las ciudades capitales, en ciertos casos por culpa del votante, en otros casos por culpa nuestra.
 
