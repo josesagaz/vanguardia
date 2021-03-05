@@ -1,7 +1,7 @@
 ---
 title: 'Sacar a su perro'
 subtitle: ''
-author: Ariel_Percy Molina_Pimentel_El_Molinario
+author: Ariel_Percy_Molina_Pimentel_El_Molinario
 date: '2021-02-04'
 featured: false
 image:
@@ -12,7 +12,7 @@ categories:
   - articulos
 tags: []
 authors:
-- Ariel_Percy Molina_Pimentel_El_Molinario
+- Ariel_Percy_Molina_Pimentel_El_Molinario
 lastmod: '2021-02-04'
 doi: ''
 publishDate: '2021-02-04'

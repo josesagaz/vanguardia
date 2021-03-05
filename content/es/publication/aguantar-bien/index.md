@@ -1,6 +1,6 @@
 ---
 title: 'Aguantar bien'
-author: Gabo_Campero_Nava
+author: Ariel_Percy_Molina_Pimentel
 date: '2021-01-18'
 featured: false
 image:
@@ -11,7 +11,7 @@ categories:
   - articulos
 tags: []
 authors:
-- Gabo_Campero_Nava
+- Ariel_Percy_Molina_Pimentel_El_Molinario
 lastmod: '2021-01-18'
 doi: ''
 publishDate: '2021-01-18'
