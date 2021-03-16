@@ -153,12 +153,12 @@
   </url>
   
   <url>
-    <loc>https://lavanguardia.netlify.app/author/gabo_campero_nava/</loc>
+    <loc>https://lavanguardia.netlify.app/publication/derribando-idolos/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lavanguardia.netlify.app/publication/la-suerte-esta-echada/</loc>
+    <loc>https://lavanguardia.netlify.app/author/gabo_campero_nava/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -190,6 +190,11 @@
                 hreflang="es"
                 href="https://lavanguardia.netlify.app/publication/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://lavanguardia.netlify.app/publication/la-suerte-esta-echada/</loc>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
