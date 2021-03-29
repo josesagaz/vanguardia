@@ -1,5 +1,5 @@
 ---
-title: 'El Santo de Larrea'
+title: 'El Santos de Larrea'
 subtitle: ''
 author: Ariel_Percy_Molina_Pimentel_El_Molinario
 date: '2021-03-29'
