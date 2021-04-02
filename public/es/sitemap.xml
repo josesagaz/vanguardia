@@ -3,123 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lavanguardia.netlify.app/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/courses/example/example1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/courses/example/example1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lavanguardia.netlify.app/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/courses/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/courses/example/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lavanguardia.netlify.app/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/courses/example/example2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/courses/example/example2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lavanguardia.netlify.app/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/talk/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/talk/example/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lavanguardia.netlify.app/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lavanguardia.netlify.app/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/talk/"
-                />
-  </url>
-  
-  <url>
     <loc>https://lavanguardia.netlify.app/publication-type/0/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/publication-type/0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/publication-type/0/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/category/articulos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/category/articulos/"
-                />
   </url>
   
   <url>
@@ -163,6 +53,21 @@
   </url>
   
   <url>
+    <loc>https://lavanguardia.netlify.app/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lavanguardia.netlify.app/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://lavanguardia.netlify.app/"
+                />
+  </url>
+  
+  <url>
     <loc>https://lavanguardia.netlify.app/publication_types/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -180,16 +85,6 @@
   <url>
     <loc>https://lavanguardia.netlify.app/publication/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/publication/"
-                />
   </url>
   
   <url>
@@ -360,16 +255,6 @@
   <url>
     <loc>https://lavanguardia.netlify.app/author/anibal_urquieta/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/author/anibal_urquieta/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/author/anibal_urquieta/"
-                />
   </url>
   
   <url>
@@ -395,31 +280,11 @@
   <url>
     <loc>https://lavanguardia.netlify.app/category/noticias/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/category/noticias/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/category/noticias/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/post/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/post/"
-                />
   </url>
   
   <url>
@@ -430,91 +295,31 @@
   <url>
     <loc>https://lavanguardia.netlify.app/biblioteca/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/biblioteca/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/biblioteca/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/tag/brigada/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/tag/brigada/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/tag/brigada/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/tag/coleccion1/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/tag/coleccion1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/tag/coleccion1/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/tag/coleccion3/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/tag/coleccion3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/tag/coleccion3/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/biblioteca/jose-marti-obras-completas-edicion-critica-tomo-29/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/biblioteca/jose-marti-obras-completas-edicion-critica-tomo-29/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/biblioteca/jose-marti-obras-completas-edicion-critica-tomo-29/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/biblioteca/los-once-de-la-tribu/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/biblioteca/los-once-de-la-tribu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/biblioteca/los-once-de-la-tribu/"
-                />
   </url>
   
   <url>
@@ -535,106 +340,36 @@
   <url>
     <loc>https://lavanguardia.netlify.app/biblioteca/teatro-del-oprimido/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/biblioteca/teatro-del-oprimido/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/biblioteca/teatro-del-oprimido/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/post/coronavirus-en-estados-unidos-el-miedo-de-kissinger/</loc>
     <lastmod>2020-06-07T17:09:49-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/post/coronavirus-en-estados-unidos-el-miedo-de-kissinger/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/post/coronavirus-en-estados-unidos-el-miedo-de-kissinger/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/post/declaraciones-de-la-portavoz-del-ministerio/</loc>
     <lastmod>2020-06-07T17:21:42-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/post/declaraciones-de-la-portavoz-del-ministerio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/post/declaraciones-de-la-portavoz-del-ministerio/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/publication/el-verdadero-virus-que-mata/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/publication/el-verdadero-virus-que-mata/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/publication/el-verdadero-virus-que-mata/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/author/elmolinario/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/author/elmolinario/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/author/elmolinario/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/author/jose_quisbert_m/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/author/jose_quisbert_m/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/author/jose_quisbert_m/"
-                />
   </url>
   
   <url>
@@ -645,31 +380,6 @@
   <url>
     <loc>https://lavanguardia.netlify.app/publication/su-verdadero-rostro/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/publication/su-verdadero-rostro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/publication/su-verdadero-rostro/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lavanguardia.netlify.app/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/courses/"
-                />
   </url>
   
   <url>
@@ -680,45 +390,14 @@
   <url>
     <loc>https://lavanguardia.netlify.app/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/slides/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/slides/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lavanguardia.netlify.app/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/slides/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/slides/example/"
-                />
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavanguardia.netlify.app/en/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavanguardia.netlify.app/author/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://lavanguardia.netlify.app/courses/</loc>
   </url>
   
 </urlset>
