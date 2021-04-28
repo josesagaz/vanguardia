@@ -4,22 +4,17 @@
   
   <url>
     <loc>https://lavanguardia.netlify.app/publication-type/0/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lavanguardia.netlify.app/author/ariel_percy_molina_pimentel_el_molinario/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lavanguardia.netlify.app/authors/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,7 +29,7 @@
   
   <url>
     <loc>https://lavanguardia.netlify.app/categories/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,8 +43,18 @@
   </url>
   
   <url>
+    <loc>https://lavanguardia.netlify.app/publication/error-del-anti-evismo/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lavanguardia.netlify.app/author/gabo_campero_nava/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lavanguardia.netlify.app/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,7 +69,7 @@
   
   <url>
     <loc>https://lavanguardia.netlify.app/publication_types/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -79,6 +84,11 @@
   
   <url>
     <loc>https://lavanguardia.netlify.app/publication/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lavanguardia.netlify.app/author/ariel_percy_molina_pimentel_el_molinario/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -89,11 +99,6 @@
   
   <url>
     <loc>https://lavanguardia.netlify.app/publication/decisiones-politicas/</loc>
-    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lavanguardia.netlify.app/author/gabo_campero_nava/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url>
   
