@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://lavanguardia.netlify.app/publication-type/0/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/author/ariel_percy_molina_pimentel_el_molinario/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/authors/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,11 +23,9 @@
                 hreflang="es"
                 href="https://lavanguardia.netlify.app/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/categories/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,16 +36,12 @@
                 hreflang="es"
                 href="https://lavanguardia.netlify.app/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://lavanguardia.netlify.app/publication/entre-vacaciones/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/publication/la-practica-de-asumir/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,11 +52,9 @@
                 hreflang="es"
                 href="https://lavanguardia.netlify.app/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication_types/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -75,284 +65,172 @@
                 hreflang="es"
                 href="https://lavanguardia.netlify.app/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/</loc>
+    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/publication/entre-vacaciones/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/victoria_perales_aguirre/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/gabo_campero_nava/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/propuestas-incompletas/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/error-del-anti-evismo/</loc>
     <lastmod>2021-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lavanguardia.netlify.app/author/ariel_percy_molina_pimentel_el_molinario/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/segunda-vuelta-electoral/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/decisiones-politicas/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/verdadero-enemigo/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/santo-de-larrea/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/derribando-idolos/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/la-suerte-esta-echada/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/antimasismo-vs-progreso/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/con-manfred/</loc>
     <lastmod>2021-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/sacar-a-su-perro/</loc>
     <lastmod>2021-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/aguantar-bien/</loc>
     <lastmod>2021-01-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/ausencia-revolucion/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/subnacionales-golpe/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/revolucion-democratica/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/triunfo-electoral/</loc>
     <lastmod>2020-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/victor_vacaflores_p.__baco/</loc>
     <lastmod>2020-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/raquel_galeon_de_somos_madre_tierra/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/reverdecer-capitalismo/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/d.j._hinojosapimentel/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/tragedia-clase-media/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/gabo_campero_n/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/reconstruir-la-patria/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/gene-sharp-aplicado/</loc>
     <lastmod>2020-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/anibal_garcia_fernandez/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/iniciativa-america-crece/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/viva-el-chato/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/fernando_c_m/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/analisis-comportamiento-pandemia/</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/colectivo_sinchi_warmis/</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/adolfo_mena_gonzales/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/responsabilidad-revolucionaria/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/soren/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/tiempos-de-pandemia/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/musk-y-el-litio/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/bolivia-en-una-encrucijada/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/orlando_flores/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/anibal_urquieta/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/represion-en-kara-kara/</loc>
     <lastmod>2020-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/la-baja-tasa-de-recuperacion/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/respuestas-sencillas-a-preguntas-tontas/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/post/el-comite-de-expertas-expresa/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/category/noticias/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/post/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/post/guerreros-digirales-de-la-burla/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/biblioteca/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/tag/brigada/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/tag/coleccion1/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/tag/coleccion3/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/biblioteca/jose-marti-obras-completas-edicion-critica-tomo-29/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/biblioteca/los-once-de-la-tribu/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/tags/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -365,69 +243,42 @@
                 hreflang="es"
                 href="https://lavanguardia.netlify.app/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/biblioteca/teatro-del-oprimido/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/carlos-mesa-un-acto-de-cobardia-en-la-historia/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/post/coronavirus-en-estados-unidos-el-miedo-de-kissinger/</loc>
     <lastmod>2020-06-07T17:09:49-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/post/declaraciones-de-la-portavoz-del-ministerio/</loc>
     <lastmod>2020-06-07T17:21:42-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/el-verdadero-virus-que-mata/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/elmolinario/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/jose_quisbert_m/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/pronunciamiento-de-la-izquierda/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication/su-verdadero-rostro/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/slides/presentacion/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/author/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/courses/</loc>
   </url>
-  
 </urlset>

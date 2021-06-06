@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://lavanguardia.netlify.app/en/authors/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="en"
                 href="https://lavanguardia.netlify.app/en/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,9 +25,7 @@
                 hreflang="en"
                 href="https://lavanguardia.netlify.app/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,9 +37,7 @@
                 hreflang="en"
                 href="https://lavanguardia.netlify.app/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/en/home/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,9 +49,7 @@
                 hreflang="en"
                 href="https://lavanguardia.netlify.app/en/home/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/en/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,9 +61,7 @@
                 hreflang="en"
                 href="https://lavanguardia.netlify.app/en/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -85,5 +74,4 @@
                 href="https://lavanguardia.netlify.app/en/tags/"
                 />
   </url>
-  
 </urlset>
