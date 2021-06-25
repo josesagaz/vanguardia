@@ -20,7 +20,7 @@ publication_types:
 publication: ''
 publication_short: ''
 abstract: ''
-summary: ''
+summary: 'La estrategia política revelada por Morales, recientemente difundida se dio en conversaciones realizadas en mayo de 2020'
 featured: yes
 url_pdf: ''
 url_code: ~
