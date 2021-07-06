@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lavanguardia.netlify.app/publication-type/0/</loc>
-    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
-    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/authors/</loc>
-    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -22,7 +22,7 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/categories/</loc>
-    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,8 +34,14 @@
                 href="https://lavanguardia.netlify.app/categories/"
                 />
   </url><url>
+    <loc>https://lavanguardia.netlify.app/publication/desigualdad-legal/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/author/erick_gonzalo_flores_zenteno/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/</loc>
-    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,11 +53,8 @@
                 href="https://lavanguardia.netlify.app/"
                 />
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/maria_eugenia_martinez/</loc>
-    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lavanguardia.netlify.app/publication_types/</loc>
-    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,6 +67,9 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/author/maria_eugenia_martinez/</loc>
     <lastmod>2021-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/la-estrategia-le-funciono/</loc>
