@@ -68,7 +68,12 @@ Como pueblo boliviano debemos eliminar estas acciones que menoscaban a la imagen
 {{< icon name="check" pack="fas" >}}
 <br/>
 
-¡DEBEMOS MANTENER ACTIVA LA DEFENSA DE LA DEMOCRACIA Y RETOMAR LA VANGUARDIA EN ESA LUCHA! </strong></center>
+¡DEBEMOS MANTENER ACTIVA LA DEFENSA DE LA DEMOCRACIA Y RETOMAR LA VANGUARDIA EN ESA LUCHA! </strong>
+
+:heart:
+
+
+</center>
 
 
 El Vanguardiano<br>
