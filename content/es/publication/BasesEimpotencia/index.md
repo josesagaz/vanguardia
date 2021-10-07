@@ -1,7 +1,7 @@
 ---
 title: 'Bases e impotencia'
 author: Gabo_Campero_Nava
-date: '2021-09-20'
+date: '2021-10-07'
 featured: false
 image:
   caption: 'Fuente imagen: '
@@ -46,6 +46,8 @@ preguntó a estos compañeros e intelectuales de izquierda... ¿ qué esperaban?
 **"ACÁ USTEDES SIGUEN SIENDO NUESTROS PEONES Y ACÁ SOLO HABLA EL PATRÓN."**
 
 Nuestra historia y vivencia nos enseña que cuando un pueblo se cansa empieza a tomar acciones radicales, por ello cuando en un barrio se suscitan robos seguidos, los vecinos se organizan y sacan un muñeco señalando **"ladrón pillado, ladrón colgado"**, eso pasó, no otra cosa y es de ingenuos pensar que la justicia puede ser **"imparcial"** cuando no sanciona por evasión de impuestos, sedición y por actos contrarios a la constitución a [#Camacho](#Camacho), la justicia solo ve su conveniencia económica, tenemos los ejemplos claros de lo suscitado con Manfred, Mesa, Tuto, Camacho y ahora queremos creer de que al dejarlo declarar en #LaPaz causaría alguna diferencia en tema de justicia... NO, eso no va pasar y es ingenuo pensar en esa posibilidad, por ello ante la inoperancia en el ámbito judicial las bases en su impotencia hicieron clamor de su sentir ... sentir que solo es el resultado de mellacion realizada por este personaje que representa el neo nazismo en Bolivia.
+
+![](1.jpeg)
 
 **"Quién siembra vientos cosecha tempestades"** dice el refrán, [#Camacho](#Camacho) solo cosecha lo que sembró: odio, racismo, separatismo, abuso de poder, sedición. 
 
