@@ -19,7 +19,7 @@ publication_types:
 publication: ''
 publication_short: ''
 abstract: ''
-summary: 'Falta poco para cumplir 1 año de gestión de gobierno con el MAS IPSP y nuestros hermanos Lucho y David, con satisfacción de tener una primera gestión exitosa'
+summary: 'Falta poco para cumplir 1 año de gestión de gobierno con el **MAS IPSP** y nuestros hermanos Lucho y David, con satisfacción de tener una primera gestión exitosa'
 featured: yes
 url_pdf: ''
 url_code: ~
@@ -37,7 +37,7 @@ projects: []
 slides: ''
 ---
 
-Falta poco para cumplir 1 año de gestión de gobierno con el MAS IPSP y nuestros hermanos Lucho y David, con satisfacción de tener una primera gestión exitosa, ratificada por los excelentes resultados en cuanto a crecimiento económico, descenso del desempleo y todo gracias a las medidas optadas para la reactivación económica, por cuanto podemos confirmar que *"técnicamente"* ha sido un éxito.
+Falta poco para cumplir 1 año de gestión de gobierno con el **MAS IPSP** y nuestros hermanos Lucho y David, con satisfacción de tener una primera gestión exitosa, ratificada por los excelentes resultados en cuanto a crecimiento económico, descenso del desempleo y todo gracias a las medidas optadas para la reactivación económica, por cuanto podemos confirmar que *"técnicamente"* ha sido un éxito.
 
 Pero existe preocupación latente, que es la misma desde el año 2005 hasta el golpe en el 2019 y es la poca o nula ideologización o formación política dentro de nuestras instituciones estatales, seguramente muchos se rasgaran las vestiduras señalando que es un pecado hacer política en la función pública; cosa completamente falsa, partiendo del hecho que todos votamos por un partido político y por una ideología política, por tanto nuestros servidores públicos deben representar a ese partido político y su ideología. Lamentablemente esto no es del todo así, ya que aún se detectan personas infiltradas en algunas instituciones y también existen casos muy descarados que mantienen a golpistas en las instituciones estatales.
 
