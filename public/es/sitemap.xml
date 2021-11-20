@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lavanguardia.netlify.app/publication-type/0/</loc>
-    <lastmod>2021-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
-    <lastmod>2021-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/authors/</loc>
-    <lastmod>2021-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -22,7 +22,7 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/categories/</loc>
-    <lastmod>2021-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,14 +34,14 @@
                 href="https://lavanguardia.netlify.app/categories/"
                 />
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/el-camba-no-es-flojo/</loc>
-    <lastmod>2021-11-13T00:00:00+00:00</lastmod>
+    <loc>https://lavanguardia.netlify.app/publication/cerco-mediatico/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/author/gabo_campero_nava/</loc>
-    <lastmod>2021-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/</loc>
-    <lastmod>2021-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +54,7 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication_types/</loc>
-    <lastmod>2021-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,6 +67,9 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/publication/el-camba-no-es-flojo/</loc>
     <lastmod>2021-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/author/el_vanguardiano/</loc>
