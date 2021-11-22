@@ -1,7 +1,7 @@
 ---
 
 title: 'PRADA, LA MINISTRA QUE ENFRENTA AL MACHISMO CRUCEÑO'
-author: Gabo_Campero_Nava
+author: Las WARmis
 date: '2021-11-21'
 featured: false
 image:
@@ -11,7 +11,7 @@ categories:
   - articulos
 tags: []
 authors:
-- Gabo_Campero_Nava
+- Las_WARmis
 lastmod: '2021-11-21'
 doi: ''
 publishDate: '2021-11-21'
