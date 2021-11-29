@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lavanguardia.netlify.app/publication-type/0/</loc>
-    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
-    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/authors/</loc>
-    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -22,7 +22,7 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/categories/</loc>
-    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,8 +34,11 @@
                 href="https://lavanguardia.netlify.app/categories/"
                 />
   </url><url>
+    <loc>https://lavanguardia.netlify.app/author/el_vanguardiano/</loc>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/</loc>
-    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,14 +50,11 @@
                 href="https://lavanguardia.netlify.app/"
                 />
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/las_warmis/</loc>
-    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/prada-la-ministra/</loc>
-    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+    <loc>https://lavanguardia.netlify.app/publication/marcha-por-la-patria/</loc>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication_types/</loc>
-    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,6 +67,12 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/</loc>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/author/las_warmis/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/publication/prada-la-ministra/</loc>
     <lastmod>2021-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/cerco-mediatico/</loc>
@@ -77,9 +83,6 @@
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/el-camba-no-es-flojo/</loc>
     <lastmod>2021-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lavanguardia.netlify.app/author/el_vanguardiano/</loc>
-    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/alerta-la-derecha/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
@@ -358,7 +361,5 @@
     <loc>https://lavanguardia.netlify.app/author/</loc>
   </url><url>
     <loc>https://lavanguardia.netlify.app/courses/</loc>
-  </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/marcha-por-la-patria/</loc>
   </url>
 </urlset>

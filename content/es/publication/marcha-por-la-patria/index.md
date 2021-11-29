@@ -1,7 +1,7 @@
 ---
-title: '¡Alerta! ¡La derecha no pasará! ¡Los golpistas no volverán!'
+title: 'La “Marcha por la Patria”: Inédita, masiva y precisa para defender la democracia boliviana'
 author: El_Vanguardiano
-date: '2021-29-11'
+date: '2021-11-29'
 featured: false
 image:
   caption: 'Fuente imagen: '
@@ -11,15 +11,15 @@ categories:
 tags: []
 authors:
 - El_Vanguardiano
-lastmod: '2021-29-11'
+lastmod: '2021-11-29'
 doi: ''
-publishDate: '2021-29-11'
+publishDate: '2021-11-29'
 publication_types:
   - '0'
 publication: ''
 publication_short: ''
 abstract: ''
-summary: 'El liderazgo de la lucha debe reactivarse y la fuerza de nuestras voces debe unirse nuevamente en el actual contexto para exclamar en el unísono ¡Alerta!'
+summary: 'Desde hace más de 30 años, el pueblo boliviano --en su mayoría la clase media baja e indígenas- realizó diferentes manifestaciones pacíficas y masivas para hacer valer sus derechos'
 featured: yes
 url_pdf: ''
 url_code: ~
@@ -37,7 +37,7 @@ projects: []
 slides: ''
 ---
 
-Desde hace más de 30 años, el pueblo boliviano -en su mayoría la clase media baja e indígenas- realizó diferentes manifestaciones pacíficas y masivas para hacer valer sus derechos frente a intereses de grupos extremos, racistas y hasta fascistas, con un interesante mecanismo que siempre tuvo el respaldo, la solidaridad y el apoyo humanitario del conjunto del pueblo boliviano, como es la marcha o caminada de largos recorridos para reclamar u exigir respeto.
+Desde hace más de 30 años, el pueblo boliviano --en su mayoría la clase media baja e indígenas- realizó diferentes manifestaciones pacíficas y masivas para hacer valer sus derechos frente a intereses de grupos extremos, racistas y hasta fascistas, con un interesante mecanismo que siempre tuvo el respaldo, la solidaridad y el apoyo humanitario del conjunto del pueblo boliviano, como es la marcha o caminada de largos recorridos para reclamar u exigir respeto.
 
 Al igual que importantes marchas realizadas en la historia del país, como la “Marcha por la Vida” (1986) y la “Marcha por la Vida y Soberanía” (1995), que marcaron puntos de inflexión en la historia de nuestro país y lograron recoger las voces de los sectores oprimidos en la época de la República, administrada en su mayoría por gobiernos de la derecha que se dedicaron a vender el país, ahora se presenta la “Marcha por la Patria” que inició en la localidad de Caracollo-Oruro hace más de una semana con dirección a la ciudad de La Paz, sede de Gobierno.
 
