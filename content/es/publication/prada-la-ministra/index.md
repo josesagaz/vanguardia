@@ -80,6 +80,5 @@ Lo que ellos no saben es que mientras más la ataquen, más crece su rebeldía, 
 
 Lo que ellos no sospechan es que esa cruceña ha llegado donde está para marcar un antes y un después en el imaginario de las mujeres de Santa Cruz, todas ellas, la quieran o no, reconocen en su acción una manera distinta de ser cruceña, una manera auténtica, una manera valiente, que no necesita ser válida por los del Comité Cívico pro Santa Cruz, ni por los de la Frater, ni por los políticos, ni por los farunduleros, ni por nadie que no sean ellas mismas. Y ese es el legado que está dejando María Nela. 
 
-
 <u>*Las **WAR**mis.*</u>
 
