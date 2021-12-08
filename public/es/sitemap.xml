@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lavanguardia.netlify.app/publication/valverde/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lavanguardia.netlify.app/publication-type/0/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/author/ariel_percy_molina_pimentel_el_molinario/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
@@ -116,9 +122,6 @@
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/wiphala-se-respeta/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lavanguardia.netlify.app/author/ariel_percy_molina_pimentel_el_molinario/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/los-menos/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
