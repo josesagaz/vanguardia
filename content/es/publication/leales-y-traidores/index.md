@@ -19,7 +19,8 @@ publication_types:
 publication: ''
 publication_short: ''
 abstract: ''
-summary: 'Con mucha alegría observaba la cumbre del ALBA que se lleva adelante en la hermana república de Cuba, evento que para la derecha y las elites pasa desapercibido'
+summary: 'Durante meses la oposición ha intentado posicionar en el imaginario colectivo la idea de fractura dentro del instrumento político **MAS IPSP**, sin mucho éxito'
+
 featured: yes
 url_pdf: ''
 url_code: ~
