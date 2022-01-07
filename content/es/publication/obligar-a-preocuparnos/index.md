@@ -5,7 +5,7 @@ date: '2022-01-06'
 featured: false
 image:
   caption: 'Fuente imagen: '
-slug: vacunas-vs-mitos
+slug: obligar-a-preocuparnos
 categories:
   - articulos
 tags: []
