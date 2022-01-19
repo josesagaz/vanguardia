@@ -1,6 +1,6 @@
 ---
 title: 'Las “Cajas” y la frustración de los asegurados'
-author: Gabo_Campero_Nava
+author: Melissa_Bress
 date: '2022-01-19'
 featured: false
 image:
@@ -10,7 +10,7 @@ categories:
   - articulos
 tags: []
 authors:
-- Gabo_Campero_Nava
+- Melissa_Bress
 lastmod: '2022-01-19'
 doi: ''
 publishDate: '2022-01-19'
@@ -52,6 +52,4 @@ Las enfermedades infecciosas seguirán surgiendo y continuaran siendo una alarma
 
 Es momento de cumplir y hacer cumplir las políticas de salud a través de una protección integral de los asegurados en esta emergencia sanitaria. Para esto es necesario realizar la identificación temprana de casos, diagnóstico y manejo adecuado, contención de brotes, reorganización de servicios de salud, promover la salud mental y física del personal de salud y utilización eficiente de recursos.
 
-Gabo Campero Nava<br>
-Miembro del Colectivo **“*La Vanguardia*”**<br>
-Militante del **MAS** y del **Proceso de cambio**.<br>
+Por: Melissa Bress
