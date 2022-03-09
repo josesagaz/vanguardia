@@ -38,7 +38,6 @@ projects: []
 slides: ''
 ---
 
-
 El oficio de la memoria es algo que debemos trabajar mucho como país puesto que es una de nuestras debilidades en años de gobierno con el proceso de cambio, en tiempos de pos verdad es una necesidad de retroalimentarnos constantemente para que no tengamos un nuevo golpe de estado como en el 2019.
 
 Por eso debemos pensar en mantener viva la indignación, como bien señalaba Frei Betto, que quiere decir esto, es ejercer constantemente de la memoria histórica y ver nuestra realidad actual.
@@ -52,7 +51,6 @@ Otro caso es Cochabamba, se tiene de alcalde a un personaje aliado a uno de los 
 Por último, tenemos a la Gobernación de Santa Cruz que tiene de autoridad a un hijo de un paramilitar, evasor de impuestos en paraísos fiscales y que está a un paso de entrar en el saco más grande corrupción que existió hasta la fecha con los casos de ítems fantasmas que se descubrieron en la alcaldía de Santa Cruz con el aval de las logias, a las cuales este pequeño señor pertenece.
 
 Debemos mantener la indignación y nuestra memoria histórica, es un deber revolucionario realizar esta labor día a día hay que trabajar en la formación política de cuadros para que cuando lleguemos a elecciones no exista dudas de a quien debemos apoyar, un futuro con transparencia y a la izquierda o la derecha neoliberal corrupta de siempre.
-
 
 Gabo Campero Nava<br>
 Miembro del Colectivo **“*La Vanguardia*”**<br>
