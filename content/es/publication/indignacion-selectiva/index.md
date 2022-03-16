@@ -19,7 +19,7 @@ publication_types:
 publication: ''
 publication_short: ''
 abstract: ''
-summary: 'Es necesario que se haga un análisis después de que en el año 2020 con la dictadura de Añez se suspendieran las clases presenciales...'
+summary: 'Han sido varios días con diversas manifestaciones y de diversos temas, los cuales han denotado la “*selectividad*” en cuanto a la persona agredidas'
 
 featured: yes
 url_pdf: ''
