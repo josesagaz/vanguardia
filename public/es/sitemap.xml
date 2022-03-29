@@ -3,16 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lavanguardia.netlify.app/publication-type/0/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lavanguardia.netlify.app/author/ariel_percy_molina_pimentel_el_molinario/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/authors/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,7 +22,7 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/categories/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,16 +35,13 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/desclasamiento/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/el-chivo-expiatorio/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/author/gabo_campero_nava/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,11 +53,8 @@
                 href="https://lavanguardia.netlify.app/"
                 />
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/los-hombres-mueren/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lavanguardia.netlify.app/publication_types/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -76,6 +67,15 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/author/ariel_percy_molina_pimentel_el_molinario/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/publication/el-chivo-expiatorio/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/publication/los-hombres-mueren/</loc>
     <lastmod>2022-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/indignacion-selectiva/</loc>

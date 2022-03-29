@@ -1,7 +1,7 @@
 ---
 title: 'Desclasamiento y cinco siglos igual'
 author: Gabo_Campero_Nava
-date: '2022-03-23'
+date: '2022-03-29'
 featured: false
 image:
   caption: 'Fuente imagen: '
@@ -11,9 +11,9 @@ categories:
 tags: []
 authors:
 - Gabo_Campero_Nava
-lastmod: '2022-03-23'
+lastmod: '2022-03-29'
 doi: ''
-publishDate: '2022-03-23'
+publishDate: '2022-03-29'
 publication_types:
   - '0'
 publication: ''
