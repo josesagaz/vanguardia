@@ -9173,4 +9173,11 @@ html[dir="rtl"] body {
 footer p {
   font-size: 0.75rem;
   text-align: center;
-  background: #283036; }
+  background: #282a36;
+  border-top: 1px solid maroon;
+  padding-top: 1rem; }
+
+footer {
+  margin: 0 0 0;
+  padding: 0;
+  width: 100%; }
