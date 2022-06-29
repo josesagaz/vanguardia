@@ -5,7 +5,7 @@ date: '2022-06-29'
 featured: false
 image:
   caption: 'Fuente imagen: '
-slug: cumbre-de-las-americas
+slug: mas-voceros-urgente
 categories:
   - articulos
 tags: []
