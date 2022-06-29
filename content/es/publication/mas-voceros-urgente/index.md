@@ -19,7 +19,7 @@ publication_types:
 publication: ''
 publication_short: ''
 abstract: ''
-summary: 'la hegemonía del país del Norte está en declive (efectivamente tiene aún una gran influencia, pero no es lo que era antes) '
+summary: ''
 
 featured: yes
 url_pdf: ''
