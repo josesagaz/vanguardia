@@ -1,7 +1,7 @@
 ---
 title: 'La Plutocracia— el verdadero modelo ecónomico de los civicos cruceños'
 author: Gabo_Campero_Nava
-date: '2022-07-13'
+date: '2022-11-03'
 featured: false
 image:
   caption: 'Fuente imagen: '
@@ -11,9 +11,9 @@ categories:
 tags: []
 authors:
 - Gabo_Campero_Nava
-lastmod: '2022-07-13'
+lastmod: '2022-11-03'
 doi: ''
-publishDate: '2022-07-13'
+publishDate: '2022-11-03'
 publication_types:
   - '0'
 publication: ''

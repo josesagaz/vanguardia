@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lavanguardia.netlify.app/publication-type/0/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/authors/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -22,7 +22,7 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/categories/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,16 +35,13 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/author/gabo_campero_nava/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/guerras-crisis-energia/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/plutocracia/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -57,7 +54,7 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication_types/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -70,6 +67,9 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/publication/guerras-crisis-energia/</loc>
     <lastmod>2022-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/mas-voceros-urgente/</loc>
