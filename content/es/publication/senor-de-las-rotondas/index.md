@@ -1,6 +1,6 @@
 ---
 title: 'El señor de las rotondas'
-author: Gabo_Campero_Nava
+author: Hernan_Cabrera
 date: '2022-11-24'
 featured: false
 image:
