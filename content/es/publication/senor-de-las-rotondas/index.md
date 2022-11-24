@@ -10,7 +10,7 @@ categories:
   - articulos
 tags: []
 authors:
-- Gabo_Campero_Nava
+- Hernan_Cabrera
 lastmod: '2022-11-24'
 doi: ''
 publishDate: '2022-11-24'
