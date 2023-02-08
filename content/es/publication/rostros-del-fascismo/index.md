@@ -19,7 +19,7 @@ publication_types:
 publication: ''
 publication_short: ''
 abstract: ''
-summary: 'desde hace años, con la gran cantidad de Gobiernos de izquierda que tomaron el poder en América Latina, la derecha y los bloques reaccionarios han visto al necesidad de reinventarse'
+summary: ''
 
 featured: yes
 url_pdf: ''
