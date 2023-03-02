@@ -3,13 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lavanguardia.netlify.app/publication-type/0/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/author/adolfo_mena_gonzales/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/authors/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -22,7 +25,7 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/categories/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,7 +38,7 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,11 +50,11 @@
                 href="https://lavanguardia.netlify.app/"
                 />
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/oscar_alfaro_shady/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
+    <loc>https://lavanguardia.netlify.app/publication/lecciones-y-mentiras/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication_types/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,13 +67,13 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/author/oscar_alfaro_shady/</loc>
     <lastmod>2023-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/sobre-reporte-facebook/</loc>
     <lastmod>2023-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lavanguardia.netlify.app/author/adolfo_mena_gonzales/</loc>
-    <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/el-enemigo-es-otro/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
@@ -252,10 +255,10 @@
     <loc>https://lavanguardia.netlify.app/publication/mayoria-y-ley/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/recuperar-nuestros-simbolos/</loc>
+    <loc>https://lavanguardia.netlify.app/publication/wiphala-se-respeta/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/wiphala-se-respeta/</loc>
+    <loc>https://lavanguardia.netlify.app/publication/recuperar-nuestros-simbolos/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/los-menos/</loc>
@@ -291,10 +294,10 @@
     <loc>https://lavanguardia.netlify.app/author/erick_gonzalo_flores_zenteno/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/author/maria_eugenia_martinez/</loc>
+    <loc>https://lavanguardia.netlify.app/publication/la-estrategia-le-funciono/</loc>
     <lastmod>2021-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/la-estrategia-le-funciono/</loc>
+    <loc>https://lavanguardia.netlify.app/author/maria_eugenia_martinez/</loc>
     <lastmod>2021-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/masacre-de-san-juan/</loc>
