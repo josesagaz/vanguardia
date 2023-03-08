@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lavanguardia.netlify.app/publication-type/0/</loc>
-    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/author/adolfo_mena_gonzales/</loc>
-    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/category/articulos/</loc>
-    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/authors/</loc>
-    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,7 +25,7 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/categories/</loc>
-    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,7 +38,7 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/</loc>
-    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -50,11 +50,8 @@
                 href="https://lavanguardia.netlify.app/"
                 />
   </url><url>
-    <loc>https://lavanguardia.netlify.app/publication/lecciones-y-mentiras/</loc>
-    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lavanguardia.netlify.app/publication_types/</loc>
-    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,6 +64,12 @@
                 />
   </url><url>
     <loc>https://lavanguardia.netlify.app/publication/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/publication/rol-historico/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lavanguardia.netlify.app/publication/lecciones-y-mentiras/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lavanguardia.netlify.app/author/oscar_alfaro_shady/</loc>
